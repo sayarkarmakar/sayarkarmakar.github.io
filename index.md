@@ -1,6 +1,6 @@
 ---
 layout: frontpage
-title: Soudeep Deb
+title: Sayar Karmakar
 description: Soudeep is a Ph.D. candidate at the Department of Statistics, University of Chicago. 
 keywords: deb, time series, spatio-temporal modeling, spatial data, soccer analytics.
 ---
@@ -22,12 +22,12 @@ keywords: deb, time series, spatio-temporal modeling, spatial data, soccer analy
 </td>
 &nbsp; &nbsp; 
 <td class="left">
-<br><b> Soudeep Deb </b>
+<br><b> Sayar Karmakar </b>
 <br> Ph.D. Candidate
 <br> Department of Statistics
 <br> University of Chicago
 <br>
-<br> <b> Research Interest </b>: Time series data, Spatio-temporal modeling, 
+<br> <b> Research Interest </b>: Time series analysis, 
 <br> Spatial statistics, Inference for random processes, 
 <br> Application of statistics in sports.
 </td>
