@@ -18,7 +18,7 @@ keywords: deb, time series, spatio-temporal modeling, spatial data, soccer analy
 <table class="wide">
 <tr>
 <td class="left">
-    <img id="frontphoto" src="sayarpic3.png" width="300" height="300" alt="" />
+    <img id="frontphoto" src="soudeep.png" width="300" height="300" alt="" />
 </td>
 &nbsp; &nbsp; 
 <td class="left">
