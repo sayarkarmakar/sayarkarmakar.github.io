@@ -8,15 +8,15 @@ highlighter: rouge
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : Soudeep Deb
+title : Sayar Karmakar
 author :
   name : Soudeep Deb
-  email : sdeb@uchicago.edu
-  github : soudeepd
-  twitter : soudeepdeb
+  email : sayarkarmakar@uchicago.edu
+  github : sayarkarmakar
+  twitter : sayarkarmakar
   feedburner : nil
 
-production_url : http://soudeepd.github.io/test
+production_url : http://sayarkarmakar.github.io
 
 # Tell Github to use the kramdown markdown interpreter
 # (see https://help.github.com/articles/migrating-your-pages-site-from-maruku)
