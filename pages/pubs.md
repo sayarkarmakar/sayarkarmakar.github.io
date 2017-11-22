@@ -16,7 +16,7 @@ description: Soudeep Deb's publications
 
 ### <a name="articles"></a>Journal articles
 
-**Deb, S.**, Tsay, R. S.; Spatio-temporal Models with Space-time Interaction and Their Applications to Air Pollution Data; In preparation. 
+**Deb, S.**, Tsay, R. S.; Spatio-temporal Models with Space-time Interaction and Their Applications to Air Pollution Data; In preparation. [Paper](../publications/sayar1.pdf) 
 
 **Deb, S.**, Wu, W. B.; Clustering of Time Series Data using Spectral Density Estimates; In preparation.
 
