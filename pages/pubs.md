@@ -16,7 +16,7 @@ description: Sayar Karmakar's publications
 
 ### <a name="articles"></a>Journal articles
 
-**Karmakar, S.**, Richter, S., Wu, W. B.; Bahadur Representation and simultaneous inference for curve estimation in time-varying mdoels; Under revision in Annals of Statistics. [Paper](../publications/sayar1.pdf) 
+**Karmakar, S.**, Richter, S., Wu, W. B.; Bahadur Representation and simultaneous inference for curve estimation in time-varying models; Under revision in Annals of Statistics. [Paper](../publications/sayar1.pdf) 
 
 **Karmakar, S.**, Wu, W. B.; Optimal Gaussian Approximation of multiple time series under dependence; Under revision in Statistica Sinica. [Paper](../publications/sayar2.pdf) 
 
