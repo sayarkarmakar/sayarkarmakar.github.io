@@ -31,7 +31,7 @@ Chudy, M., **Karmakar S.**, Wu, W. B.; Long-term Prediction Intervals of economi
 **Karmakar, S.**, Wu, W. B.,; Gaussian Multiplier Bootstrap, In preparation. [Manuscript](../publications/sayar7.pdf)
 
 **Karmakar, S.**, Basu, A., Disparity-based Robust Tests for Two Normal
-Populations; , [Paper](../publications/sayarrobust.pdf) 
+Populations; Completed, [Paper](../publications/sayarrobust.pdf) 
 
 
 
