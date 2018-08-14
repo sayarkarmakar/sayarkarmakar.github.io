@@ -28,7 +28,7 @@ keywords: time series, time-series data analysis, high-dimensional data.
 <br> University of Chicago
 <br>
 <br> <b> Research Interest </b>: Time series analysis, Non-parametric statistics,
-<br> High Dimensional Statistics, M-estimation, 
+<br> High-Dimensional Statistics, M-estimation, 
 <br> Financial data analysis, Probability
 </td>
 </tr>
