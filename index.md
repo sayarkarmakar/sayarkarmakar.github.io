@@ -1,7 +1,7 @@
 ---
 layout: frontpage
 title: Sayar Karmakar
-description: Sayar is a Ph.D. candidate at the Department of Statistics, University of Chicago. 
+description: I was a Ph.D. candidate at the Department of Statistics, University of Chicago. 
 keywords: time series, time-series data analysis, high-dimensional data.
 ---
 
