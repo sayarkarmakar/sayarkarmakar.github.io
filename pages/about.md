@@ -4,7 +4,7 @@ title: about
 description: Sayar Karmakar is graduate stdudent in Department of Statistics at University of Wisconsin - Madison; research in time-series analysis
 ---
 
-I am a Ph.D. candidate in the
+I was a Ph.D. candidate in the
 [Department of Statistics](http://www.galton.uchicago.edu)
 at the University of Chicago. My primary research interests lie in developing novel methods realted to dependent data. Time-varying model analysis in different contexts and strong Gaussian approximations are the two main themes of my dissertation until now. Recently I am focusing on the little studied topic of weak dependence in High-dimensional statistics mostly from the perspective of prediction in different contexts. 
 
