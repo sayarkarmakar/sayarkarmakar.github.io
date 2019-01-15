@@ -19,7 +19,7 @@ description: Sayar Karmakar's publications
 
 **Karmakar, S.**, Richter, S., Wu, W. B.; Bahadur Representation and simultaneous inference for curve estimation in time-varying models; submitted. [Paper](../publications/sayar1.pdf) 
 
-Chudy, M., **Karmakar S.**, Wu, W. B.; Long-term Prediction Intervals of economic time-series;  submitted. [Paper](../publications/sayar3.pdf) 
+Chudy, M., **Karmakar S.**, Wu, W. B.; Long-term Prediction Intervals of economic time-series;  Minor revision in Empirical Economics [Paper](../publications/sayar3.pdf) 
 
 **Karmakar, S.**, Chudy, M., Wu, W. B.; Prediction intervals in high-dimensional regression; Completed. [Paper](../publications/sayar4.pdf)
 
@@ -31,6 +31,16 @@ Chudy, M., **Karmakar S.**, Wu, W. B.; Long-term Prediction Intervals of economi
 
 **Karmakar, S.**, Basu, A., Disparity-based Robust Tests for Two Normal
 Populations; Completed, [Paper](../publications/sayarrobust.pdf) 
+
+**Karmakar, S.**, Ghosh, A.; A uniform framework for robust estimation of time-series classes, In preparation. 
+
+**Karmakar, S.**, Chatterjee, S. , Narisetty, N. N.;  Risk bounds for isotonic quantile regression, , In preparation. 
+
+**Karmakar, S.**;  Risk bounds for shape-restricted inference under temporal and spatial dependence , In preparation. 
+
+**Karmakar, S.**, Banerjee, S.; Sequential confidence intervals for linear time-series, In preparation. 
+
+**Karmakar, S.**, Sen, B; Multiscale statistics beyond gaussianity and independence, In preparation. 
 
 
 
