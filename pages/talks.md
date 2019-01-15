@@ -1,17 +1,28 @@
 ---
 layout: page
-title: talks
+title: Talks/Presentations
 description: Sayar Karmakar's talks
 ---
 
+###  2019
+
+UCF, Feb 8, Invited talk in ASA Fl chapter meeting: Simultaneous inference for cyclo-stationary processes.
 
 ###  2018
 
-ISI (Upcoming) Feb: Gaussian approximation and its applications
+Calcutta triennial symposium, Dec 28, Simultaneous inference in time-varying models
+
+CFE/CMStatistics, Dec 16, Invited talk: Simultaneous inference in time-varying models.
+
+UCSD, Sep 7, Poster: NBER-NSF time-series conference (peer reviewd acceptance) Simultaneous inference in time-varying models
+
+UFL, May 17, Poster: Optimal Gaussian approximation (Best poster winner)
+
+ISI, Mar 20, Invited talk: Simultaneous inference in time-varying models
 
 ###  2017
 
-UIC, Oct 25 Invited talk: Simultaneous inference in time-varying models
+UIC, Oct 25, Invited talk: Simultaneous inference in time-varying models
 
 ###  2013 
 
