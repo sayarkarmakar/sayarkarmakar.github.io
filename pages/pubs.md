@@ -22,7 +22,7 @@ description: Sayar Karmakar's publications
 
 Chudy, M., **Karmakar S.**, Wu, W. B.; Long-term Prediction Intervals of economic time-series; Revised for Empirical Economics [Old Version](../publications/sayar3.pdf) 
 
-**Karmakar, S.**, Chudy, M., Wu, W. B.; Prediction intervals in high-dimensional regression; Completed. [Old Version](../publications/sayar4.pdf)
+**Karmakar, S.**, Chudy, M., Wu, W. B.; Prediction intervals in high-dimensional regression; Submitted. [Old Version](../publications/sayar4.pdf)
 
 **Karmakar, S.**, Cheng, M., Wu, W. B.; Change-point detection and Synchronization for multiple time series, In preparation. [Manuscript](../publications/sayar5.pdf)
 
