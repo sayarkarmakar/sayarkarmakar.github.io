@@ -16,15 +16,15 @@ description: Sayar Karmakar's publications
 
 ### <a name="articles"></a>Journal articles
 
-**Karmakar, S.**, Richter, S., Wu, W. B.; Bahadur Representation and simultaneous inference for curve estimation in time-varying models; submitted. [Paper](../publications/sayar1.pdf) 
+**Karmakar, S.**, Richter, S., Wu, W. B.; Simultaneous inference for curve estimation in time-varying models; submitted. [Old Version](../publications/sayar1.pdf) 
 
 **Karmakar, S.**, Wu, W. B.; Optimal Gaussian Approximation of multiple time series under dependence; Accepted in Statistica Sinica. [Paper](../publications/sayar2.pdf) 
 
-Chudy, M., **Karmakar S.**, Wu, W. B.; Long-term Prediction Intervals of economic time-series;  Minor Revision in Empirical Economics [Paper](../publications/sayar3.pdf) 
+Chudy, M., **Karmakar S.**, Wu, W. B.; Long-term Prediction Intervals of economic time-series; Revised for Empirical Economics [Old Version](../publications/sayar3.pdf) 
 
-**Karmakar, S.**, Chudy, M., Wu, W. B.; Prediction intervals in high-dimensional regression; Completed. [Paper](../publications/sayar4.pdf)
+**Karmakar, S.**, Chudy, M., Wu, W. B.; Prediction intervals in high-dimensional regression; Completed. [Old Version](../publications/sayar4.pdf)
 
-**Karmakar, S.**, Cheng, M., Wu, W. B.; Detection and Synchronization for multiple time series, In preparation. [Manuscript](../publications/sayar5.pdf)
+**Karmakar, S.**, Cheng, M., Wu, W. B.; Change-point detection and Synchronization for multiple time series, In preparation. [Manuscript](../publications/sayar5.pdf)
 
 **Karmakar, S.**, Wu, W. B.,; Asymptotic theory for time-series with cyclic and trend components, In preparation. [Manuscript](../publications/sayar6.pdf)
 

@@ -5,14 +5,19 @@ description: Sayar Karmakar's talks
 ---
 
 ###  2019
+CFE/CMStatistics, London, Dec, Invited talk: Post-regularized predictions for high-dimensional VAR models
 
-UCF, Feb 8, Invited talk in ASA Fl chapter meeting: Simultaneous inference for cyclo-stationary processes.
+JSM, Colorado, August, Contributed talk (pending acceptance) Comprehensive simultaneous inference for multiple trend-seasonal models.
+
+EcoSta, Taichung, June, Invited talk: Prediction interval for high-dimensional regression
+
+UCF, Feb 8, Invited talk in ASA Fl chapter meeting: Prediction interval for high-dimensional regression
 
 ###  2018
 
 Calcutta triennial symposium, Dec 28, Simultaneous inference in time-varying models
 
-CFE/CMStatistics, Dec 16, Invited talk: Simultaneous inference in time-varying models.
+CFE/CMStatistics, Pisa, Dec 16, Invited talk: Simultaneous inference in time-varying models.
 
 UCSD, Sep 7, Poster: NBER-NSF time-series conference (peer reviewd acceptance) Simultaneous inference in time-varying models
 
