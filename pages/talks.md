@@ -5,11 +5,15 @@ description: Sayar Karmakar's talks
 ---
 
 ###  2019
+IISA, IIT Mumbai, Dec 26-30: Invited talk: TBA. 
+
 CFE/CMStatistics, London, Dec, Invited talk: Post-regularized predictions for high-dimensional VAR models
 
 JSM, Colorado, August, Contributed talk (pending acceptance) Comprehensive simultaneous inference for multiple trend-seasonal models.
 
 EcoSta, Taichung, June, Invited talk: Prediction interval for high-dimensional regression
+
+ISF, Thessaloniki, June 15-19: Contributed talk (peer-reviewd) Prediction interval for high-dimensional regression
 
 UCF, Feb 8, Invited talk in ASA Fl chapter meeting: Prediction interval for high-dimensional regression
 
