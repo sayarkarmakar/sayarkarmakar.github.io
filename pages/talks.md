@@ -25,7 +25,7 @@ CFE/CMStatistics, Pisa, Dec 16, Invited talk: Simultaneous inference in time-var
 
 UCSD, Sep 7, Poster: NBER-NSF time-series conference (peer reviewd acceptance) Simultaneous inference in time-varying models
 
-UFL, May 17, Poster: Optimal Gaussian approximation (Best poster winner)
+IISA, UFL, May 17, Poster: Optimal Gaussian approximation (Best poster winner)
 
 ISI, Mar 20, Invited talk: Simultaneous inference in time-varying models
 
