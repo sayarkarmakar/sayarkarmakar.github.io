@@ -18,18 +18,18 @@ keywords: time series, time-series data analysis, high-dimensional data.
 <table class="wide">
 <tr>
 <td class="left">
-    <img id="frontphoto" src="sayarpic3.jpg" width="300" height="300" alt="" />
+    <img id="frontphoto" src="sayarpicnew.jpeg" width="300" height="300" alt="" />
 </td>
 &nbsp; &nbsp; 
 <td class="left">
 <br><b> Sayar Karmakar </b>
-<br> Ph.D. Candidate
+<br> Assistant Professor
 <br> Department of Statistics
-<br> University of Chicago
+<br> University of Florida
 <br>
 <br> <b> Research Interest </b>: Time series analysis, Non-parametric statistics,
 <br> High-Dimensional Statistics, M-estimation, 
-<br> Financial data analysis, Probability
+<br> Financial data analysis, Forecasting, VAR models, Network analysis, Scan statistics, Change-point, Probability, Robust Statistics
 </td>
 </tr>
 </table>
