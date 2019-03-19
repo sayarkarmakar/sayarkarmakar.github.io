@@ -17,12 +17,13 @@ description: Sayar Karmakar's publications
 ### <a name="articles"></a>Journal articles
 **Karmakar, S.**, Wu, W. B.; Optimal Gaussian Approximation of multiple time series under dependence; Accepted in Statistica Sinica. [Paper](../publications/sayar2.pdf) 
 
-Chudy, M., **Karmakar S.**, Wu, W. B.; Long-term Prediction Intervals of economic time-series; Accepted in Empirical Economics. [Old Version](../publications/sayar3.pdf) 
+Chudy, M., **Karmakar S.**, Wu, W. B.; Long-term Prediction Intervals of economic time-series; Accepted in Empirical Economics. [Paper](../publications/sayar3.pdf) 
 
 
-**Karmakar, S.**, Richter, S., Wu, W. B.; Simultaneous inference for curve estimation in time-varying models; submitted. [Old Version](../publications/sayar1.pdf) 
+**Karmakar, S.**, Richter, S., Wu, W. B.; Simultaneous inference for time-varying models; submitted. 
+[Paper](../publications/sayar1.pdf) 
 
-**Karmakar, S.**, Chudy, M., Wu, W. B.; Prediction intervals in high-dimensional regression; Submitted. Accepted for International Symposium of Forecasting. [Old Version](../publications/sayar4.pdf)
+**Karmakar, S.**, Chudy, M., Wu, W. B.; Prediction intervals in high-dimensional regression; Submitted. Accepted for International Symposium of Forecasting. [Paper](../publications/sayar4.pdf)
 
 
 **Karmakar, S.**, Cheng, M., Wu, W. B.; Change-point detection and Synchronization for multiple time series, In preparation. [Manuscript](../publications/sayar5.pdf)
