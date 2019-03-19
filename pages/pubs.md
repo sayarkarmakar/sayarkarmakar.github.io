@@ -20,7 +20,7 @@ description: Sayar Karmakar's publications
 Chudy, M., **Karmakar S.**, Wu, W. B.; Long-term Prediction Intervals of economic time-series; Accepted in Empirical Economics. [Paper](../publications/sayar3.pdf) 
 
 
-**Karmakar, S.**, Richter, S., Wu, W. B.; Simultaneous inference for time-varying models; submitted. 
+**Karmakar, S.**, Richter, S., Wu, W. B.; Simultaneous inference for time-varying models; Submitted. 
 [Paper](../publications/sayar1.pdf) 
 
 **Karmakar, S.**, Chudy, M., Wu, W. B.; Prediction intervals in high-dimensional regression; Submitted. Accepted for International Symposium of Forecasting. [Paper](../publications/sayar4.pdf)
