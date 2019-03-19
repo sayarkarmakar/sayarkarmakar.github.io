@@ -27,7 +27,7 @@ keywords: time series, time-series data analysis, high-dimensional data.
 <br> Department of Statistics
 <br> University of Florida
 <br>
-<br> <b> Research Interest </b>: Time series analysis, Non-parametric statistics,
+<br> <b> Research Interest </b>: Time series, Non-parametric statistics,
 <br> High-Dimensional Statistics, Econometrics, Forecasting
 <br> VAR models, Network analysis, Scan statistics, Change-point, Probability, Robust Statistics
 </td>
