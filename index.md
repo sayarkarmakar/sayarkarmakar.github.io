@@ -18,7 +18,7 @@ keywords: time series, time-series data analysis, high-dimensional data.
 <table class="wide">
 <tr>
 <td class="left">
-    <img id="frontphoto" src="sayarpicnew.jpeg" width="300" height="300" alt="" />
+    <img id="frontphoto" src="sayarpicnew.jpeg" width="400" height="400" alt="" />
 </td>
 &nbsp; &nbsp; 
 <td class="left">
@@ -28,8 +28,8 @@ keywords: time series, time-series data analysis, high-dimensional data.
 <br> University of Florida
 <br>
 <br> <b> Research Interest </b>: Time series analysis, Non-parametric statistics,
-<br> High-Dimensional Statistics, M-estimation, 
-<br> Financial data analysis, Forecasting, VAR models, Network analysis, Scan statistics, Change-point, Probability, Robust Statistics
+<br> High-Dimensional Statistics, Econometrics, Forecasting
+<br> VAR models, Network analysis, Scan statistics, Change-point, Probability, Robust Statistics
 </td>
 </tr>
 </table>
