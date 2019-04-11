@@ -9,7 +9,9 @@ IISA, IIT Mumbai, Dec 26-30: Invited talk: TBA.
 
 CFE/CMStatistics, London, Dec, Invited talk: Post-regularized predictions for high-dimensional VAR models
 
-JSM, Colorado, August, Contributed talk (pending acceptance) Comprehensive simultaneous inference for multiple trend-seasonal models.
+JSM, Colorado, August, Contributed talk Comprehensive simultaneous inference for multiple trend-seasonal models.
+
+New Researcher conference, Peer-reviewed acceptance: Post-regularized predictions for high-dimensional VAR models
 
 EcoSta, Taichung, June, Invited talk: Prediction interval for high-dimensional regression
 
