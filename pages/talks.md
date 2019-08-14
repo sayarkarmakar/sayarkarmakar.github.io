@@ -5,13 +5,17 @@ description: Sayar Karmakar's talks
 ---
 
 ###  2019
-IISA, IIT Mumbai, Dec 26-30: Invited talk: TBA. 
+IISA, IIT Mumbai, Dec 26-30: Invited talk: Post-regularized predictions for high-dimensional VAR models. 
 
-CFE/CMStatistics, London, Dec, Invited talk: Post-regularized predictions for high-dimensional VAR models
+CFE/CMStatistics, London, Dec 14-16:, Invited talk: Change point estimation for high-dimensional time series
+
+Michigan State University Seminar, Sept 17, Invited talk: TBA
 
 JSM, Colorado, August, Contributed talk Comprehensive simultaneous inference for multiple trend-seasonal models.
 
 New Researcher conference, Peer-reviewed acceptance: Post-regularized predictions for high-dimensional VAR models
+
+IIM Bangalore, July 12, Invited talk: Simultaneous inference on time-varying mdoels
 
 EcoSta, Taichung, June, Invited talk: Prediction interval for high-dimensional regression
 

@@ -20,7 +20,7 @@ description: Sayar Karmakar's publications
 Chudy, M., **Karmakar S.**, Wu, W. B.; Long-term Prediction Intervals of economic time-series; Accepted in Empirical Economics. [Paper](https://doi.org/10.1007/s00181-019-01689-2) 
 
 
-**Karmakar, S.**, Richter, S., Wu, W. B.; Simultaneous inference for time-varying models; Submitted. 
+**Karmakar, S.**, Richter, S., Wu, W. B.; Simultaneous inference for time-varying models; Revision requested by Journal of Econometrics. 
 [Paper](../publications/sayar1.pdf) 
 
 **Karmakar, S.**, Chudy, M., Wu, W. B.; Prediction intervals in high-dimensional regression; Submitted. Accepted for International Symposium of Forecasting. [Paper](../publications/sayar4.pdf)
@@ -37,7 +37,7 @@ Populations; Completed, [Paper](../publications/sayarrobust.pdf)
 
 **Karmakar, S.**, Ghosh, A.; A uniform framework for robust estimation of time-series classes, In preparation. 
 
-**Karmakar, S.**, Chatterjee, S. , Narisetty, N. N.;  Risk bounds for isotonic quantile regression, , In preparation. 
+**Karmakar, S.**, Chatterjee, S. ;  Risk bounds for isotonic quantile regression, , In preparation. 
 
 **Karmakar, S.**;  Risk bounds for shape-restricted inference under temporal and spatial dependence , In preparation. 
 
