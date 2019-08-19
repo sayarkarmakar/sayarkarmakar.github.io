@@ -19,7 +19,7 @@ IIM Bangalore, July 12, Invited talk: Simultaneous inference on time-varying mdo
 
 EcoSta, Taichung, June, Invited talk: Prediction interval for high-dimensional regression
 
-ISF, Thessaloniki, June 15-19: Contributed talk (peer-reviewd) Prediction interval for high-dimensional regression
+ISF, Thessaloniki, June 15-19: Talk at invited session on SWEET pricing (peer-reviewd) Prediction interval for high-dimensional regression
 
 UCF, Feb 8, Invited talk in ASA Fl chapter meeting: Prediction interval for high-dimensional regression
 
