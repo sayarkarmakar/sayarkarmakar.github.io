@@ -15,7 +15,7 @@ description: Sayar Karmakar's publications
 
 
 ### <a name="articles"></a>Journal articles
-**Karmakar, S.**, Wu, W. B.; Optimal Gaussian Approximation of multiple time series under dependence; Accepted in Statistica Sinica. [Paper](../publications/sayar2.pdf) 
+**Karmakar, S.**, Wu, W. B.; Optimal Gaussian Approximation of multiple time series under dependence; Accepted in Statistica Sinica. [Paper](doi.org/10.5705/ss.202017.0303) 
 
 Chudy, M., **Karmakar S.**, Wu, W. B.; Long-term Prediction Intervals of economic time-series; Accepted in Empirical Economics. [Paper](https://doi.org/10.1007/s00181-019-01689-2) 
 
