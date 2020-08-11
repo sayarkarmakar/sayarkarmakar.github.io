@@ -27,7 +27,7 @@ Chudy, M., **Karmakar S.**, Wu, W. B.; Long-term Prediction Intervals of economi
 
 **Karmakar, S.**, Podder, M.: The regular stochastic block model on several-community networks. [Paper](https://arxiv.org/abs/2002.05577) 
 
-**Karmakar, S.**, Cheng, M., Wu, W. B.; Change-point detection and Synchronization for multiple time series, Invited for Journal of Time-series analysis. [Manuscript](../publications/sayar5.pdf)
+**Karmakar, S.**, Cheng, M., Wu, W. B.; Testing Synchronization of Change-points in multiple time series [Manuscript](../publications/sayar5.pdf)
 
 **Karmakar, S.**, Wu, W. B.,; Asymptotic theory for time-series with cyclic and trend components, In preparation. [Manuscript](../publications/sayar6.pdf)
 
