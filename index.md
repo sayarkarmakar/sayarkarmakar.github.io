@@ -1,7 +1,7 @@
 ---
 layout: frontpage
 title: Sayar Karmakar
-description: I was a Ph.D. candidate at the Department of Statistics, University of Chicago. 
+description: I am an assistant professor at the department of Statistics, University of Florida. Before this, I graduated from the Department of Statistics, University of Chicago. 
 keywords: time series, time-series data analysis, high-dimensional data.
 ---
 
@@ -27,9 +27,9 @@ keywords: time series, time-series data analysis, high-dimensional data.
 <br> Department of Statistics
 <br> University of Florida
 <br>
-<br> <b> Research Interest </b>: Time series, Non-parametric statistics,
-<br> High-Dimensional Statistics, Econometrics, Forecasting
-<br> VAR models, Network analysis, Scan statistics, Change-point, Probability, Robust Statistics
+<br> <b> Research Interest </b>: Time series, Non-parametric statistics, Gradient descent
+<br> High-Dimensional Statistics, Change-point, Econometrics, Forecasting, VAR models, 
+<br> Network analysis, Combinatorial Probability, Robust Statistics, Posterior consistency
 </td>
 </tr>
 </table>
