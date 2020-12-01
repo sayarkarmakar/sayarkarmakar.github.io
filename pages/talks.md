@@ -8,20 +8,20 @@ description: Sayar Karmakar's talks
 #### 2021
 CFE CMStatistics 2021 December: TBD
 
-Hawaii International Conference on System Science 54 (peer-reviewed): Hawaii, 2021 January Understanding the Rise of Twitter-based cyberbullying due to COVID-19through comprehensive statistical evaluation
+HICSS (Hawaii International Conference on System Science) 54 (peer-reviewed): Hawaii, 2021 January Understanding the Rise of Twitter-based cyberbullying due to COVID-19through comprehensive statistical evaluation
 #### 2020
 
 CFE CMStatistics. Post-regularized prediction intervals for high dimensional VAR process. Invited talk. Virtual 2020 December
 
-Talk at  European Interdisciplinary  Cybersecurity  Conference (Peer reviewed) : 2020 November. Evaluating the impact of covid-19 on cyberbullying through bayesian trend analysis
+Talk at EICC (European Interdisciplinary  Cybersecurity  Conference ) (Peer reviewed) : 2020 November. Evaluating the impact of covid-19 on cyberbullying through bayesian trend analysis
 
 University of Florida Biostatistics seminar Invited talk:2020 August Time-varying models in frequentist and Bayesian regime
 
 CMStatistics: Session organizer. Seoul, Korea,  2020 July. Postponed to 2021 Summer
 
-ISNPS, Cyprus 2020 June Invited talk. Cancelled. Postponed to 2021 Summer
+ISNPS, (International symposium on non-parametric Statistics) Cyprus 2020 June Invited talk. Cancelled. Postponed to 2021 Summer
 
-ISIBS 2020: Invited talk. Cancelled
+ISBIS July 2020: (International Society for Business and Industrial Statistics) Invited talk. Cancelled
 
 Spring Research conference, Michigan, 2020 May Invited talk: Cancelled
 
