@@ -27,11 +27,13 @@ keywords: time series, time-series data analysis, high-dimensional data.
 <br> Department of Statistics
 <br> University of Florida
 <br>
-<br> <b> Research Interest </b>: Time series, Non-parametric statistics, 
-<br> High-Dimensional Statistics, Change-point, Econometrics, 
+<br> <b> Research Interest </b>: 
+<br> Time series,  High-Dimensional Statistics, 
+<br> Forecasting, Change-point,  
+<br> VAR models, Econometrics
 <br> Gradient Descent methods in Neural Nets
-<br> Forecasting, VAR models, Combinatorial Probability 
-<br> Network analysis, Robust Statistics, Posterior consistency
+<br> Combinatorial Probability, Networks 
+<br> Robust Statistics, Posterior consistency
 </td>
 </tr>
 </table>
