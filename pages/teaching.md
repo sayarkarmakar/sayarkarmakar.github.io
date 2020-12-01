@@ -6,7 +6,12 @@ description: Sayar Karmakar's teaching
 Primary instructor for the following courses at the University of Florida:
 * Fall 2018: STA 4321/STA 5325: Introduction to Probability / Fundamentals of Probability
 * Spring 2019: STA 4322/STA 5328: Introduction to Statistics / Fundamentals of Statistics
-
+* Fall 2019: Relieved from teaching
+* Spring 2020: STA 4321/STA 5325: Introduction to Probability / Fundamentals of Probability
+* Spring 2020: STA 4853/STA 5325: Time-series and Forecasting / Applied Time-series Method
+* Fall 2020: STA 4321/STA 5325: Introduction to Probability / Fundamentals of Probability
+* Spring 2021: STA 4853/STA 5325: Time-series and Forecasting / Applied Time-series Method
+* Spring 2021: STA 4322/STA 5328: Introduction to Statistics / Fundamentals of Statistics
 
 Primary instructor for the following courses at the University of Chicago:
 
