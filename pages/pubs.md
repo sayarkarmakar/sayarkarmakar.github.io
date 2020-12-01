@@ -14,18 +14,42 @@ description: Sayar Karmakar's publications
 </div>
 
 
-### <a name="articles"></a>Journal articles
-**Karmakar, S.**, Wu, W. B.; Optimal Gaussian Approximation of multiple time series under dependence; Accepted in Statistica Sinica. [Paper](doi.org/10.5705/ss.202017.0303) 
+### <a name="articles"></a>Published Journal articles
 
-Chudy, M., **Karmakar S.**, Wu, W. B.; Long-term Prediction Intervals of economic time-series; Accepted in Empirical Economics. [Paper](https://doi.org/10.1007/s00181-019-01689-2) 
+**Karmakar, S.**, Richter, S., Wu, W. B.; Simultaneous inference for time-varying models; To appear in Journal of Econometrics. 
+[Paper](https://arxiv.org/abs/2011.13157) 
+
+**Karmakar, S.**, Wu, W. B.; Optimal Gaussian Approximation of multiple time series under dependence; Statistica Sinica, 30, 1399-1417 (2020). [Paper](doi.org/10.5705/ss.202017.0303) 
+
+Chudy, M., **Karmakar S.**, Wu, W. B.: Long-term Prediction Intervals of economic time-series; Empirical Economics, 58, 191-222 (2020) [Paper](https://doi.org/10.1007/s00181-019-01689-2) 
+
+**Karmakar S.**, Chudy, M., Wu, W. B.: Prediction intervals for high-dimensional regression. Accepted for Internantional Symposium for Forecasting 2019. Invited session on SWEET pricing. An extended version for journal publication is under review now) [Paper](https://sayarkarmakar.github.io/publications/sayar4.pdf) 
 
 
-**Karmakar, S.**, Richter, S., Wu, W. B.; Simultaneous inference for time-varying models; Revision requested by Journal of Econometrics. 
-[Paper](../publications/sayar1.pdf) 
+### <a name="articles"></a>Submitted Journal articles
+**Karmakar, S.**, Podder, M.: The regular stochastic block model on several-community networks. [Paper](https://arxiv.org/abs/2002.05577) : RR in Advances in Applied Probability
 
-**Karmakar, S.**, Chudy, M., Wu, W. B.; Prediction intervals in high-dimensional regression; Submitted. Accepted for International Symposium of Forecasting. [Paper](../publications/sayar4.pdf)
+**Karmakar, S.**, Roy, A..: Bayesian modelling of time-varying conditional heteroscedasticity [Paper](https://arxiv.org/abs/2009.06007) 
 
-**Karmakar, S.**, Podder, M.: The regular stochastic block model on several-community networks. [Paper](https://arxiv.org/abs/2002.05577) 
+Nakada, R., Kubokawa, T., Ghosh, M., **Karmakar S.**: Shrinkage estimation with singular priors and an application to small area estimation
+
+Roy, A., **Karmakar, S.**.: Bayesian time-varying models for count time-series [Paper](https://arxiv.org/abs/2009.07634) 
+
+### <a name="articles"></a> Published Peer-reviewed Conference Articles 
+
+**Karmakar, S.**, Sanchari Das: Understanding the rise of Twitter-based cyberbullying due to Covid-19 through comprehensive statistical evaluation: Accepted for Hawaii International Conference on System Science 54 
+
+**Karmakar, S.**, Sanchari Das: Evaluating the impact of Covid-19 on cyberbullying through Bayesian trend analysis: Accepted for European Interdisciplinary Cybersecurity Conference 2020
+
+Sanchari Das, Andrew Kim, **Karmakar, S.** (corresponding author) A change-point analysis of worldwide twitter trend to evaluate impact of Covid-19 on cyberbullying. Accepted for 16th Annual social informatics research symposium, 2020 and Poster at 15th International Workshop on Security 2020
+
+### <a name="articles"></a> Articles in preparation
+
+**Karmakar, S.**, Podder M.: Joint estimation of parameters in Potts model
+
+**Karmakar, S.**, Mukherjee, A.: Heavy-tailed phenomenon in Neural nets
+
+**Karmakar, S.**, Dey, R., Roy, A.: An alternative method to self-estimate the time-varying reproduction number for epidemics.
 
 **Karmakar, S.**, Cheng, M., Wu, W. B.; Testing Synchronization of Change-points in multiple time series [Manuscript](../publications/sayar5.pdf)
 
@@ -45,6 +69,8 @@ Populations; Completed, [Paper](../publications/sayarrobust.pdf)
 **Karmakar, S.**, Banerjee, S.; Sequential confidence intervals for linear time-series, In preparation. 
 
 **Karmakar, S.**, Sen, B; Multiscale statistics beyond gaussianity and independence, In preparation. 
+
+
 
 
 
