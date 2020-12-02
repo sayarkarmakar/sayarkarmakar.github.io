@@ -40,9 +40,9 @@ keywords: time series, time-series data analysis, high-dimensional data.
 </table>
 
 <h2> Recent Updates</h2>
-Dec 2020: We submitted a paper on model-free predictions for econometric datasets. Here we proposed explored a popular model-free prediction based on Novas transformation for long-horizon prediction and proposed new methods to boost this in diverse scenario.
+Dec 2020: We submitted a paper on model-free predictions for econometric datasets. Here we explored a popular model-free prediction based on NoVas transformation for long-horizon prediction and proposed new methods to boost this in diverse scenario.
 
-Nov 2020: Our [Paper](https://arxiv.org/abs/2011.13157)  "Simultaneous inference for time-varying models" is now accepted at Journal of Econometrics. 
+Nov 2020: Our [Paper](https://arxiv.org/abs/2011.13157)  "Simultaneous inference for time-varying models" is now accepted in Journal of Econometrics. 
 
 Oct 2020: Peer-reviewed conference article on cyberbullying gets accepted at HICSS (Hawaii International Conference on System Science) 54. An initial work on change-point exploration was also accepted in 16th Annual social informatics research symposium back in Aug 2020.
 
