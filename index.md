@@ -38,6 +38,25 @@ keywords: time series, time-series data analysis, high-dimensional data.
 </tr>
 </table>
 
+#### Recent updates
+
+Nov 2019: Our [Paper](https://arxiv.org/abs/2011.13157)  "Simultaneous inference for time-varying models" is now accepted at Journal of econometrics. 
+
+Oct 2019: Peer-reviewed conference article on cyber security gets accepted at HICSS (Hawaii International Conference on System Science) 54.
+
+Oct 2019: Interesting work has begun on Neural nets convergence, some related new algorithms and their tail properties. We would look forward to apply these new algorithms in time-series forecasting.
+
+Sep 2019: We submitted a [Paper](https://arxiv.org/abs/2009.06007) on time-varying Bayesian ARCH/GARCH model. Here a new B-spline based estimation method is proposed and posterior contraction theory is developed. We were also able to include iGARCH model, which is a first.
+
+Aug 2019: We established posterior contraction theory for time-varying models on Poisson count series. This [Paper](https://arxiv.org/abs/2009.07634)  adds a theoretical proof of the method we proposed in a paper from April analyzing initial Covid-19 counts.
+
+June 2019: A new project has begun where we focus on spatial patterns in US states Covid-19 counts. In this paper we propose an alternative method of R0 estimation which uses only the time-series data on incidence rate only.
+
+May 2019: A new paper on shrinkage estimators with singular prior is submitted.
+
+April 2019: A Bayesian time-varying model is used to analyze initial covid-19 propagation across different countries
+
+April 2019: We got a RR from Advances in Applied Probability for our [Paper](https://arxiv.org/abs/2002.05577)  on "Regular stochastic Block model"
 
 <!--
 
