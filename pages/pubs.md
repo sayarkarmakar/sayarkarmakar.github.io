@@ -16,10 +16,10 @@ description: Sayar Karmakar's publications
 
 ### <a name="articles"></a>Published Journal articles
 
-**Karmakar, S.**, Richter, S., Wu, W. B.; Simultaneous inference for time-varying models; To appear in Journal of Econometrics. 
+**Karmakar, S.**, Richter, S., Wu, W. B.: Simultaneous inference for time-varying models; To appear in Journal of Econometrics. 
 [Paper](https://arxiv.org/abs/2011.13157) 
 
-**Karmakar, S.**, Wu, W. B.; Optimal Gaussian Approximation of multiple time series under dependence; Statistica Sinica, 30, 1399-1417 (2020). [Paper](doi.org/10.5705/ss.202017.0303) 
+**Karmakar, S.**, Wu, W. B.: Optimal Gaussian Approximation of multiple time series under dependence; Statistica Sinica, 30, 1399-1417 (2020). [Paper](doi.org/10.5705/ss.202017.0303) 
 
 Chudy, M., **Karmakar S.**, Wu, W. B.: Long-term Prediction Intervals of economic time-series; Empirical Economics, 58, 191-222 (2020) [Paper](https://doi.org/10.1007/s00181-019-01689-2) 
 

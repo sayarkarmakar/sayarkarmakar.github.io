@@ -27,6 +27,7 @@ keywords: time series, time-series data analysis, high-dimensional data.
 <br> Assistant Professor
 <br> Department of Statistics
 <br> University of Florida
+<br> email: sayarkarmakar at ufl dot edu
 <br>
 <br> <b> Research Interest </b>: 
 <br> Time series,  High-Dimensional Statistics, 
