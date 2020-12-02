@@ -1,6 +1,6 @@
 ---
 layout: frontpage
-title: Home
+title: Sayar Karmakar
 description: I am an assistant professor at the department of Statistics, University of Florida. Before this, I graduated from the Department of Statistics, University of Chicago. 
 keywords: time series, time-series data analysis, high-dimensional data.
 ---
