@@ -5,15 +5,15 @@ description: I am an assistant professor at the department of Statistics, Univer
 keywords: time series, time-series data analysis, high-dimensional data.
 ---
 
-<!--  
+
 <div class="navbar">
   <div class="navbar-inner">
     <div class="nav">
        <li><a href="https://github.com/sayarkarmakar">github</a></li>
-    <li><a href="https://scholar.google.com/citations?user=enYTvroAAAAJ&hl=en&oi=ao">google_scholar</a></li>
+    <li><a href="https://scholar.google.com/citations?user=RML8HC0AAAAJ&hl=en">google_scholar</a></li>
         </div>
   </div>
-</div> -->
+</div> 
 
 
 <table class="wide">
