@@ -39,7 +39,7 @@ keywords: time series, time-series data analysis, high-dimensional data.
 </tr>
 </table>
 
-<h1> Recent Updates</h1>
+<h2> Recent Updates</h2>
 Dec 2020: We submitted a paper on model-free predictions for econometric datasets. Here we proposed explored a popular model-free prediction based on Novas transformation for long-horizon prediction and proposed new methods to boost this in diverse scenario.
 
 Nov 2020: Our [Paper](https://arxiv.org/abs/2011.13157)  "Simultaneous inference for time-varying models" is now accepted at Journal of econometrics. 
