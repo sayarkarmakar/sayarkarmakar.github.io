@@ -46,7 +46,7 @@ Nov 2020: Our [Paper](https://arxiv.org/abs/2011.13157)  "Simultaneous inference
 
 Oct 2020: Peer-reviewed conference article on cyberbullying gets accepted at HICSS (Hawaii International Conference on System Science) 54. An initial work on change-point exploration was also accepted in 16th Annual social informatics research symposium back in Aug 2020.
 
-Oct 2020: Interesting work has begun on Neural nets convergence, some related new algorithms and their tail properties. We would look forward to apply these new algorithms in time-series forecasting.
+Oct 2020: Interesting work has begun on Neural nets convergence, some related new algorithms and their tail properties. We look forward to apply these new algorithms in time-series forecasting.
 
 Sep 2020: We submitted a [Paper](https://arxiv.org/abs/2009.06007) on time-varying Bayesian ARCH/GARCH model. Here a new B-spline based estimation method is proposed and posterior contraction theory is developed. We were also able to include iGARCH model, which is a first.
 
