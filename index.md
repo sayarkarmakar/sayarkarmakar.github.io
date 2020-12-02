@@ -10,7 +10,7 @@ keywords: time series, time-series data analysis, high-dimensional data.
   <div class="navbar-inner">
     <div class="nav">
        <li><a href="https://github.com/sayarkarmakar">github</a></li>
-    <li><a href="https://scholar.google.com/citations?user=RML8HC0AAAAJ&hl=en">google_scholar</a></li>
+    <li><a href="https://scholar.google.com/citations?user=RML8HC0AAAAJ&hl=en" target="_blank">Google Scholar</a></li>
         </div>
   </div>
 </div> 
