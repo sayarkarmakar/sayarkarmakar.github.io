@@ -38,7 +38,7 @@ keywords: time series, time-series data analysis, high-dimensional data.
 </tr>
 </table>
 
-<h1> Recent updates</h1>
+<h1> Recent Updates</h1>
 Dec 2020: We submitted a paper on model-free predictions for econometric datasets. Here we proposed explored a popular model-free prediction based on Novas transformation for long-horizon prediction and proposed new methods to boost this in diverse scenario.
 
 Nov 2020: Our [Paper](https://arxiv.org/abs/2011.13157)  "Simultaneous inference for time-varying models" is now accepted at Journal of econometrics. 
@@ -55,9 +55,9 @@ June 2020: A new project has begun where we focus on spatial patterns in US stat
 
 May 2020: A new paper on shrinkage estimators with singular prior is submitted.
 
-April 2020: A Bayesian time-varying model is used to analyze initial covid-19 propagation across different countries
+April 2020: A Bayesian time-varying model is used to analyze initial Covid-19 propagation across different countries
 
-April 2020: We got a RR from Advances in Applied Probability for our [Paper](https://arxiv.org/abs/2002.05577)  on "Regular stochastic Block model". This is currently being revised.
+April 2020: We got a RR from Advances in Applied Probability for our [Paper](https://arxiv.org/abs/2002.05577)  on "Regular Stochastic Block Model". This is currently being revised.
 
 <!--
 
