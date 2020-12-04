@@ -23,13 +23,14 @@ description: Sayar Karmakar's publications
 
 Chudy, M., **Karmakar S.**, Wu, W. B.: Long-term Prediction Intervals of economic time-series; Empirical Economics, 58, 191-222 (2020) [Paper](https://doi.org/10.1007/s00181-019-01689-2) 
 
+**Karmakar, S.**, Roy, A..: Bayesian modelling of time-varying conditional heteroscedasticity [Paper](https://arxiv.org/abs/2009.06007) (Revision requested from Bayesian Analysis)
+
+
 **Karmakar S.**, Chudy, M., Wu, W. B.: Prediction intervals for high-dimensional regression. Accepted for Internantional Symposium for Forecasting 2019. Invited session on SWEET pricing. An extended version for journal publication is under review now) [Paper](https://sayarkarmakar.github.io/publications/sayar4.pdf) 
 
 
 ### <a name="articles"></a>Submitted Journal articles
 **Karmakar, S.**, Podder, M.: The regular stochastic block model on several-community networks. [Paper](https://arxiv.org/abs/2002.05577) : RR in Advances in Applied Probability
-
-**Karmakar, S.**, Roy, A..: Bayesian modelling of time-varying conditional heteroscedasticity [Paper](https://arxiv.org/abs/2009.06007) 
 
 Nakada, R., Kubokawa, T., Ghosh, M., **Karmakar S.**: Shrinkage estimation with singular priors and an application to small area estimation
 
