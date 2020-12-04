@@ -41,6 +41,8 @@ keywords: time series, time-series data analysis, high-dimensional data.
 </table>
 
 <h2> Recent Updates</h2>
+Dec 2020: Our [Paper](https://arxiv.org/abs/2009.06007) got a revision request from Bayesian Analysis. 
+
 Dec 2020: We submitted a paper on model-free predictions for econometric datasets. Here we explored a popular model-free prediction based on NoVas transformation for long-horizon prediction and proposed new methods to boost this in diverse scenario.
 
 Nov 2020: Our [Paper](https://arxiv.org/abs/2011.13157)  "Simultaneous inference for time-varying models" is now accepted in Journal of Econometrics. 
