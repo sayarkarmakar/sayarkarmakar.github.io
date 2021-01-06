@@ -41,7 +41,9 @@ keywords: time series, time-series data analysis, high-dimensional data.
 </table>
 
 <h2> Recent Updates</h2>
-Jan 2021: Our paper "Shrinkage Estimation with Singular Priors and an Application to Small Area Estimation" is now technically accepted (stylistic revision required) at Journal of Multivariate Analysis. 
+Jan 2021: Our paper [Paper] (../publications/sayarshrinkage.pdf) "Shrinkage Estimation with Singular Priors and an Application to Small Area Estimation" is now technically accepted (stylistic revision required) at Journal of Multivariate Analysis. 
+
+Dec 2020: We resubmitted [Paper](https://arxiv.org/abs/2002.05577)on "Regular Stochastic Block Model"
 
 Dec 2020: Our [Paper](https://arxiv.org/abs/2009.06007) got a revision request from Bayesian Analysis. 
 

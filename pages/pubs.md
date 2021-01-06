@@ -23,7 +23,7 @@ description: Sayar Karmakar's publications
 
 Chudy, M., **Karmakar S.**, Wu, W. B.: Long-term Prediction Intervals of economic time-series; Empirical Economics, 58, 191-222 (2020) [Paper](https://doi.org/10.1007/s00181-019-01689-2) 
 
-Nakada, R., Kubokawa, T., Ghosh, M., **Karmakar S.**: Shrinkage estimation with singular priors and an application to small area estimation; To appear in Journal of Multivariate Analysis.
+Nakada, R., Kubokawa, T., Ghosh, M., **Karmakar S.**: Shrinkage estimation with singular priors and an application to small area estimation; [Paper](../publications/sayarshrinkage.pdf) To appear in Journal of Multivariate Analysis.
 
 **Karmakar, S.**, Roy, A..: Bayesian modelling of time-varying conditional heteroscedasticity [Paper](https://arxiv.org/abs/2009.06007) (Revision requested from Bayesian Analysis)
 
