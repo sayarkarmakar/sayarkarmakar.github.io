@@ -41,6 +41,8 @@ keywords: time series, time-series data analysis, high-dimensional data.
 </table>
 
 <h2> Recent Updates</h2>
+Jan 2020: Our paper "Shrinkage Estimation with Singular Priors and an Application to Small Area Estimation" is now technically accepted (stylistic revision required) at Journal of Multivariate Analysis. 
+
 Dec 2020: Our [Paper](https://arxiv.org/abs/2009.06007) got a revision request from Bayesian Analysis. 
 
 Dec 2020: We submitted a paper on model-free predictions for econometric datasets. Here we explored a popular model-free prediction based on NoVas transformation for long-horizon prediction and proposed new methods to boost this in diverse scenario.

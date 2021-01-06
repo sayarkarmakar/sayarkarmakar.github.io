@@ -23,6 +23,8 @@ description: Sayar Karmakar's publications
 
 Chudy, M., **Karmakar S.**, Wu, W. B.: Long-term Prediction Intervals of economic time-series; Empirical Economics, 58, 191-222 (2020) [Paper](https://doi.org/10.1007/s00181-019-01689-2) 
 
+Nakada, R., Kubokawa, T., Ghosh, M., **Karmakar S.**: Shrinkage estimation with singular priors and an application to small area estimation; To appear in Journal of Multivariate Analysis.
+
 **Karmakar, S.**, Roy, A..: Bayesian modelling of time-varying conditional heteroscedasticity [Paper](https://arxiv.org/abs/2009.06007) (Revision requested from Bayesian Analysis)
 
 
@@ -32,17 +34,15 @@ Chudy, M., **Karmakar S.**, Wu, W. B.: Long-term Prediction Intervals of economi
 ### <a name="articles"></a>Submitted Journal articles
 **Karmakar, S.**, Podder, M.: The regular stochastic block model on several-community networks. [Paper](https://arxiv.org/abs/2002.05577) : RR in Advances in Applied Probability
 
-Nakada, R., Kubokawa, T., Ghosh, M., **Karmakar S.**: Shrinkage estimation with singular priors and an application to small area estimation
-
 Roy, A., **Karmakar, S.**.: Bayesian time-varying models for count time-series [Paper](https://arxiv.org/abs/2009.07634) 
 
 ### <a name="articles"></a> Published Peer-reviewed Conference Articles 
 
-**Karmakar, S.**, Sanchari Das: Understanding the rise of Twitter-based cyberbullying due to Covid-19 through comprehensive statistical evaluation: Accepted for Hawaii International Conference on System Science 54 
+**Karmakar, S.**, Das, S.: Understanding the rise of Twitter-based cyberbullying due to Covid-19 through comprehensive statistical evaluation: Accepted for Hawaii International Conference on System Science 54 
 
-**Karmakar, S.**, Sanchari Das: Evaluating the impact of Covid-19 on cyberbullying through Bayesian trend analysis: Accepted for European Interdisciplinary Cybersecurity Conference 2020
+**Karmakar, S.**, Das, S.: Evaluating the impact of Covid-19 on cyberbullying through Bayesian trend analysis: Accepted for European Interdisciplinary Cybersecurity Conference 2020
 
-Sanchari Das, Andrew Kim, **Karmakar, S.** (corresponding author) A change-point analysis of worldwide twitter trend to evaluate impact of Covid-19 on cyberbullying. Accepted for 16th Annual social informatics research symposium, 2020 and Poster at 15th International Workshop on Security 2020
+Das, S., Kim, A., **Karmakar, S.** (corresponding author) A change-point analysis of worldwide twitter trend to evaluate impact of Covid-19 on cyberbullying. Accepted for 16th Annual social informatics research symposium, 2020 and Poster at 15th International Workshop on Security 2020
 
 ### <a name="articles"></a> Articles in preparation
 
