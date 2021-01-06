@@ -23,7 +23,7 @@ description: Sayar Karmakar's publications
 
 Chudy, M., **Karmakar S.**, Wu, W. B.: Long-term Prediction Intervals of economic time-series; Empirical Economics, 58, 191-222 (2020) [Paper](https://doi.org/10.1007/s00181-019-01689-2) 
 
-Nakada, R., Kubokawa, T., Ghosh, M., **Karmakar S.**: Shrinkage estimation with singular priors and an application to small area estimation; [Paper](../publications/sayarshrinkage.pdf) To appear in Journal of Multivariate Analysis.
+Nakada, R.(Graduate student), Kubokawa, T., Ghosh, M., **Karmakar S.**: Shrinkage estimation with singular priors and an application to small area estimation; [Paper](../publications/sayarshrinkage.pdf) To appear in Journal of Multivariate Analysis.
 
 **Karmakar, S.**, Roy, A..: Bayesian modelling of time-varying conditional heteroscedasticity [Paper](https://arxiv.org/abs/2009.06007) (Revision requested from Bayesian Analysis)
 
@@ -32,9 +32,13 @@ Nakada, R., Kubokawa, T., Ghosh, M., **Karmakar S.**: Shrinkage estimation with 
 
 
 ### <a name="articles"></a>Submitted Journal articles
+**Karmakar, S.**, Mukherjee, A., Muthukumar, R.: [Paper](../publications/sayarnn.pdf)
+
+Wu, K.(Graduate stutdent), **Karmakar, S.**: Boosting model-free predictions for econometric datasets. [Paper](../publications/sayarmodelfree.pdf)
+
 **Karmakar, S.**, Podder, M.: The regular stochastic block model on several-community networks. [Paper](https://arxiv.org/abs/2002.05577) : RR in Advances in Applied Probability
 
-Roy, A., **Karmakar, S.**.: Bayesian time-varying models for count time-series [Paper](https://arxiv.org/abs/2009.07634) 
+Roy, A., **Karmakar, S.**.: Time-varying auto-regressive models for count time-series [Paper](https://arxiv.org/abs/2009.07634) 
 
 ### <a name="articles"></a> Published Peer-reviewed Conference Articles 
 
