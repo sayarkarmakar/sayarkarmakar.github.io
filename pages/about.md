@@ -13,7 +13,7 @@ My primary research interests lie in developing novel methods related to time se
 I received my undergraduate degree [B.Stat.](http://www.isical.ac.in/)
 in 2011, from Indian Statistical Institute, Kolkata and my masters degree [M.Stat.] from the same instituition in 2013, with a specialization in Mathematical Statistics and Probability.
 
-[curriculum vitae ![CV as pdf](icons16/pdf-icon.png)](../publications/CV_Sayar_3.pdf)
+[curriculum vitae ![CV as pdf](icons16/pdf-icon.png)](../publications/CV_Sayar_2.pdf)
 
 #### Current Research interests and Project themes
 Time-varying models
