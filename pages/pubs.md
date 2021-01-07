@@ -32,7 +32,7 @@ Nakada, R.(Graduate student), Kubokawa, T., Ghosh, M., **Karmakar S.**: Shrinkag
 
 
 ### <a name="articles"></a>Submitted Journal articles
-**Karmakar, S.**, Mukherjee, A., Muthukumar, R.: [Paper](../publications/sayarnn.pdf)
+**Karmakar, S.**, Mukherjee, A., Muthukumar, R.: [Paper](https://arxiv.org/abs/2005.04211)
 
 Wu, K.(Graduate stutdent), **Karmakar, S.**: Boosting model-free predictions for econometric datasets. [Paper](../publications/sayarmodelfree.pdf)
 

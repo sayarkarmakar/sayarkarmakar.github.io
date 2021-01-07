@@ -41,9 +41,9 @@ keywords: time series, time-series data analysis, high-dimensional data.
 </table>
 
 <h2> Recent Updates</h2>
-Jan 2021: Our paper [Paper](../publications/sayarshrinkage.pdf) "Shrinkage Estimation with Singular Priors and an Application to Small Area Estimation" is now technically accepted (stylistic revision required) at Journal of Multivariate Analysis. 
+Jan 2021: Our [Paper](../publications/sayarshrinkage.pdf) "Shrinkage Estimation with Singular Priors and an Application to Small Area Estimation" is now technically accepted (stylistic revision required) at Journal of Multivariate Analysis. 
 
-Jan 2021: We submitted [Paper](../publications/sayarnn.pdf) where we proposed some algorithms with provable guarantees on depth-2 neural nets. 
+Jan 2021: We submitted a [Paper](https://arxiv.org/abs/2005.04211) where we proposed some algorithms with provable guarantees on depth-2 neural nets. 
 
 Jan 2021: We submitted a [Paper](../publications/sayarmodelfree.pdf) on model-free predictions for econometric datasets. Here we explored a popular model-free prediction based on NoVas transformation for long-horizon prediction and proposed new methods to boost this in diverse scenario.
 
