@@ -34,9 +34,9 @@ Nakada, R.(Graduate student), Kubokawa, T., Ghosh, M., **Karmakar S.**: Shrinkag
 ### <a name="articles"></a>Submitted Journal articles
 **Karmakar, S.**, Mukherjee, A., Muthukumar, R.: [Paper](https://arxiv.org/abs/2005.04211)
 
-Wu, K.(Graduate stutdent), **Karmakar, S.**: Boosting model-free predictions for econometric datasets. [Paper](../publications/sayarmodelfree.pdf)
+Wu, K.(Graduate stutdent), **Karmakar, S.**: Boosting model-free predictions for econometric datasets. [Paper](https://arxiv.org/abs/2101.02273)
 
-**Karmakar, S.**, Podder, M.: The regular stochastic block model on several-community networks. [Paper](https://arxiv.org/abs/2002.05577) : RR in Advances in Applied Probability
+**Karmakar, S.**, Podder, M.: The regular stochastic block model on several-community networks. [Paper](https://arxiv.org/abs/2002.05577) : RR in Advances in Applied Probability. Resubmitted.
 
 Roy, A., **Karmakar, S.**.: Time-varying auto-regressive models for count time-series [Paper](https://arxiv.org/abs/2009.07634) 
 
