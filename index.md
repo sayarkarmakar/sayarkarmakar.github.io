@@ -63,6 +63,8 @@ Sep 2020: We submitted a [Paper](https://arxiv.org/abs/2009.06007) on time-varyi
 
 Aug 2020: We established posterior contraction theory for time-varying models on Poisson count series. This [Paper](https://arxiv.org/abs/2009.07634)  adds a theoretical proof of the method we proposed in a paper from April analyzing initial Covid-19 counts.
 
+Aug 2020: Our [Paper](https://arxiv.org/abs/2001.10164) was presented in JSM 2020 in Statistica Sinica invited session. Only 3 published papers in SS between 2018-20 were selected for this distinction.
+
 June 2020: A new project has begun where we focus on spatial patterns in US states Covid-19 counts. In this paper we propose an alternative method of R0 estimation which uses only the time-series data on incidence rate only.
 
 May 2020: A new paper on shrinkage estimators with singular prior is submitted.

@@ -19,7 +19,7 @@ description: Sayar Karmakar's publications
 **Karmakar, S.**, Richter, S., Wu, W. B.: Simultaneous inference for time-varying models; To appear in Journal of Econometrics. 
 [Paper](https://arxiv.org/abs/2011.13157) 
 
-**Karmakar, S.**, Wu, W. B.: Optimal Gaussian Approximation of multiple time series under dependence; Statistica Sinica, 30, 1399-1417 (2020). [Paper](doi.org/10.5705/ss.202017.0303) 
+**Karmakar, S.**, Wu, W. B.: Optimal Gaussian Approximation of multiple time series under dependence; Statistica Sinica, 30, 1399-1417 (2020). [Paper](doi.org/10.5705/ss.202017.0303) Presented in Sinica invited session JSM 2020 (One of 3 papers for the time period 2018-20)
 
 Chudy, M., **Karmakar S.**, Wu, W. B.: Long-term Prediction Intervals of economic time-series; Empirical Economics, 58, 191-222 (2020) [Paper](https://doi.org/10.1007/s00181-019-01689-2) 
 
@@ -28,11 +28,8 @@ Nakada, R.(Graduate student), Kubokawa, T., Ghosh, M., **Karmakar S.**: Shrinkag
 **Karmakar, S.**, Roy, A..: Bayesian modelling of time-varying conditional heteroscedasticity [Paper](https://arxiv.org/abs/2009.06007) (Revision submitted to Bayesian Analysis)
 
 
-**Karmakar S.**, Chudy, M., Wu, W. B.: Prediction intervals for high-dimensional regression. Accepted for Internantional Symposium for Forecasting 2019. Invited session on SWEET pricing. An extended version for journal publication is under review now) [Paper](https://sayarkarmakar.github.io/publications/sayar4.pdf) 
-
-
 ### <a name="articles"></a>Submitted Journal articles
-**Karmakar, S.**, Mukherjee, A., Muthukumar, R.: [Paper](https://arxiv.org/abs/2005.04211)
+**Karmakar, S.**, Mukherjee, A., Muthukumar, R.: A Study of Neural Training with Iterative Non-Gradient Methods [Paper](https://arxiv.org/abs/2005.04211)
 
 Wu, K.(Graduate stutdent), **Karmakar, S.**: Boosting model-free predictions for econometric datasets. [Paper](https://arxiv.org/abs/2101.02273)
 
@@ -41,6 +38,9 @@ Wu, K.(Graduate stutdent), **Karmakar, S.**: Boosting model-free predictions for
 Roy, A., **Karmakar, S.**.: Time-varying auto-regressive models for count time-series [Paper](https://arxiv.org/abs/2009.07634) 
 
 ### <a name="articles"></a> Published Peer-reviewed Conference Articles 
+
+**Karmakar S.**, Chudy, M., Wu, W. B.: Prediction intervals for high-dimensional regression. Accepted for Internantional Symposium for Forecasting 2019. Invited session on SWEET pricing. An extended version for journal publication is under review now) [Paper](https://sayarkarmakar.github.io/publications/sayar4.pdf) 
+
 
 **Karmakar, S.**, Das, S.: Understanding the rise of Twitter-based cyberbullying due to Covid-19 through comprehensive statistical evaluation: Accepted for Hawaii International Conference on System Science 54 
 
