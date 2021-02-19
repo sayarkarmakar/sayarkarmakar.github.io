@@ -41,6 +41,8 @@ keywords: time series, time-series data analysis, high-dimensional data.
 </table>
 
 <h2> Recent Updates</h2>
+Feb 2021: Our [Paper](https://arxiv.org/abs/2012.08223) "Long-term prediction intervals with many covariates" got a revision request from Journal of Time-series Analysis.
+
 Jan 2021: Our [Paper](https://doi.org/10.1016/j.jmva.2021.104726) "Shrinkage Estimation with Singular Priors and an Application to Small Area Estimation" is now accepted in Journal of Multivariate Analysis. 
 
 Jan 2021: We submitted a [Paper](https://arxiv.org/abs/2005.04211) where we proposed some algorithms with provable guarantees on depth-2 neural nets. 
@@ -50,7 +52,7 @@ Jan 2021: We submitted a [Paper](../publications/sayarmodelfree.pdf) on model-fr
 
 Dec 2020: We resubmitted [Paper](https://arxiv.org/abs/2002.05577) on "Regular Stochastic Block Model"
 
-Dec 2020: Our [Paper](https://arxiv.org/abs/2009.06007) got a revision request from Bayesian Analysis. 
+Dec 2020: Our [Paper](https://arxiv.org/abs/2009.06007) got a revision request from Bayesian Analysis. We submitted the revision.
 
 
 Nov 2020: Our [Paper](https://arxiv.org/abs/2011.13157)  "Simultaneous inference for time-varying models" is now accepted in Journal of Econometrics. 
