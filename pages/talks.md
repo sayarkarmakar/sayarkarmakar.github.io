@@ -6,7 +6,9 @@ description: Sayar Karmakar's talks
 
 
 ### 2021
-CFE CMStatistics 2021 December: TBD
+CFE CMStatistics 2021 December: TBD + Organizing a session on multivariate time-series
+
+March 2021: Univrsity of Pittsburgh. Invited talk at the Statistics department colloquium. 
 
 HICSS (Hawaii International Conference on System Science) 54 (peer-reviewed): Hawaii, 2021 January Understanding the Rise of Twitter-based cyberbullying due to COVID-19 through comprehensive statistical evaluation
 
