@@ -41,6 +41,8 @@ keywords: time series, time-series data analysis, high-dimensional data.
 </table>
 
 <h2> Recent Updates</h2>
+Mar 2021: Inducted into Early Career Advisory Board for Journal of Multivariate Analysis. First such experience to be part of an editorial board team. 
+
 Feb 2021: Our [Paper](https://arxiv.org/abs/2012.08223) "Long-term prediction intervals with many covariates" got a revision request from Journal of Time-series Analysis.
 
 Jan 2021: Our [Paper](https://doi.org/10.1016/j.jmva.2021.104726) "Shrinkage Estimation with Singular Priors and an Application to Small Area Estimation" is now accepted in Journal of Multivariate Analysis. 
