@@ -41,6 +41,8 @@ keywords: time series, time-series data analysis, high-dimensional data.
 </table>
 
 <h2> Recent Updates</h2>
+April 2021: Our [Paper](https://arxiv.org/abs/2009.07634) has receieved a minor typographical revision request from Electronic Journal of Statistics.
+
 Mar 2021: Our [Paper](https://arxiv.org/abs/2009.06007) is now accepted at Bayesian Analysis.
 
 Mar 2021: Inducted into Early Career Advisory Board for Journal of Multivariate Analysis. First such experience of being part of an editorial board team! 

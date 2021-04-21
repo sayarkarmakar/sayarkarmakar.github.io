@@ -27,6 +27,8 @@ Nakada, R.(Graduate student), Kubokawa, T., Ghosh, M., **Karmakar S.**: Shrinkag
 
 **Karmakar, S.**, Roy, A..: Bayesian modelling of time-varying conditional heteroscedasticity [Paper](https://arxiv.org/abs/2009.06007) (To appear at Bayesian Analysis)
 
+Roy, A., **Karmakar, S.**.: Time-varying auto-regressive models for count time-series [Paper](https://arxiv.org/abs/2009.07634) (Minor typographical revision requested from Electronic Journal of Statistics)
+
 **Karmakar S.**, Chudy, M., Wu, W. B.: Long-term prediction intervals with many covariates. Accepted for Internantional Symposium for Forecasting 2019. Invited session on SWEET pricing. An extended version is being revised for Journal of Time series Analysis.   [Paper](https://arxiv.org/abs/2012.08223) 
 
 
@@ -37,7 +39,6 @@ Wu, K.(Graduate stutdent), **Karmakar, S.**: Boosting model-free predictions for
 
 **Karmakar, S.**, Podder, M.: The regular stochastic block model on several-community networks. [Paper](https://arxiv.org/abs/2002.05577) : RR in Advances in Applied Probability. Resubmitted.
 
-Roy, A., **Karmakar, S.**.: Time-varying auto-regressive models for count time-series [Paper](https://arxiv.org/abs/2009.07634) 
 
 ### <a name="articles"></a> Published Peer-reviewed Conference Articles 
 
