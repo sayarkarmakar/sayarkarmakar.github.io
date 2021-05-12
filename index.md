@@ -41,6 +41,10 @@ keywords: time series, time-series data analysis, high-dimensional data.
 </table>
 
 <h2> Recent Updates</h2>
+May 2021: We submitted a paper on Forecasting output growth of Advanced economies where gold market volatility is used as a proxy of global uncertainty. This is a joint work with Aseef Salisu, Rangan Gupta and Sonali Das.
+
+May 2021: We submitted a paper on Boosting Hardware Malware detection using time-series based classifiers. This is a joint work with Kanad Basu and Abraham Kuruvilla (Graduate student).
+
 April 2021: Our [Paper](https://arxiv.org/abs/2009.07634) is now accepted at Electronic Journal of Statistics.
 
 Mar 2021: Our [Paper](https://arxiv.org/abs/2009.06007) is now accepted at Bayesian Analysis.
