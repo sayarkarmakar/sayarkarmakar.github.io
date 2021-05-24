@@ -41,7 +41,7 @@ keywords: time series, time-series data analysis, high-dimensional data.
 </table>
 
 <h2> Recent Updates</h2>
-May 2021: We submitted a paper on Forecasting output growth of Advanced economies where gold market volatility is used as a proxy of global uncertainty. This is a joint work with Aseef Salisu, Rangan Gupta and Sonali Das.
+May 2021: We submitted a paper on Forecasting output growth of Advanced economies where gold market volatility is used as a proxy of global uncertainty. This is a joint work with Aseef Salisu, Rangan Gupta and Sonali Das. [Paper](https://ideas.repec.org/p/cth/wpaper/gru_2021_017.html)
 
 May 2021: We submitted a paper on Boosting Hardware Malware detection using time-series based classifiers. This is a joint work with Kanad Basu and Abraham Kuruvilla (Graduate student).
 

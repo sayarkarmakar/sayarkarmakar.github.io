@@ -35,13 +35,13 @@ Roy, A., **Karmakar, S.**.: Time-varying auto-regressive models for count time-s
 ### <a name="articles"></a>Submitted Journal articles
 **Karmakar, S.**, Mukherjee, A., Muthukumar, R.: A Study of Neural Training with Iterative Non-Gradient Methods [Paper](https://arxiv.org/abs/2005.04211)
 
-Wu, K.(Graduate stutdent), **Karmakar, S.**: Boosting model-free predictions for econometric datasets. [Paper](https://arxiv.org/abs/2101.02273)
+Wu, K.(Graduate student), **Karmakar, S.**: Boosting model-free predictions for econometric datasets. [Paper](https://arxiv.org/abs/2101.02273)
 
 **Karmakar, S.**, Podder, M.: The regular stochastic block model on several-community networks. [Paper](https://arxiv.org/abs/2002.05577) : RR in Advances in Applied Probability. Resubmitted.
 
 Kuruvilla, A. (Graduate student), **Karmakar, S.**, Basu, K.: Time-series based malware detection using Hardware Performance Counters. 
 
-Salisu, A., Gupta R., **Karmakar, S**, Das, S.: Forecasting Output Growth of Advanced Economies Over Eight Centuries: The Role of Gold Market Volatility as a Proxy of Global Uncertainty.
+Salisu, A., Gupta R., **Karmakar, S**, Das, S.: Forecasting Output Growth of Advanced Economies Over Eight Centuries: The Role of Gold Market Volatility as a Proxy of Global Uncertainty.[Paper](https://ideas.repec.org/p/cth/wpaper/gru_2021_017.html)
 
 Deb, S., **Karmakar, S.**: A clustering based approach to understand variations in spatiotemporal datasets.
 
