@@ -45,9 +45,9 @@ May 2021: We submitted a paper on Forecasting output growth of Advanced economie
 
 May 2021: We submitted a paper on Boosting Hardware Malware detection using time-series based classifiers. This is a joint work with Kanad Basu and Abraham Kuruvilla (Graduate student).
 
-April 2021: Our [Paper](https://arxiv.org/abs/2009.07634) is now accepted at Electronic Journal of Statistics.
+April 2021: Our [Paper](https://doi.org/10.1214/21-EJS1851) is now accepted at Electronic Journal of Statistics.
 
-Mar 2021: Our [Paper](https://arxiv.org/abs/2009.06007) is now accepted at Bayesian Analysis.
+Mar 2021: Our [Paper](https://doi.org/10.1214/21-BA1267) is now accepted at Bayesian Analysis.
 
 Mar 2021: Inducted into Early Career Advisory Board for Journal of Multivariate Analysis. First such experience of being part of an editorial board team! 
 

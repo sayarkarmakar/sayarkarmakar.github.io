@@ -25,9 +25,9 @@ Chudy, M., **Karmakar S.**, Wu, W. B.: Long-term Prediction Intervals of economi
 
 Nakada, R.(Graduate student), Kubokawa, T., Ghosh, M., **Karmakar S.**: Shrinkage estimation with singular priors and an application to small area estimation; [Paper](https://doi.org/10.1016/j.jmva.2021.104726) Journal of Multivariate Analysis, 183, May 2021
 
-**Karmakar, S.**, Roy, A..: Bayesian modelling of time-varying conditional heteroscedasticity [Paper](https://arxiv.org/abs/2009.06007) (To appear at Bayesian Analysis)
+**Karmakar, S.**, Roy, A..: Bayesian modelling of time-varying conditional heteroscedasticity [Paper](https://doi.org/10.1214/21-BA1267) Bayesian Analysis
 
-Roy, A., **Karmakar, S.**.: Time-varying auto-regressive models for count time-series [Paper](https://arxiv.org/abs/2009.07634) (To appear at Electronic Journal of Statistics)
+Roy, A., **Karmakar, S.**.: Time-varying auto-regressive models for count time-series [Paper](https://doi.org/10.1214/21-EJS1851) Electronic Journal of Statistics 15 (1) 2905 - 2938, 2021 
 
 **Karmakar S.**, Chudy, M., Wu, W. B.: Long-term prediction intervals with many covariates. Accepted for Internantional Symposium for Forecasting 2019. Invited session on SWEET pricing. An extended version is being revised for Journal of Time series Analysis.   [Paper](https://arxiv.org/abs/2012.08223) 
 
