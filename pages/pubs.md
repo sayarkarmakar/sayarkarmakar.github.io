@@ -39,7 +39,7 @@ Wu, K.(Graduate student), **Karmakar, S.**: Boosting model-free predictions for 
 
 **Karmakar, S.**, Podder, M.: The regular stochastic block model on several-community networks. [Paper](https://arxiv.org/abs/2002.05577) : RR in Advances in Applied Probability. Resubmitted.
 
-Kuruvilla, A. (Graduate student), **Karmakar, S.**, Basu, K.: Time-series based malware detection using Hardware Performance Counters. 
+##Kuruvilla, A. (Graduate student), **Karmakar, S.**, Basu, K.: Time-series based malware detection using Hardware Performance Counters. 
 
 Salisu, A., Gupta R., **Karmakar, S**, Das, S.: Forecasting Output Growth of Advanced Economies Over Eight Centuries: The Role of Gold Market Volatility as a Proxy of Global Uncertainty.[Paper](https://ideas.repec.org/p/cth/wpaper/gru_2021_017.html)
 
