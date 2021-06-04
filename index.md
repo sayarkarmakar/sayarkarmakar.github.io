@@ -45,7 +45,7 @@ June 2021: I was awarded an AMS Simons Travel Grant for 2021-2024.
 
 May 2021: We submitted a paper on Forecasting output growth of Advanced economies where gold market volatility is used as a proxy of global uncertainty. This is a joint work with Aseef Salisu, Rangan Gupta and Sonali Das. [Paper](https://ideas.repec.org/p/cth/wpaper/gru_2021_017.html)
 
-##May 2021: We submitted a paper on Boosting Hardware Malware detection using time-series based classifiers. This is a joint work with Kanad Basu and Abraham Kuruvilla (Graduate student).
+### May 2021: We submitted a paper on Boosting Hardware Malware detection using time-series based classifiers. This is a joint work with Kanad Basu and Abraham Kuruvilla (Graduate student).
 
 April 2021: Our [Paper](https://doi.org/10.1214/21-EJS1851) is now accepted at Electronic Journal of Statistics.
 
