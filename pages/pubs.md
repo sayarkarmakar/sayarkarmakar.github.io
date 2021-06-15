@@ -33,7 +33,9 @@ Roy, A., **Karmakar, S.**.: Time-varying auto-regressive models for count time-s
 
 
 ### <a name="articles"></a>Submitted Journal articles
-**Karmakar, S.**, Mukherjee, A., Muthukumar, R.: A Study of Neural Training with Iterative Non-Gradient Methods [Paper](https://arxiv.org/abs/2005.04211)
+**Karmakar, S.**, Mukherjee, A., Muthukumar, R.: Guarantees on Learning Depth-2 NeuralNetworks Under a Data Poisoning Attack. [Paper](https://sayarkarmakar.github.io/publications/guaranteesfullpaper.pdf) Supplementary [Supp](https://sayarkarmakar.github.io/publications/guaranteespapersupp.pdf)
+
+**Karmakar, S.**, Mukherjee, A.: A Study of Neural Training with Iterative Non-Gradient Methods [Paper](https://arxiv.org/abs/2005.04211)
 
 Wu, K.(Graduate student), **Karmakar, S.**: Boosting model-free predictions for econometric datasets. [Paper](https://arxiv.org/abs/2101.02273)
 
