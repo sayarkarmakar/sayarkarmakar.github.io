@@ -3,10 +3,20 @@ layout: page
 title: Talks/Presentations
 description: Sayar Karmakar's talks
 ---
+### 2022
+ISNPS, (International symposium on non-parametric Statistics) Cyprus 2020 June Invited talk. Cancelled. Postponed to 2022 Summer
 
 
 ### 2021
 CFE CMStatistics 2021 December: TBD + Organizing a session on multivariate time-series
+
+September 2021: TBD University of South Carolina Statistics department colloquium.
+
+July 2021: IIM Bangalore colloquium. Time-varying models for financial data.
+
+June 2021: CMStatistics: Session organizer on multivariate and high-dimensional time-series. Postponed from 2021 Summer
+
+May 2021: Cheenta Statistics. Online talk on time-series for Statistics undergraduates.
 
 March 2021: Univrsity of Pittsburgh. Invited talk at the Statistics department colloquium. 
 
@@ -21,9 +31,6 @@ University of Florida Biostatistics seminar Invited talk:2020 August Time-varyin
 
 One world symposium August 2020. Virtual. Optimal Gaussian approximation and applications.
 
-CMStatistics: Session organizer. Seoul, Korea,  2020 July. Postponed to 2021 Summer
-
-ISNPS, (International symposium on non-parametric Statistics) Cyprus 2020 June Invited talk. Cancelled. Postponed to 2021 Summer
 
 ISBIS July 2020: (International Society for Business and Industrial Statistics) Invited talk. Cancelled
 

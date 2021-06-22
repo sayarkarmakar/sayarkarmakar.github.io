@@ -40,6 +40,9 @@ keywords: time series, time-series data analysis, high-dimensional data.
 </tr>
 </table>
 
+<h2> Upcoming invited talks </h2>
+Some of my recent and upcoming invited talks are [here](https://sayarkarmakar.github.io/pages/talks.html)
+
 <h2> Recent Updates</h2>
 June 2021: We submitted a [Paper](https://sayarkarmakar.github.io/publications/guaranteesfullpaper.pdf) on stochastic neurotron and its convergence guarantee.
 
