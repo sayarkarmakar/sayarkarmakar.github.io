@@ -16,8 +16,8 @@ description: Sayar Karmakar's publications
 
 ### <a name="articles"></a>Published Journal articles
 
-**Karmakar, S.**, Richter, S., Wu, W. B.: Simultaneous inference for time-varying models; To appear in Journal of Econometrics. 
-[Paper](https://arxiv.org/abs/2011.13157) 
+**Karmakar, S.**, Richter, S., Wu, W. B.: Simultaneous inference for time-varying models; Journal of Econometrics. (2021)
+[Paper](https://doi.org/10.1016/j.jeconom.2021.03.002) 
 
 **Karmakar, S.**, Wu, W. B.: Optimal Gaussian Approximation of multiple time series; Statistica Sinica, 30, 1399-1417 (2020). [Paper](doi.org/10.5705/ss.202017.0303) Presented in Sinica invited session JSM 2020 (One of 3 papers for the time period 2018-20)
 
@@ -48,7 +48,7 @@ Deb, S., **Karmakar, S.**: A clustering based approach to understand variations 
 
 ### <a name="articles"></a> Published Peer-reviewed Conference Articles 
 
-Kuruvilla, A. (Graduate student), **Karmakar, S.**, Das, S., Basu, K. :Accepted for International Symposium on Hardware Oriented Security and Trust (HOST)
+Kuruvilla, A. (Graduate student), **Karmakar, S.**, Basu, K.: Accepted for IEEE International Symposium on Hardware Oriented Security and Trust (HOST) (19% acceptance rate)
 
 **Karmakar, S.**, Das, S.: Understanding the rise of Twitter-based cyberbullying due to Covid-19 through comprehensive statistical evaluation: Accepted for Hawaii International Conference on System Science 54 
 
