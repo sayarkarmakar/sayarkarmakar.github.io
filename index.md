@@ -44,6 +44,8 @@ keywords: time series, time-series data analysis, high-dimensional data.
 Some of my recent and upcoming invited talks are [here](https://sayarkarmakar.github.io/pages/talks.html)
 
 <h2> Recent Updates</h2>
+July 2021: Our paper on time-series based classifier for HPC based malware detection is now accepted at a premiere Hardware security conference.
+
 June 2021: We submitted a [Paper](https://sayarkarmakar.github.io/publications/guaranteesfullpaper.pdf) on stochastic neurotron and its convergence guarantee.
 
 June 2021: I was awarded an AMS Simons Travel Grant for 2021-2024. 
