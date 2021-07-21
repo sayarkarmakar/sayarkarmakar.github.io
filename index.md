@@ -40,9 +40,9 @@ keywords: time series, time-series data analysis, high-dimensional data.
 </tr>
 </table>
 
-<h1>[Curriculum Vitae](https://sayarkarmakar.github.io/publications/CV_Sayar_2.pdf)
+[Curriculum Vitae](https://sayarkarmakar.github.io/publications/CV_Sayar_2.pdf)
 
-<h1>[Google scholar](https://scholar.google.com/citations?hl=en&user=RML8HC0AAAAJ)
+[Google scholar](https://scholar.google.com/citations?hl=en&user=RML8HC0AAAAJ)
 
 <h2> Upcoming invited talks </h2>
 Some of my recent and upcoming invited talks are [here](https://sayarkarmakar.github.io/pages/talks.html)
