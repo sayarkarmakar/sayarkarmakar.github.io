@@ -48,7 +48,7 @@ Deb, S., **Karmakar, S.**: A clustering based approach to understand variations 
 
 ### <a name="articles"></a> Published Peer-reviewed Conference Articles 
 
-Kuruvilla, A. (Graduate student), **Karmakar, S.**, Basu, K.: Accepted for IEEE International Symposium on Hardware Oriented Security and Trust (HOST) (Acceptance rate 30/130) : [Paper](https://sayarkarmakar.github.io/publications/hpctimeseries.pdf)
+Kuruvilla, A. (Graduate student), **Karmakar, S.**, Basu, K.: Accepted for IEEE International Symposium on Hardware Oriented Security and Trust (HOST) (Acceptance rate 28/130) : [Paper](https://sayarkarmakar.github.io/publications/hpctimeseries.pdf)
 
 **Karmakar, S.**, Das, S.: Understanding the rise of Twitter-based cyberbullying due to Covid-19 through comprehensive statistical evaluation: Accepted for Hawaii International Conference on System Science 54 
 
