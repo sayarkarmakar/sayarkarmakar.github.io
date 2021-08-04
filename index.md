@@ -48,7 +48,7 @@ keywords: time series, time-series data analysis, high-dimensional data.
 Some of my recent and upcoming invited talks are [here](https://sayarkarmakar.github.io/pages/talks.html)
 
 <h2> Recent Updates</h2>
-August 2021: I was awarded an NSF DMS grant in their ATD program. Awaßrd Title: New algorithms for inference and predictions on large geospatial datasets. 2021-24. Role- Solo P.I. \$200,000
+August 2021: I was awarded an NSF DMS grant in their ATD program. Award Title: New algorithms for inference and predictions on large geospatial datasets. 2021-24. Role- Solo P.I. \$200,000
 
 July 2021: Our [Paper](https://sayarkarmakar.github.io/publications/hpctimeseries.pdf) on time-series based classifier for HPC based malware detection is now accepted at IEEE International Symposium on Hardware Oriented Security and Trust (HOST) (Acceptance rate 28/130)
 
