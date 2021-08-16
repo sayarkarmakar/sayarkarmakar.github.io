@@ -10,7 +10,11 @@ ISNPS, (International symposium on non-parametric Statistics) Cyprus 2020 June I
 ### 2021
 CFE CMStatistics 2021 December: TBD + Organizing a session on multivariate time-series
 
-September 2021: TBD University of South Carolina Statistics department colloquium.
+October: SRCOS conference. Time-aggregated prediction for HD regression 
+
+30 September 2021: University of South Carolina Statistics department colloquium. ARCH/GARCH models: Estimation, inference and forecasting
+
+12 September: International Chinese Statistical Association symposium. Bayeisan time-varying models
 
 July 2021: IIM Bangalore colloquium. Time-varying models for financial data.
 
