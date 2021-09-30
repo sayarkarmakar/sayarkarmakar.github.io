@@ -29,7 +29,8 @@ Nakada, R.(Graduate student), Kubokawa, T., Ghosh, M., **Karmakar S.**: Shrinkag
 
 Roy, A., **Karmakar, S.**.: Time-varying auto-regressive models for count time-series [Paper](https://doi.org/10.1214/21-EJS1851) Electronic Journal of Statistics 15 (1) 2905 - 2938, 2021 
 
-**Karmakar S.**, Chudy, M., Wu, W. B.: Long-term prediction intervals with many covariates. Accepted for Internantional Symposium for Forecasting 2019. Invited session on SWEET pricing. An extended version is being revised for Journal of Time series Analysis.   [Paper](https://arxiv.org/abs/2012.08223) 
+**Karmakar S.**, Chudy, M., Wu, W. B.: Long-term prediction intervals with many covariates. Accepted at Journal of Time-series analysis. 2021. An earlier version was previously accepted for
+Internantional Symposium for Forecasting 2019 at Invited session on SWEET pricing.  [Paper](https://sayarkarmakar.github.io/publications/hdlongterm.pdf) 
 
 
 ### <a name="articles"></a>Submitted Journal articles
