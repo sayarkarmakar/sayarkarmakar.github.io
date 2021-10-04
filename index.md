@@ -48,9 +48,9 @@ keywords: time series, time-series data analysis, high-dimensional data.
 Some of my recent and upcoming invited talks are [here](https://sayarkarmakar.github.io/pages/talks.html)
 
 <h2> Recent Updates</h2>
-September 2021: Our [Paper](https://sayarkarmakar.github.io/publications/hdlongterm.pdf) on long-term predictions for high-dimensional regression was accepted at Journal of Time-series Analysis.
+October 2021: Our Paper on Bitcoin mining activity and volatility dynamics received a revision request from Economics Letters. This is a joint work with Rangan Gupta and Riza Demirer.
 
-Septermber 2021: We submitted a Paper on Bitcoin minig activity and volatility returns. This is a joint work with Rangan Gupta and Riza Demirer.
+September 2021: Our [Paper](https://sayarkarmakar.github.io/publications/hdlongterm.pdf) on long-term predictions for high-dimensional regression was accepted at Journal of Time-series Analysis.
 
 August 2021: I was awarded an NSF DMS grant in their ATD program. Award Title: New algorithms for inference and predictions on large geospatial datasets. 2021-24. Role- Solo P.I. \$200,000
 
