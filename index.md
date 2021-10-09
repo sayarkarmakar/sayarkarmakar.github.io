@@ -52,7 +52,7 @@ October 2021: Our [Paper](https://sayarkarmakar.github.io/publications/Bitcoinin
 
 September 2021: Our [Paper](https://sayarkarmakar.github.io/publications/hdlongterm.pdf) on long-term predictions for high-dimensional regression was accepted at Journal of Time-series Analysis. 
 
-This was previously prseented as in the SWEET pricing invited session at International SYmposium of Forecasting. I am using [Video](https://sayarkarmakar.github.io/publications/longtermforecastingposter.mp4) as my submission to the invited poster session of NBER-NSF time-series conference, Rice University, Oct 2021.
+This was previously prseented in the SWEET pricing invited session at International Symposium of Forecasting, Thessaloniki, Greece June 2019. I am using this  [video](https://sayarkarmakar.github.io/publications/longtermforecastingposter.mp4) as my submission to the invited poster session of NBER-NSF time-series conference, Rice University, Oct 2021.
 
 August 2021: I was awarded an NSF DMS grant in their ATD program. Award Title: New algorithms for inference and predictions on large geospatial datasets. 2021-24. Role- Solo P.I. \$200,000
 
