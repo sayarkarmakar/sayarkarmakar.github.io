@@ -48,7 +48,7 @@ keywords: time series, time-series data analysis, high-dimensional data.
 Some of my recent and upcoming invited talks are [here](https://sayarkarmakar.github.io/pages/talks.html)
 
 <h2> Recent Updates</h2>
-October 2021: Our Paper on Bitcoin mining activity and volatility dynamics is accepted at Economics Letters. This is a joint work with Rangan Gupta and Riza Demirer.
+October 2021: Our [Paper](https://sayarkarmakar.github.io/publications/Bitcoinindex.pdf) on Bitcoin mining activity and volatility dynamics is accepted at Economics Letters. This is a joint work with Rangan Gupta and Riza Demirer.
 
 September 2021: Our [Paper](https://sayarkarmakar.github.io/publications/hdlongterm.pdf) on long-term predictions for high-dimensional regression was accepted at Journal of Time-series Analysis.
 

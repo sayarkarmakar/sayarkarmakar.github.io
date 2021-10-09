@@ -8,9 +8,13 @@ ISNPS, (International symposium on non-parametric Statistics) Cyprus 2020 June I
 
 
 ### 2021
-CFE CMStatistics 2021 December: TBD + Organizing a session on multivariate time-series
+CFE CMStatistics 2021 December: Long-term prediciton intervals with many covariates + Organizing a session on multivariate time-series
 
-October: SRCOS conference. Time-aggregated prediction for HD regression 
+November 2021: Invited talk at Chennai Mathematical Instutute. Learning dependence independently.
+
+October 2021: Invited posted for NSF NBER Time-series conference, Rice University
+
+October: SRCOS conference. Time-aggregated prediction for High dimensional regression 
 
 30 September 2021: University of South Carolina Statistics department colloquium. ARCH/GARCH models: Estimation, inference and forecasting
 

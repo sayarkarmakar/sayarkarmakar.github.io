@@ -33,7 +33,7 @@ Roy, A., **Karmakar, S.**.: Time-varying auto-regressive models for count time-s
 Internantional Symposium for Forecasting 2019 at Invited session on SWEET pricing.  [Paper](https://sayarkarmakar.github.io/publications/hdlongterm.pdf) 
 
 
-**Karmakar, S.**, Demirer, R., Gupta R.: Bitcoin Mining Activity and Volatility Dynamics in the Power Market. To appear at Economics Letters.
+**Karmakar, S.**, Demirer, R., Gupta R.: Bitcoin Mining Activity and Volatility Dynamics in the Power Market. [Paper](https://sayarkarmakar.github.io/publications/Bitcoinindex.pdf)  To appear at Economics Letters. 
 
 ### <a name="articles"></a>Submitted Journal articles
 **Karmakar, S.**, Mukherjee, A., Muthukumar, R.: Guarantees on Learning Depth-2 NeuralNetworks Under a Data Poisoning Attack. [Paper](https://sayarkarmakar.github.io/publications/guaranteesfullpaper.pdf) Supplementary [Supp](https://sayarkarmakar.github.io/publications/guaranteespapersupp.pdf)
