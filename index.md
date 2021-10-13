@@ -50,7 +50,7 @@ Some of my recent and upcoming invited talks are [here](https://sayarkarmakar.gi
 <h2> Recent Updates</h2>
 October 2021: Our [Paper](https://sayarkarmakar.github.io/publications/Bitcoinindex.pdf) on Bitcoin mining activity and volatility dynamics is accepted at Economics Letters. This is a joint work with Rangan Gupta and Riza Demirer.
 
-September 2021: Our [Paper](https://sayarkarmakar.github.io/publications/hdlongterm.pdf) on long-term predictions for high-dimensional regression was accepted at Journal of Time-series Analysis. 
+September 2021: Our [Paper](https://doi.org/10.1111/jtsa.12629) on long-term predictions for high-dimensional regression was accepted at Journal of Time-series Analysis. 
 
 This was previously prseented in the SWEET pricing invited session at International Symposium of Forecasting, Thessaloniki, Greece June 2019. I am using this  [video](https://sayarkarmakar.github.io/publications/longtermforecastingposter.mp4) as my submission to the invited poster session of NBER-NSF time-series conference, Rice University, Oct 2021.
 
