@@ -35,6 +35,9 @@ Internantional Symposium for Forecasting 2019 at Invited session on SWEET pricin
 
 **Karmakar, S.**, Demirer, R., Gupta R.: Bitcoin Mining Activity and Volatility Dynamics in the Power Market. [Paper](https://sayarkarmakar.github.io/publications/Bitcoinindex.pdf)  To appear at Economics Letters. 
 
+Salisu, A., Gupta R., **Karmakar, S**, Das, S.: Forecasting Output Growth of Advanced Economies Over Eight Centuries: The Role of Gold Market Volatility as a Proxy of Global Uncertainty. [Paper](https://ideas.repec.org/p/cth/wpaper/gru_2021_017.html). Minor revision requested from Resources Policy.
+
+
 ### <a name="articles"></a>Submitted Journal articles
 **Karmakar, S.**, Mukherjee, A., Muthukumar, R.: Guarantees on Learning Depth-2 NeuralNetworks Under a Data Poisoning Attack. [Paper](https://sayarkarmakar.github.io/publications/guaranteesfullpaper.pdf) Supplementary [Supp](https://sayarkarmakar.github.io/publications/guaranteespapersupp.pdf)
 
@@ -44,8 +47,6 @@ Wu, K.(Graduate student), **Karmakar, S.**: Boosting model-free predictions for 
 
 **Karmakar, S.**, Podder, M.: The regular stochastic block model on several-community networks. [Paper](https://arxiv.org/abs/2002.05577) : RR in Advances in Applied Probability. Resubmitted.
 
-
-Salisu, A., Gupta R., **Karmakar, S**, Das, S.: Forecasting Output Growth of Advanced Economies Over Eight Centuries: The Role of Gold Market Volatility as a Proxy of Global Uncertainty.[Paper](https://ideas.repec.org/p/cth/wpaper/gru_2021_017.html)
 
 Deb, S., **Karmakar, S.**: A clustering based approach to understand variations in spatiotemporal datasets.
 
