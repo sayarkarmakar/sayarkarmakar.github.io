@@ -37,11 +37,11 @@ Internantional Symposium for Forecasting 2019 at Invited session on SWEET pricin
 
 Salisu, A., Gupta R., **Karmakar, S**, Das, S.: Forecasting Output Growth of Advanced Economies Over Eight Centuries: The Role of Gold Market Volatility as a Proxy of Global Uncertainty. [Paper](https://ideas.repec.org/p/cth/wpaper/gru_2021_017.html). Minor revision requested from Resources Policy.
 
+**Karmakar, S.**, Mukherjee, A.: Provable Training of a ReLU Gate with Iterative Non-Gradient Methods [Paper](https://arxiv.org/abs/2005.04211). Revision requested from Neural Networks.
 
 ### <a name="articles"></a>Submitted Journal articles
 **Karmakar, S.**, Mukherjee, A., Muthukumar, R.: Guarantees on Learning Depth-2 NeuralNetworks Under a Data Poisoning Attack. [Paper](https://sayarkarmakar.github.io/publications/guaranteesfullpaper.pdf) Supplementary [Supp](https://sayarkarmakar.github.io/publications/guaranteespapersupp.pdf)
 
-**Karmakar, S.**, Mukherjee, A.: A Study of Neural Training with Iterative Non-Gradient Methods [Paper](https://arxiv.org/abs/2005.04211)
 
 Wu, K.(Graduate student), **Karmakar, S.**: Boosting model-free predictions for econometric datasets. [Paper](https://arxiv.org/abs/2101.02273)
 
