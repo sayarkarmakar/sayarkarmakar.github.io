@@ -32,10 +32,11 @@ Roy, A., **Karmakar, S.**.: Time-varying auto-regressive models for count time-s
 **Karmakar S.**, Chudy, M., Wu, W. B.: Long-term prediction intervals with many covariates. Accepted at Journal of Time-series analysis. 2021. An earlier version was previously accepted for
 Internantional Symposium for Forecasting 2019 at Invited session on SWEET pricing.  [Paper](https://doi.org/10.1111/jtsa.12629) 
 
-
 **Karmakar, S.**, Demirer, R., Gupta R.: Bitcoin Mining Activity and Volatility Dynamics in the Power Market. [Paper](https://sayarkarmakar.github.io/publications/Bitcoinindex.pdf)  To appear at Economics Letters. 
 
-Salisu, A., Gupta R., **Karmakar, S**, Das, S.: Forecasting Output Growth of Advanced Economies Over Eight Centuries: The Role of Gold Market Volatility as a Proxy of Global Uncertainty. [Paper](https://ideas.repec.org/p/cth/wpaper/gru_2021_017.html). Minor revision requested from Resources Policy.
+Salisu, A., Gupta R., **Karmakar, S**, Das, S.: Forecasting Output Growth of Advanced Economies Over Eight Centuries: The Role of Gold Market Volatility as a Proxy of Global Uncertainty. [Paper](https://ideas.repec.org/p/cth/wpaper/gru_2021_017.html). Forthcoming at Resources Policy.
+
+Wu, K.(Graduate student), **Karmakar, S.**: Model-free time-aggregated predictions for econometric datasets. [Paper](https://arxiv.org/abs/2101.02273)
 
 **Karmakar, S.**, Mukherjee, A.: Provable Training of a ReLU Gate with Iterative Non-Gradient Methods [Paper](https://arxiv.org/abs/2005.04211). Revision requested from Neural Networks.
 
@@ -43,12 +44,12 @@ Salisu, A., Gupta R., **Karmakar, S**, Das, S.: Forecasting Output Growth of Adv
 **Karmakar, S.**, Mukherjee, A., Muthukumar, R.: Guarantees on Learning Depth-2 NeuralNetworks Under a Data Poisoning Attack. [Paper](https://sayarkarmakar.github.io/publications/guaranteesfullpaper.pdf) Supplementary [Supp](https://sayarkarmakar.github.io/publications/guaranteespapersupp.pdf)
 
 
-Wu, K.(Graduate student), **Karmakar, S.**: Boosting model-free predictions for econometric datasets. [Paper](https://arxiv.org/abs/2101.02273)
-
-**Karmakar, S.**, Podder, M.: The regular stochastic block model on several-community networks. [Paper](https://arxiv.org/abs/2002.05577) : RR in Advances in Applied Probability. Resubmitted.
+**Karmakar, S.**, Podder, M.: The regular stochastic block model on several-community networks. [Paper](https://arxiv.org/abs/2002.05577) :Revision requested from Statistics and Probability Letters. 
 
 
-Deb, S., **Karmakar, S.**: A clustering based approach to understand variations in spatiotemporal datasets.
+Deb, S., **Karmakar, S.**: A novel spatiotemporal algorithm and its application on COVID-19 data from the United States
+
+Wu, K.(Graduate student), **Karmakar, S.**: Boosing model-free predictions for econometric datasets. 
 
 ### <a name="articles"></a> Published Peer-reviewed Conference Articles 
 
