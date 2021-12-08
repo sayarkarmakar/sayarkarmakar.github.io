@@ -36,7 +36,7 @@ Internantional Symposium for Forecasting 2019 at Invited session on SWEET pricin
 
 Salisu, A., Gupta R., **Karmakar, S**, Das, S.: Forecasting Output Growth of Advanced Economies Over Eight Centuries: The Role of Gold Market Volatility as a Proxy of Global Uncertainty. [Paper](https://ideas.repec.org/p/cth/wpaper/gru_2021_017.html). Forthcoming at Resources Policy.
 
-Wu, K.(Graduate student), **Karmakar, S.**: Model-free time-aggregated predictions for econometric datasets. [Paper](https://arxiv.org/abs/2101.02273)
+Wu, K.(Graduate student), **Karmakar, S.**: Model-free time-aggregated predictions for econometric datasets. To appear at Forecasting. [Paper](https://doi.org/10.3390/forecast3040055) Top 10 Feautured papers at the journal for 2021. 
 
 **Karmakar, S.**, Mukherjee, A.: Provable Training of a ReLU Gate with Iterative Non-Gradient Methods [Paper](https://arxiv.org/abs/2005.04211). Revision requested from Neural Networks.
 
@@ -49,7 +49,7 @@ Wu, K.(Graduate student), **Karmakar, S.**: Model-free time-aggregated predictio
 
 Deb, S., **Karmakar, S.**: A novel spatiotemporal algorithm and its application on COVID-19 data from the United States
 
-Wu, K.(Graduate student), **Karmakar, S.**: Boosing model-free predictions for econometric datasets. 
+Wu, K.(Graduate student), **Karmakar, S.**: A new model-free prediction method: GA-NoVas. 
 
 ### <a name="articles"></a> Published Peer-reviewed Conference Articles 
 

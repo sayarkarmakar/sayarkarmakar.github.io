@@ -50,7 +50,7 @@ Some of my recent and upcoming invited talks are [here](https://sayarkarmakar.gi
 <h2> Recent Updates</h2>
 December 2021: Our [Paper](https://ideas.repec.org/p/cth/wpaper/gru_2021_017.html) is accepted at Resources Policy pending proofreading.
 
-December 2021: Our [Paper](https://arxiv.org/abs/2101.02273) is now accepted at Forecasting. Congrats Kejin on your first paper. We also submitted another paper on similar theme. 
+December 2021: Our [Paper](doi: 10.3390/forecast3040055) is now accepted at Forecasting. Congrats Kejin on your first paper. This appeared at the Special Feautre edition at the journal selecting some top papers for 2021. We also submitted another paper on similar theme. 
 
 November 2021: Our [Paper](https://arxiv.org/abs/2005.04211) got a revision request from Neural Networks. 
 
