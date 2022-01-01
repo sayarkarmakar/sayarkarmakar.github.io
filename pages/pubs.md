@@ -41,7 +41,7 @@ Wu, K.(Graduate student), **Karmakar, S.**: Model-free time-aggregated predictio
 **Karmakar, S.**, Mukherjee, A.: Provable Training of a ReLU Gate with Iterative Non-Gradient Methods [Paper](https://arxiv.org/abs/2005.04211). Revision requested from Neural Networks.
 
 ### <a name="articles"></a>Submitted articles
-**Karmakar, S.**, Mukherjee, A., Muthukumar, R.: Guarantees on Learning Depth-2 Neural Networks Under a Data Poisoning Attack. [Paper](https://sayarkarmakar.github.io/publications/guaranteesfullpaper.pdf) Supplementary [Supp](https://sayarkarmakar.github.io/publications/guaranteespapersupp.pdf)
+**Karmakar, S.**, Mukherjee, A., Muthukumar, R.: Guarantees on Learning Depth-2 Neural Networks Under a Data Poisoning Attack [Paper](https://sayarkarmakar.github.io/publications/guaranteesfullpaper.pdf) Supplementary [Supp](https://sayarkarmakar.github.io/publications/guaranteespapersupp.pdf)
 
 **Karmakar, S.**, Mukherjee, A.: An Empirical Study of the Occurrence of Heavy-Tails in Training a ReLU Gate 
 
