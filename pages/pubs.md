@@ -56,10 +56,13 @@ Im H. (Graduate Student), Srinivasan R., Steiner R. L.,
 **Karmakar S*, Maxwell D.: The  impact  of  climate  change  on  a  university 
 campus` energy use: use of statistical analysis and building characteristics. 
 
-Gupta R., **Karmakar, S**, Pierdzioch C..: Safe Havens, Machine Learning, and the Sources of
-Geopolitical Risk: A Forecasting Analysis Using Over a Century of Data
-[Paper](https://sayarkarmakar.github.io/publications/safehavens.pdf) 
+[Paper](https://www.mdpi.com/2075-5309/12/2/108) 
 
+
+The  impact  of  climate  change  on  a  university campus` energy use: use of statistical analysis and building characteristics. Haekyung Im (Graduate Student), Ravi Srinivasan, Ruth L. Steiner,
+\textbf{Sayar Karmakar}, Daniel Maxwell. To appear at Buildings. 
+
+Link: \url{https://www.mdpi.com/2075-5309/12/2/108}
 
 ### <a name="articles"></a> Published Peer-reviewed Conference Articles 
 
