@@ -50,7 +50,7 @@ Some of my recent and upcoming invited talks are [here](https://sayarkarmakar.gi
 <h2> Recent Updates</h2>
 January 2022: I accepted the offer to be part of the scientific program committee at CFE CmStatistics. London,Dec 2022.
 
-January 2022: An applied [Paper](https://www.mdpi.com/2075-5309/12/2/108}) was accepted at Buildings.
+January 2022: An applied [Paper](https://www.mdpi.com/2075-5309/12/2/108) on impact of climate change on campus energy use was accepted at Buildings.
 
 December 2021: We submitted a [Paper](https://sayarkarmakar.github.io/publications/safehavens.pdf) on forecasting analysis for sources of geopolitical risk. 
 
