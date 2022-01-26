@@ -40,6 +40,15 @@ Wu, K.(Graduate student), **Karmakar, S.**: Model-free time-aggregated predictio
 
 **Karmakar, S.**, Mukherjee, A.: Provable Training of a ReLU Gate with Iterative Non-Gradient Methods [Paper](https://arxiv.org/abs/2005.04211). Revision requested from Neural Networks.
 
+
+Im H. (Graduate Student), Srinivasan R., Steiner R. L.,
+**Karmakar S*, Maxwell D.: The  impact  of  climate  change  on  a  university 
+campus` energy use: use of statistical analysis and building characteristics. 
+
+[Paper](https://www.mdpi.com/2075-5309/12/2/108) 
+
+
+
 ### <a name="articles"></a>Submitted articles
 **Karmakar, S.**, Mukherjee, A., Muthukumar, R.: Guarantees on Learning Depth-2 Neural Networks Under a Data Poisoning Attack [Paper](https://sayarkarmakar.github.io/publications/guaranteesfullpaper.pdf) Supplementary [Supp](https://sayarkarmakar.github.io/publications/guaranteespapersupp.pdf)
 
@@ -52,17 +61,7 @@ Deb, S., **Karmakar, S.**: A novel spatiotemporal algorithm and its application 
 
 Wu, K.(Graduate student), **Karmakar, S.**: A new model-free prediction method: GA-NoVas. [Paper](https://arxiv.org/abs/2112.08601)
 
-Im H. (Graduate Student), Srinivasan R., Steiner R. L.,
-**Karmakar S*, Maxwell D.: The  impact  of  climate  change  on  a  university 
-campus` energy use: use of statistical analysis and building characteristics. 
 
-[Paper](https://www.mdpi.com/2075-5309/12/2/108) 
-
-
-The  impact  of  climate  change  on  a  university campus` energy use: use of statistical analysis and building characteristics. Haekyung Im (Graduate Student), Ravi Srinivasan, Ruth L. Steiner,
-\textbf{Sayar Karmakar}, Daniel Maxwell. To appear at Buildings. 
-
-Link: \url{https://www.mdpi.com/2075-5309/12/2/108}
 
 ### <a name="articles"></a> Published Peer-reviewed Conference Articles 
 
