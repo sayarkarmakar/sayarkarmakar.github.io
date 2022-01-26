@@ -41,8 +41,8 @@ Wu, K.(Graduate student), **Karmakar, S.**: Model-free time-aggregated predictio
 **Karmakar, S.**, Mukherjee, A.: Provable Training of a ReLU Gate with Iterative Non-Gradient Methods [Paper](https://arxiv.org/abs/2005.04211). Revision requested from Neural Networks.
 
 
-Im H. (Graduate Student), Srinivasan R., Steiner R. L.,
-**Karmakar S*, Maxwell D.: The  impact  of  climate  change  on  a  university 
+Im, H. (Graduate Student), Srinivasan R.,  Maxwell D., Steiner R. L.,
+**Karmakar, S.**: The  impact  of  climate  change  on  a  university 
 campus` energy use: use of statistical analysis and building characteristics. 
 
 [Paper](https://www.mdpi.com/2075-5309/12/2/108) 
