@@ -38,7 +38,7 @@ Salisu, A., Gupta R., **Karmakar, S**, Das, S.: Forecasting Output Growth of Adv
 
 Wu, K.(Graduate student), **Karmakar, S.**: Model-free time-aggregated predictions for econometric datasets. To appear at Forecasting. [Paper](https://doi.org/10.3390/forecast3040055) Top 10 Feautured papers at the journal for 2021. 
 
-**Karmakar, S.**, Mukherjee, A.: Provable Training of a ReLU Gate with Iterative Non-Gradient Methods [Paper](https://arxiv.org/abs/2005.04211). Revision requested from Neural Networks.
+**Karmakar, S.**, Mukherjee, A.: Provable Training of a ReLU Gate with Iterative Non-Gradient Methods [Paper](https://sayarkarmakar.github.io/publications/nnmodsgd.pdf). To appear at Neural Networks.
 
 
 Im, H. (Graduate Student), Srinivasan R.,  Maxwell D., Steiner R. L.,
