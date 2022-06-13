@@ -48,7 +48,9 @@ keywords: time series, time-series data analysis, high-dimensional data.
 Some of my recent and upcoming invited talks are [here](https://sayarkarmakar.github.io/pages/talks.html)
 
 <h2> Recent Updates</h2>
-March 2022: Our [Paper](https://sayarkarmakar.github.io/publications/nnmodsgd.pdf) is now accepted at Neural Networks.
+June 2022: Our [Paper](https://arxiv.org/abs/2112.08601) has received a revision request from Financial Innvoation. 
+
+April 2022: Our [Paper](https://doi.org/10.1016/j.neunet.2022.03.040) is now accepted at Neural Networks.
 
 March 2022: Our proposal 'Using AI to assesss behavior and its relation to internalizing and substance use' is now funded by UFII Seed Grant award. Co-PI [Peter Kvam](https://peterkvam.com)
 

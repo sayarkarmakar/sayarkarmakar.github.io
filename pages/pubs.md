@@ -47,6 +47,9 @@ campus` energy use: use of statistical analysis and building characteristics.
 
 [Paper](https://www.mdpi.com/2075-5309/12/2/108) 
 
+Wu, K.(Graduate student), **Karmakar, S.**: A new model-free prediction method: GA-NoVas. [Paper](https://arxiv.org/abs/2112.08601) Revision requested from Financial Innovation
+
+
 
 
 ### <a name="articles"></a>Submitted articles
@@ -58,8 +61,6 @@ campus` energy use: use of statistical analysis and building characteristics.
 
 
 Deb, S., **Karmakar, S.**: A novel spatiotemporal algorithm and its application on COVID-19 data from the United States
-
-Wu, K.(Graduate student), **Karmakar, S.**: A new model-free prediction method: GA-NoVas. [Paper](https://arxiv.org/abs/2112.08601)
 
 
 

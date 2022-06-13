@@ -6,6 +6,8 @@ description: Sayar Karmakar's talks
 ### 2022
 Statfin 2022, ISI Bangalore. Invited talk. 
 
+IIT ISM Dhanbad 29 June. Special talk as a young statistician on National Statistics Day India
+
 ISNPS, (International symposium on non-parametric Statistics) Cyprus 2020 June Invited talk. Cancelled. Postponed to 2022 Summer
 
 
