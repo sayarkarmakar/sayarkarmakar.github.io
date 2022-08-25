@@ -48,11 +48,13 @@ keywords: time series, time-series data analysis, high-dimensional data.
 Some of my recent and upcoming invited talks are [here](https://sayarkarmakar.github.io/pages/talks.html)
 
 <h2> Recent Updates</h2>
-August 2022: Since last January I have started working on game-theoretic problems of different kind. We just submitted our first [Paper](https://arxiv.org/abs/2208.11670) from this collaboration. 
+August 2022: Since last January we have started working on game-theory problems of different flavors. We just submitted our first [Paper](https://arxiv.org/abs/2208.11670) from this collaboration. 
 
-July 2022: We submitted [Paper](https://arxiv.org/abs/2208.04980) which can be viewed a comprehensive analysis after we published our initial analyses on the impact of cyberbullying in 2020. This involves some new NLP techniques for pre-filtering. We are thankful to Twitter for successfully approving our academic project application and share authentic data. 
+July 2022: We submitted [Paper](https://arxiv.org/abs/2208.04980) which can be viewed a comprehensive analysis after we published our initial analyses on the impact of COVID-19 on cyberbullying in 2020. This involves some new NLP techniques for pre-filtering. We are thankful to Twitter for successfully approving our academic project application and share authentic data. 
 
 June 2022: Our [Paper](https://arxiv.org/abs/2112.08601) has received a revision request from Financial Innvoation. 
+
+May 2022: We submitted [Paper](https://arxiv.org/abs/2205.11359) that explores some theoretical properties of Deep Operator Net. This is my first work in empirical process after longing to work in this area for a while.
 
 April 2022: Our [Paper](https://doi.org/10.1016/j.neunet.2022.03.040) is now accepted at Neural Networks.
 
