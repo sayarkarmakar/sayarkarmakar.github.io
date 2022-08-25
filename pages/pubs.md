@@ -59,8 +59,10 @@ Wu, K.(Graduate student), **Karmakar, S.**: A new model-free prediction method: 
 
 **Karmakar, S.**, Podder, M.: The regular stochastic block model on several-community networks. [Paper](https://arxiv.org/abs/2002.05577) :Revision requested from Statistics and Probability Letters. 
 
+Bhasin, D (Graduate student), **Karmakar, S.*, Podder, M., Roy, S. : On a class of Probabilistic Cellular Automata with Size-3 Neighborhood and Their Applications on Percolation Games.  [Paper](https://arxiv.org/abs/2208.11670)
 
 Deb, S., **Karmakar, S.**: A novel spatiotemporal algorithm and its application on COVID-19 data from the United States
+
 
 
 
@@ -74,32 +76,6 @@ Kuruvilla, A. (Graduate student), **Karmakar, S.**, Basu, K.: Accepted for IEEE 
 
 Das, S., Kim, A., **Karmakar, S.** (corresponding author) A change-point analysis of worldwide twitter trend to evaluate impact of Covid-19 on cyberbullying. Accepted for 16th Annual social informatics research symposium, 2020 and Poster at 15th International Workshop on Security 2020
 
-### <a name="articles"></a> Articles in preparation
-
-**Karmakar, S.**, Podder M.: Joint estimation of parameters in Potts model
-
-**Karmakar, S.**, Mukherjee, A.: Heavy-tailed phenomenon in Neural nets
-
-**Karmakar, S.**, Dey, R., Roy, A.: An alternative method to self-estimate the time-varying reproduction number for epidemics.
-
-**Karmakar, S.**, Cheng, M., Wu, W. B.; Testing Synchronization of Change-points in multiple time series [Manuscript](../publications/sayar5.pdf)
-
-**Karmakar, S.**, Wu, W. B.,; Asymptotic theory for time-series with cyclic and trend components, In preparation. [Manuscript](../publications/sayar6.pdf)
-
-**Karmakar, S.**, Wu, W. B.,; Gaussian Multiplier Bootstrap, In preparation. [Manuscript](../publications/sayar7.pdf)
-
-**Karmakar, S.**, Basu, A., Disparity-based Robust Tests for Two Normal
-Populations; Completed, [Paper](../publications/sayarrobust.pdf) 
-
-**Karmakar, S.**, Ghosh, A.; A uniform framework for robust estimation of time-series classes, In preparation. 
-
-**Karmakar, S.**, Chatterjee, S. ;  Risk bounds for isotonic quantile regression, , In preparation. 
-
-**Karmakar, S.**;  Risk bounds for shape-restricted inference under temporal and spatial dependence , In preparation. 
-
-**Karmakar, S.**, Banerjee, S.; Sequential confidence intervals for linear time-series, In preparation. 
-
-**Karmakar, S.**, Sen, B; Multiscale statistics beyond gaussianity and independence, In preparation. 
 
 
 
