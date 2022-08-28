@@ -48,7 +48,7 @@ keywords: time series, time-series data analysis, high-dimensional data.
 Some of my recent and upcoming invited talks are [here](https://sayarkarmakar.github.io/pages/talks.html)
 
 <h2> Recent Updates</h2>
-August 2022: We submitted a [Paper](https://sayarkarmakar.github.io/publications/countingarch.pdf) on climate risks and forecastability of the Trading Volume of Gold:
+August 2022: We submitted a [Paper](https://sayarkarmakar.github.io/publications/countingarch.pdf) on climate risks and forecastability of the Trading Volume of Gold.
 
 August 2022: Since last January we have started working on game-theory problems of different flavors. We just submitted our first [Paper](https://arxiv.org/abs/2208.11670) from this collaboration. 
 

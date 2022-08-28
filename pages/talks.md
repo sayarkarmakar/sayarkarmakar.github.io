@@ -4,15 +4,25 @@ title: Talks/Presentations
 description: Sayar Karmakar's talks
 ---
 ### 2022
-Statfin 2022, ISI Bangalore. Invited talk. 
+Dec 2022, Bangalore. IISA 
 
-IIT ISM Dhanbad 29 June. Special talk as a young statistician on National Statistics Day India
+Dec 2022, London CFE Cmstatsitics (Tentative)
+
+Oct 24 Iowa State Department of Statistics colloquium 
+
+Sep 26 SIAM MDS 2022, San Diego, September 2022
+
+August 10 JSM 2022, Washington DC Simultaneous inference on time-varying models 
+
+July 1 Statfin 2022, ISI Bangalore. Invited talk. 
+
+June 29, IIT ISM Dhanbad 29  Special talk as a young statistician on National Statistics Day India
 
 ISNPS, (International symposium on non-parametric Statistics) Cyprus 2020 June Invited talk. Cancelled. Postponed to 2022 Summer
 
 
 ### 2021
-CFE CMStatistics 2021 December: Long-term prediciton intervals with many covariates + Organizing a session on multivariate time-series
+Dec 2021: CFE CMStatistics: Long-term prediciton intervals with many covariates + Organizing a session on multivariate time-series
 
 November 2021: Invited talk at Chennai Mathematical Instutute. Learning dependence independently.
 
