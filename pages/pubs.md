@@ -53,17 +53,25 @@ Wu, K.(Graduate student), **Karmakar, S.**: A new model-free prediction method: 
 
 
 ### <a name="articles"></a>Submitted articles
-**Karmakar, S.**, Mukherjee, A., Muthukumar, R.: Guarantees on Learning Depth-2 Neural Networks Under a Data Poisoning Attack [Paper](https://sayarkarmakar.github.io/publications/guaranteesfullpaper.pdf) Supplementary [Supp](https://sayarkarmakar.github.io/publications/guaranteespapersupp.pdf)
+
+Gabauer, D. Gupta, R., **Karmakar, S.**, Nielsen J. (Alphabetical order): Stock Market Bubbles and the Forecastability of Gold Returns (and Volatility). [Paper](https://www.up.ac.za/media/shared/61/WP/wp_2022_28.zp220424.pdf)
 
 **Karmakar, S.**, Mukherjee, A.: An Empirical Study of the Occurrence of Heavy-Tails in Training a ReLU Gate 
 
 **Karmakar, S.**, Podder, M.: The regular stochastic block model on several-community networks. [Paper](https://arxiv.org/abs/2002.05577) :Revision requested from Statistics and Probability Letters. 
 
+Goplani, P. (Graduate Student), **Karmakar, S.**, Mukherjee, A..: Capacity of DeepONets in solving Differential Equations.  [Paper](https://arxiv.org/abs/2205.11539)
+
 Bhasin, D (Graduate student), **Karmakar, S.*, Podder, M., Roy, S. : On a class of Probabilistic Cellular Automata with Size-3 Neighborhood and Their Applications on Percolation Games.  [Paper](https://arxiv.org/abs/2208.11670)
 
 Deb, S., **Karmakar, S.**: A novel spatiotemporal algorithm and its application on COVID-19 data from the United States
 
+**Karmakar, S.**, Mukherjee, A., Papamarkou, T.: Depth-2 Neural Networks Under a Data Poisoning Attack [Paper](https://arxiv.org/abs/2005.01699)
 
+**Karmakar, S.**, Gupta, R., Cepni, O,  Rognone, L. : Climate Risks and Forecastability of the Trading Volume of Gold: Evidence from an INGARCH Model. [Paper](https://sayarkarmakar.github.io/publications/countingarch.pdf)
+
+
+Perez C. (Undergraduate student), **Karmakar S.**: An NLP-assisted Bayesian time-series analysis for prevalence of cyberbullying on Twitter during COVID-19 pandemic. [Paepr](https://arxiv.org/abs/2208.04980)
 
 
 ### <a name="articles"></a> Published Peer-reviewed Conference Articles 

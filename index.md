@@ -48,7 +48,11 @@ keywords: time series, time-series data analysis, high-dimensional data.
 Some of my recent and upcoming invited talks are [here](https://sayarkarmakar.github.io/pages/talks.html)
 
 <h2> Recent Updates</h2>
+August 2022: We submitted a [Paper](https://sayarkarmakar.github.io/publications/countingarch.pdf) on climate risks and forecastability of the Trading Volume of Gold:
+
 August 2022: Since last January we have started working on game-theory problems of different flavors. We just submitted our first [Paper](https://arxiv.org/abs/2208.11670) from this collaboration. 
+
+July 2022: We submitted [Paper](https://arxiv.org/abs/2005.01699) where we explore Neuro-tron algorithm and its performance.
 
 July 2022: We submitted [Paper](https://arxiv.org/abs/2208.04980) which can be viewed a comprehensive analysis after we published our initial analyses on the impact of COVID-19 on cyberbullying in 2020. This involves some new NLP techniques for pre-filtering. We are thankful to Twitter for successfully approving our academic project application and share authentic data. 
 
