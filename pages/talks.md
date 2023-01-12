@@ -3,10 +3,19 @@ layout: page
 title: Talks/Presentations
 description: Sayar Karmakar's talks
 ---
+### 2023
+
+July 2023, ITISE Gren Canaria, Spain
+
+August 2023, ECoSta CMStatistics, Tokyo
+
+August 2023, JSM, Toronto
+
+
+
+
 ### 2022
 Dec 2022, Bangalore. IISA 
-
-Dec 2022, London CFE Cmstatsitics (Tentative)
 
 Oct 24 Iowa State Department of Statistics colloquium 
 

@@ -48,6 +48,11 @@ keywords: time series, time-series data analysis, high-dimensional data.
 Some of my recent and upcoming invited talks are [here](https://sayarkarmakar.github.io/pages/talks.html)
 
 <h2> Recent Updates</h2>
+Jan 2023: Our [Paper](https://sayarkarmakar.github.io/publications/countingarch.pd) received a revision request from Resources Policy.
+
+Dec 2022: We submitted [Paper](https://arxiv.org/abs/2212.01753) from the collaboration on ergodicity of PCA.  
+
+Dec 2022: Our paper on spatiotemporal Clustering with Dr. Soudeep Deb received a revision request from Computational Statistics and Data Analysis.
 Nov 2022: Our [Paper](https://arxiv.org/abs/2005.01699) got a revision request from Neurocomputing. 
 
 Nov 2022: We submitted a paper on Adversarial attacks on Binarized Neural Network.
