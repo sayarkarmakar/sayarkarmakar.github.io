@@ -61,6 +61,8 @@ Feb 2023: Our [Paper](https://arxiv.org/abs/2005.01699) is now accepted at Neuro
 
 Feb 2023: Our [Paper](https://arxiv.org/abs/2112.08601) is now accepted at Financial Innvoation. This is my first work with a graduate student and Kejin's first ever publication. Congrats Kejin and thank you!
 
+Jan 2023: We got a revision request for a paper titled 'Is Real Interest Rate a Monetary Phenomenon in Advanced Economies? Time-Varying Evidence from Over 700 Years of Data.' Co-authors Vasilios Plakandaras, Rangan Gupta, Mark Wohar, Sayar Karmakar. Revision requested from Research in International Business and Finance.
+
 Jan 2023: Our [Paper](https://sayarkarmakar.github.io/publications/countingarch.pd) received a revision request from Resources Policy.
 
 Dec 2022: We submitted [Paper](https://arxiv.org/abs/2212.01753) from the collaboration on ergodicity of PCA.  
