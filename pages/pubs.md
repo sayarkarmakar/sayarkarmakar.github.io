@@ -52,7 +52,7 @@ Wu, K.(Graduate student), **Karmakar, S.**: A new model-free prediction method: 
 **Karmakar, S.**, Gupta, R., Cepni, O,  Rognone, L. : Climate Risks and Forecastability of the Trading Volume of Gold: Evidence from an INGARCH Model. [Paper](https://sayarkarmakar.github.io/publications/countingarch.pdf) To appear at Resources Policy
 
 
-Perez C. (Undergraduate student), **Karmakar S.**: An NLP-assisted Bayesian time-series analysis for prevalence of cyberbullying on Twitter during COVID-19 pandemic. [Paper](https://arxiv.org/abs/2208.04980). To appear at Social NEtwork Analysis and Mining.
+Perez C. (Undergraduate student), **Karmakar S.**: An NLP-assisted Bayesian time-series analysis for prevalence of cyberbullying on Twitter during COVID-19 pandemic. [Paper](https://arxiv.org/abs/2208.04980). To appear at Social Network Analysis and Mining.
 
 
 Deb, S., **Karmakar, S.**: A novel spatiotemporal algorithm and its application on COVID-19 data from the United States. Revision submitted at Computational Statistics and Data Analysis.
