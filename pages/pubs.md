@@ -68,9 +68,9 @@ Gabauer, D. Gupta, R., **Karmakar, S.**, Nielsen J. (Alphabetical order): Stock 
 
 Goplani, P. (Graduate Student), **Karmakar, S.**, Mukherjee, A..: Capacity of DeepONets in solving Differential Equations.  [Paper](https://arxiv.org/abs/2205.11539)
 
-Bhasin, D (Graduate student), **Karmakar, S.*, Podder, M., Roy, S. : On a class of Probabilistic Cellular Automata with Size-3 Neighborhood and Their Applications on Percolation Games.  [Paper](https://arxiv.org/abs/2208.11670)
+Bhasin, D (Graduate student), **Karmakar, S.**, Podder, M., Roy, S. : On a class of Probabilistic Cellular Automata with Size-3 Neighborhood and Their Applications on Percolation Games.  [Paper](https://arxiv.org/abs/2208.11670)
 
-
+Bhasin, D (Graduate student), **Karmakar, S.**, Podder, M., Roy, S. : Ergodicity of a generalized probabilistic cellular automaton with parity-based neighbourhoods  [Paper](https://arxiv.org/abs/2212.01753)
 
 ### <a name="articles"></a> Published Peer-reviewed Conference Articles 
 
