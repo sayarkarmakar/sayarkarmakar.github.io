@@ -40,16 +40,22 @@ Wu, K.(Graduate student), **Karmakar, S.**: Model-free time-aggregated predictio
 
 **Karmakar, S.**, Mukherjee, A.: Provable Training of a ReLU Gate with Iterative Non-Gradient Methods [Paper](https://sayarkarmakar.github.io/publications/nnmodsgd.pdf). To appear at Neural Networks.
 
-
 Im, H. (Graduate Student), Srinivasan R.,  Maxwell D., Steiner R. L.,
 **Karmakar, S.**: The  impact  of  climate  change  on  a  university 
 campus` energy use: use of statistical analysis and building characteristics. 
-
 [Paper](https://www.mdpi.com/2075-5309/12/2/108) 
 
-Wu, K.(Graduate student), **Karmakar, S.**: A new model-free prediction method: GA-NoVas. [Paper](https://arxiv.org/abs/2112.08601) Revision requested from Financial Innovation
+Wu, K.(Graduate student), **Karmakar, S.**: A new model-free prediction method: GA-NoVas. [Paper](https://arxiv.org/abs/2112.08601)  To appear at Financial Innovation
+
+**Karmakar, S.**, Mukherjee, A., Papamarkou, T.: Depth-2 Neural Networks Under a Data Poisoning Attack [Paper](https://arxiv.org/abs/2005.01699) To appear at Neurocomputing
+
+**Karmakar, S.**, Gupta, R., Cepni, O,  Rognone, L. : Climate Risks and Forecastability of the Trading Volume of Gold: Evidence from an INGARCH Model. [Paper](https://sayarkarmakar.github.io/publications/countingarch.pdf) To appear at Resources Policy
 
 
+Perez C. (Undergraduate student), **Karmakar S.**: An NLP-assisted Bayesian time-series analysis for prevalence of cyberbullying on Twitter during COVID-19 pandemic. [Paper](https://arxiv.org/abs/2208.04980). To appear at Social NEtwork Analysis and Mining.
+
+
+Deb, S., **Karmakar, S.**: A novel spatiotemporal algorithm and its application on COVID-19 data from the United States. Revision submitted at Computational Statistics and Data Analysis.
 
 
 ### <a name="articles"></a>Submitted articles
@@ -64,14 +70,6 @@ Goplani, P. (Graduate Student), **Karmakar, S.**, Mukherjee, A..: Capacity of De
 
 Bhasin, D (Graduate student), **Karmakar, S.*, Podder, M., Roy, S. : On a class of Probabilistic Cellular Automata with Size-3 Neighborhood and Their Applications on Percolation Games.  [Paper](https://arxiv.org/abs/2208.11670)
 
-Deb, S., **Karmakar, S.**: A novel spatiotemporal algorithm and its application on COVID-19 data from the United States
-
-**Karmakar, S.**, Mukherjee, A., Papamarkou, T.: Depth-2 Neural Networks Under a Data Poisoning Attack [Paper](https://arxiv.org/abs/2005.01699)
-
-**Karmakar, S.**, Gupta, R., Cepni, O,  Rognone, L. : Climate Risks and Forecastability of the Trading Volume of Gold: Evidence from an INGARCH Model. [Paper](https://sayarkarmakar.github.io/publications/countingarch.pdf)
-
-
-Perez C. (Undergraduate student), **Karmakar S.**: An NLP-assisted Bayesian time-series analysis for prevalence of cyberbullying on Twitter during COVID-19 pandemic. [Paepr](https://arxiv.org/abs/2208.04980)
 
 
 ### <a name="articles"></a> Published Peer-reviewed Conference Articles 
