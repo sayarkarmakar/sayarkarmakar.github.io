@@ -59,7 +59,7 @@ Feb 2023: Our [Paper](https://arxiv.org/abs/2208.04980) is now accepted at Socia
 Feb 2023: Our [Paper](https://arxiv.org/abs/2005.01699) is now accepted at Neurocomputing.
 
 
-Feb 2023: Our [Paper](https://arxiv.org/abs/2112.08601) is now accepted at Financial Innvoation. This is my first work with a graduate student and Kejin's first ever publication. Congrats Kejin and thank you!
+Feb 2023: Our [Paper](https://arxiv.org/abs/2112.08601) is now accepted at Financial Innvoation. This is my first work with a graduate student and Kejin's second publication on this with me. Congrats Kejin and thank you!
 
 Jan 2023: We got a revision request for a paper titled 'Is Real Interest Rate a Monetary Phenomenon in Advanced Economies? Time-Varying Evidence from Over 700 Years of Data.' Co-authors Vasilios Plakandaras, Rangan Gupta, Mark Wohar, Sayar Karmakar. Revision requested from Research in International Business and Finance.
 
