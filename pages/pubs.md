@@ -58,6 +58,8 @@ Perez C. (Undergraduate student), **Karmakar S.**: An NLP-assisted Bayesian time
 Deb, S., **Karmakar, S.**: A novel spatiotemporal algorithm and its application on COVID-19 data from the United States. Revision submitted at Computational Statistics and Data Analysis.
 
 
+Plakandaras, V.,  Gupta, R.,  Wohar, M.,  **Karmakar, S.**: Is Real Interest Rate a Monetary Phenomenon in Advanced Economies? Time-Varying Evidence from Over 700 Years of Data. Revision submitted to Research in International Business and Finance
+
 ### <a name="articles"></a>Submitted articles
 
 Gabauer, D. Gupta, R., **Karmakar, S.**, Nielsen J. (Alphabetical order): Stock Market Bubbles and the Forecastability of Gold Returns (and Volatility). [Paper](https://www.up.ac.za/media/shared/61/WP/wp_2022_28.zp220424.pdf)
