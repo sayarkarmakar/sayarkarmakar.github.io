@@ -3,16 +3,21 @@ layout: page
 title: Talks/Presentations
 description: Sayar Karmakar's talks
 ---
+### 2024
+
+January 5-8 IMS Asia pacific rim meeting, Melboune, Australia
+
 ### 2023
 
-July 2023, ITISE Gren Canaria, Spain
+Dec 22-24, IIT Guwahati, Ramanujan Conference. 
 
-August 2023, ECoSta CMStatistics, Tokyo
+August 5-10, JSM, Toronto
 
-August 2023, JSM, Toronto
+August 1-3, ECoSta CMStatistics, Tokyo
 
+June 4-6, NESS, Boston 
 
-
+June 1-4, IISA 2023, Golden Colorado
 
 ### 2022
 Dec 2022, Bangalore. IISA 
