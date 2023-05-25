@@ -1,7 +1,8 @@
 ---
 layout: frontpage
 title: Sayar Karmakar
-description: I am an assistant professor at the department of Statistics, University of Florida. Before this, I graduated from the Department of Statistics, University of Chicago. 
+description: I am an assistant professor at the Department of Statistics, University of Florida. Prior to this, I graduated from the Department of Statistics, University of Chicago with a doctoral degree. Before that, I graduated from Indian Statistical Institute with a B. Stat. and M. Stat. degrees. 
+
 keywords: time series, time-series data analysis, high-dimensional data.
 ---
 
@@ -49,7 +50,20 @@ Some of my recent and upcoming invited talks are [here](https://sayarkarmakar.gi
 
 <h2> Recent Updates</h2>
 
-Mar 2023: Our [Paper](https://sayarkarmakar.github.io/publications/countingarch.pd) is now accepted at Resources Policy.
+
+May 2023: Our [Paper](https://arxiv.org/abs/2208.11670) received a revision request from Electronic Journal of Probability. 
+
+April 2023: We submitted a Paper titled 'Gaussian approximation for non-stationary time-series with optimal rate and explicit construction'. This is a joint work with Soham Bonnerjee (Graduate student) and Wei Biao Wu.
+
+April 2023: We submitted a [Paper](https://arxiv.org/abs/2303.11402) on phase transitions in percolation games on rooted Galton Watson trees. 
+
+April 2023: My AMS Simons travel grant was granted an extension until June 2024. 
+
+April 2023: Our Paper 'Are Real Interest Rate a Monetary Phenomenon in Advanced Economies? Evidence from Over 700 Years of Data.' is now accepted at Research in International Business and Finance.
+
+Mar 2023: We submitted our first [Paper](https://arxiv.org/abs/2303.09771) on analyzing disease propagation as a stochastic process where agents take rational decision at each epoch. 
+
+Mar 2023: Our [Paper](https://sayarkarmakar.github.io/publications/countingarch.pdf) is now accepted at Resources Policy.
 
 Mar 2023: I was invited to join the board of ACM Transactions of Probabilistic Machine learning. Also my tenure at the Early career advisory board of Journal of Multivariate Analysis was extended by one more year. 
 
@@ -61,7 +75,7 @@ Feb 2023: Our [Paper](https://arxiv.org/abs/2005.01699) is now accepted at Neuro
 
 Feb 2023: Our [Paper](https://arxiv.org/abs/2112.08601) is now accepted at Financial Innvoation. This is my first work with a graduate student and Kejin's second publication on this with me. Congrats Kejin and thank you!
 
-Jan 2023: We got a revision request for a paper titled 'Is Real Interest Rate a Monetary Phenomenon in Advanced Economies? Time-Varying Evidence from Over 700 Years of Data.' Co-authors Vasilios Plakandaras, Rangan Gupta, Mark Wohar, Sayar Karmakar. Revision requested from Research in International Business and Finance.
+Jan 2023: We got a revision request for a paper titled 'Is Real Interest Rate a Monetary Phenomenon in Advanced Economies? Time-Varying Evidence from Over 700 Years of Data.' Co-authors Vasilios Plakandaras, Rangan Gupta, Mark Wohar. Revision requested from Research in International Business and Finance.
 
 Jan 2023: Our [Paper](https://sayarkarmakar.github.io/publications/countingarch.pd) received a revision request from Resources Policy.
 

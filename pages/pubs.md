@@ -55,11 +55,12 @@ Wu, K.(Graduate student), **Karmakar, S.**: A new model-free prediction method: 
 Perez C. (Undergraduate student), **Karmakar S.**: An NLP-assisted Bayesian time-series analysis for prevalence of cyberbullying on Twitter during COVID-19 pandemic. [Paper](https://arxiv.org/abs/2208.04980). To appear at Social Network Analysis and Mining.
 
 
-Deb, S., **Karmakar, S.**: A novel spatiotemporal algorithm and its application on COVID-19 data from the United States. Revision submitted at Computational Statistics and Data Analysis.
+Deb, S., **Karmakar, S.**: A novel spatiotemporal algorithm and its application on COVID-19 data from the United States. Minor revision submitted at Computational Statistics and Data Analysis.
 
 
-Plakandaras, V.,  Gupta, R.,  Wohar, M.,  **Karmakar, S.**: Is Real Interest Rate a Monetary Phenomenon in Advanced Economies? Time-Varying Evidence from Over 700 Years of Data. Revision submitted to Research in International Business and Finance
+Plakandaras, V.,  Gupta, R.,  Wohar, M.,  **Karmakar, S.**: Are Real Interest Rates a Monetary Phenomenon in Advanced Economies? Evidence from Over 700 Years of Data. To appear at Research in International Business and Finance.
 
+Bhasin, D. (Graduate student), **Karmakar, S.**, Podder, M., Roy, S. : On a class of Probabilistic Cellular Automata with Size-3 Neighborhood and Their Applications on Percolation Games.  [Paper](https://arxiv.org/abs/2208.11670). Revision requested from Electronic Journal of Probability.
 ### <a name="articles"></a>Submitted articles
 
 Gabauer, D. Gupta, R., **Karmakar, S.**, Nielsen J. (Alphabetical order): Stock Market Bubbles and the Forecastability of Gold Returns (and Volatility). [Paper](https://www.up.ac.za/media/shared/61/WP/wp_2022_28.zp220424.pdf)
@@ -70,9 +71,16 @@ Gabauer, D. Gupta, R., **Karmakar, S.**, Nielsen J. (Alphabetical order): Stock 
 
 Goplani, P. (Graduate Student), **Karmakar, S.**, Mukherjee, A..: Capacity of DeepONets in solving Differential Equations.  [Paper](https://arxiv.org/abs/2205.11539)
 
-Bhasin, D (Graduate student), **Karmakar, S.**, Podder, M., Roy, S. : On a class of Probabilistic Cellular Automata with Size-3 Neighborhood and Their Applications on Percolation Games.  [Paper](https://arxiv.org/abs/2208.11670)
+Bhasin, D. (Graduate student), **Karmakar, S.**, Podder, M., Roy, S. : Ergodicity of a generalized probabilistic cellular automaton with parity-based neighbourhoods  [Paper](https://arxiv.org/abs/2212.01753)
 
-Bhasin, D (Graduate student), **Karmakar, S.**, Podder, M., Roy, S. : Ergodicity of a generalized probabilistic cellular automaton with parity-based neighbourhoods  [Paper](https://arxiv.org/abs/2212.01753)
+Bonnerjee, S. (Graduate student), **Karmakar, S.**, Wu, W.B.: Gaussian Approximations for non-stationary time-series with optimal rate and explicit construction. 
+
+Phase transition for percolation games on rooted Galton-Watson tree. **Karmakar, S.**, 
+Podder M., Roy, S., Sadhukhan, S.  [Paper](https://arxiv.org/abs/2303.09771)
+
+The spread of an epidemic: a game-theoretic approach. **Karmakar, S.**, 
+Podder M., Roy, S., Sadhukhan, S. [Paper](https://arxiv.org/abs/2303.11402)
+
 
 ### <a name="articles"></a> Published Peer-reviewed Conference Articles 
 
