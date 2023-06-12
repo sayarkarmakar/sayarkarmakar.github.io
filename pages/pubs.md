@@ -55,7 +55,7 @@ Wu, K.(Graduate student), **Karmakar, S.**: A new model-free prediction method: 
 Perez C. (Undergraduate student), **Karmakar S.**: An NLP-assisted Bayesian time-series analysis for prevalence of cyberbullying on Twitter during COVID-19 pandemic. [Paper](https://arxiv.org/abs/2208.04980). To appear at Social Network Analysis and Mining.
 
 
-Deb, S., **Karmakar, S.**: A novel spatiotemporal algorithm and its application on COVID-19 data from the United States. To appear at Computational Statistics and Data Analysis.
+Deb, S., **Karmakar, S.**: A novel spatiotemporal algorithm and its application on COVID-19 data from the United States. To appear at Computational Statistics and Data Analysis. [Paper](https://sayarkarmakar.github.io/publications/CSDA_final_version.pdf)
 
 
 Plakandaras, V.,  Gupta, R.,  Wohar, M.,  **Karmakar, S.**: Are Real Interest Rates a Monetary Phenomenon in Advanced Economies? Evidence from Over 700 Years of Data. To appear at Research in International Business and Finance. Volume 66, October 2023, 102010. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0275531923001368?dgcid=coauthor)

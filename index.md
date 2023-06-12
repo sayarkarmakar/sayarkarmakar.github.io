@@ -50,6 +50,7 @@ Some of my recent and upcoming invited talks are [here](https://sayarkarmakar.gi
 
 <h2> Recent Updates</h2>
 
+June 2023: Our [Paper](https://sayarkarmakar.github.io/publications/CSDA_final_version.pdf) was accepted at Computational Statistics and Data Analysis. 
 
 May 2023: Our [Paper](https://arxiv.org/abs/2208.11670) received a revision request from Electronic Journal of Probability. 
 
@@ -77,7 +78,7 @@ Feb 2023: Our [Paper](https://arxiv.org/abs/2112.08601) is now accepted at Finan
 
 Jan 2023: We got a revision request for a paper titled 'Is Real Interest Rate a Monetary Phenomenon in Advanced Economies? Time-Varying Evidence from Over 700 Years of Data.' Co-authors Vasilios Plakandaras, Rangan Gupta, Mark Wohar. Revision requested from Research in International Business and Finance.
 
-Jan 2023: Our [Paper](https://sayarkarmakar.github.io/publications/countingarch.pd) received a revision request from Resources Policy.
+Jan 2023: Our [Paper](https://sayarkarmakar.github.io/publications/countingarch.pdf) received a revision request from Resources Policy.
 
 Dec 2022: We submitted [Paper](https://arxiv.org/abs/2212.01753) from the collaboration on ergodicity of PCA.  
 
