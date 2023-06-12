@@ -55,10 +55,10 @@ Wu, K.(Graduate student), **Karmakar, S.**: A new model-free prediction method: 
 Perez C. (Undergraduate student), **Karmakar S.**: An NLP-assisted Bayesian time-series analysis for prevalence of cyberbullying on Twitter during COVID-19 pandemic. [Paper](https://arxiv.org/abs/2208.04980). To appear at Social Network Analysis and Mining.
 
 
-Deb, S., **Karmakar, S.**: A novel spatiotemporal algorithm and its application on COVID-19 data from the United States. Minor revision submitted at Computational Statistics and Data Analysis.
+Deb, S., **Karmakar, S.**: A novel spatiotemporal algorithm and its application on COVID-19 data from the United States. To appear at Computational Statistics and Data Analysis.
 
 
-Plakandaras, V.,  Gupta, R.,  Wohar, M.,  **Karmakar, S.**: Are Real Interest Rates a Monetary Phenomenon in Advanced Economies? Evidence from Over 700 Years of Data. To appear at Research in International Business and Finance.
+Plakandaras, V.,  Gupta, R.,  Wohar, M.,  **Karmakar, S.**: Are Real Interest Rates a Monetary Phenomenon in Advanced Economies? Evidence from Over 700 Years of Data. To appear at Research in International Business and Finance. Volume 66, October 2023, 102010. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0275531923001368?dgcid=coauthor)
 
 Bhasin, D. (Graduate student), **Karmakar, S.**, Podder, M., Roy, S. : On a class of Probabilistic Cellular Automata with Size-3 Neighborhood and Their Applications on Percolation Games.  [Paper](https://arxiv.org/abs/2208.11670). Revision requested from Electronic Journal of Probability.
 ### <a name="articles"></a>Submitted articles

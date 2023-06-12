@@ -59,7 +59,7 @@ April 2023: We submitted a [Paper](https://arxiv.org/abs/2303.11402) on phase tr
 
 April 2023: My AMS Simons travel grant was granted an extension until June 2024. 
 
-April 2023: Our Paper 'Are Real Interest Rate a Monetary Phenomenon in Advanced Economies? Evidence from Over 700 Years of Data.' is now accepted at Research in International Business and Finance.
+April 2023: Our [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0275531923001368?dgcid=coauthor) is now accepted at Research in International Business and Finance.
 
 Mar 2023: We submitted our first [Paper](https://arxiv.org/abs/2303.09771) on analyzing disease propagation as a stochastic process where agents take rational decision at each epoch. 
 
