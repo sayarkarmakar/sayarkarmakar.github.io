@@ -65,6 +65,9 @@ Bhasin, D. (Graduate student), **Karmakar, S.**, Podder, M., Roy, S. : On a clas
 
 Gabauer, D. Gupta, R., **Karmakar, S.**, Nielsen J. (Alphabetical order): Stock Market Bubbles and the Forecastability of Gold Returns (and Volatility). [Paper](https://www.up.ac.za/media/shared/61/WP/wp_2022_28.zp220424.pdf)
 
+Gupta, R., **Karmakar, S.**, Pierdzioch C. (Alphabetical order): Safe Havens, Machine Learning, and the Sources of Geopolitical Risk: A Forecasting Analysis Using Over a Century of Data. 
+[Paper](https://sayarkarmakar.github.io/publications/safehavens.pdf)
+
 **Karmakar, S.**, Mukherjee, A.: An Empirical Study of the Occurrence of Heavy-Tails in Training a ReLU Gate 
 
 **Karmakar, S.**, Podder, M.: The regular stochastic block model on several-community networks. [Paper](https://arxiv.org/abs/2002.05577) :Revision requested from Statistics and Probability Letters. 
