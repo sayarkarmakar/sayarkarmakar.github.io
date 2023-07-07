@@ -50,6 +50,8 @@ Some of my recent and upcoming invited talks are [here](https://sayarkarmakar.gi
 
 <h2> Recent Updates</h2>
 
+July 2023: I joined the editorial board of ACM Transactions of Probabilistic Machine learning. [Link](https://dl.acm.org/journal/topml).
+
 June 2023: Our [Paper](https://sayarkarmakar.github.io/publications/CSDA_final_version.pdf) was accepted at Computational Statistics and Data Analysis. 
 
 May 2023: Our [Paper](https://arxiv.org/abs/2208.11670) received a revision request from Electronic Journal of Probability. 
@@ -66,7 +68,7 @@ Mar 2023: We submitted our first [Paper](https://arxiv.org/abs/2303.09771) on an
 
 Mar 2023: Our [Paper](https://sayarkarmakar.github.io/publications/countingarch.pdf) is now accepted at Resources Policy.
 
-Mar 2023: I was invited to join the board of ACM Transactions of Probabilistic Machine learning. Also my tenure at the Early career advisory board of Journal of Multivariate Analysis was extended by one more year. 
+Mar 2023:  My tenure at the Early career advisory board of Journal of Multivariate Analysis was extended by one more year. 
 
 Feb 2023: Our [Paper](https://arxiv.org/abs/2208.04980) is now accepted at Social Network Analysis and Mining. This is my first work with an undergraduate student and Chris's first ever publication. Congrats Chris and thank you! This is a much more comprehensive work building on my earlier works on effect of COVID-19 on cyberbullying. 
 
