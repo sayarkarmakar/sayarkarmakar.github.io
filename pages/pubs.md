@@ -61,12 +61,15 @@ Deb, S., **Karmakar, S.**: A novel spatiotemporal algorithm and its application 
 Plakandaras, V.,  Gupta, R.,  Wohar, M.,  **Karmakar, S.**: Are Real Interest Rates a Monetary Phenomenon in Advanced Economies? Evidence from Over 700 Years of Data. To appear at Research in International Business and Finance. Volume 66, October 2023, 102010. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0275531923001368?dgcid=coauthor)
 
 Bhasin, D. (Graduate student), **Karmakar, S.**, Podder, M., Roy, S. : On a class of Probabilistic Cellular Automata with Size-3 Neighborhood and Their Applications on Percolation Games.  [Paper](https://arxiv.org/abs/2208.11670). Revision requested from Electronic Journal of Probability.
+
+Gupta, R., **Karmakar, S.**, Pierdzioch C. (Alphabetical order): Safe Havens, Machine Learning, and the Sources of Geopolitical Risk: A Forecasting Analysis Using Over a Century of Data. 
+[Paper](https://sayarkarmakar.github.io/publications/safehavens.pdf). Revision requested from Computational Economcis.
+
 ### <a name="articles"></a>Submitted articles
 
 Gabauer, D. Gupta, R., **Karmakar, S.**, Nielsen J. (Alphabetical order): Stock Market Bubbles and the Forecastability of Gold Returns (and Volatility). [Paper](https://www.up.ac.za/media/shared/61/WP/wp_2022_28.zp220424.pdf)
 
-Gupta, R., **Karmakar, S.**, Pierdzioch C. (Alphabetical order): Safe Havens, Machine Learning, and the Sources of Geopolitical Risk: A Forecasting Analysis Using Over a Century of Data. 
-[Paper](https://sayarkarmakar.github.io/publications/safehavens.pdf)
+
 
 **Karmakar, S.**, Mukherjee, A.: An Empirical Study of the Occurrence of Heavy-Tails in Training a ReLU Gate 
 
