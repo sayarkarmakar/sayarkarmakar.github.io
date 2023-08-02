@@ -63,7 +63,7 @@ Plakandaras, V.,  Gupta, R.,  Wohar, M.,  **Karmakar, S.**: Are Real Interest Ra
 Bhasin, D. (Graduate student), **Karmakar, S.**, Podder, M., Roy, S. : On a class of Probabilistic Cellular Automata with Size-3 Neighborhood and Their Applications on Percolation Games.  [Paper](https://arxiv.org/abs/2208.11670). Revision requested from Electronic Journal of Probability.
 
 Gupta, R., **Karmakar, S.**, Pierdzioch C. (Alphabetical order): Safe Havens, Machine Learning, and the Sources of Geopolitical Risk: A Forecasting Analysis Using Over a Century of Data. 
-[Paper](https://sayarkarmakar.github.io/publications/safehavens.pdf). Revision requested from Computational Economcis.
+[Paper](https://sayarkarmakar.github.io/publications/safehavens.pdf). To appear at Computational Economcis.
 
 ### <a name="articles"></a>Submitted articles
 

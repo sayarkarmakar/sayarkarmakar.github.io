@@ -50,7 +50,7 @@ Some of my recent and upcoming invited talks are [here](https://sayarkarmakar.gi
 
 <h2> Recent Updates</h2>
 
-July 2023: Our [Paper](https://sayarkarmakar.github.io/publications/safehavens.pdf) got a revision request from Computational Economics.
+August 2023: Our [Paper](https://sayarkarmakar.github.io/publications/safehavens.pdf) is now accepted at Computational Economics.
 
 July 2023: I joined the editorial board of ACM Transactions of Probabilistic Machine learning. [Link](https://dl.acm.org/journal/topml).
 
