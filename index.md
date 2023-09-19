@@ -50,6 +50,8 @@ Some of my recent and upcoming invited talks are [here](https://sayarkarmakar.gi
 
 <h2> Recent Updates</h2>
 
+September 2023: I joined the editorial board of Sankhya A [Link](https://www.springer.com/journal/13171/editors).
+
 September 2023: Our [Paper](https://www.up.ac.za/media/shared/61/WP/wp_2022_28.zp220424.pdf) received a revision request from Journal of Commodity Markets
 
 August 2023: Our [Paper](https://sayarkarmakar.github.io/publications/safehavens.pdf) is now accepted at Computational Economics.
