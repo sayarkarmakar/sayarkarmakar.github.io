@@ -11,6 +11,8 @@ January 5-8 IMS Asia pacific rim meeting, Melboune, Australia
 
 Dec 22-24, IIT Guwahati, Ramanujan Conference. 
 
+Oct 27: Mark C.K. Yang event, Univerwsity of Florida
+
 Oct 10-12, George Mason, ATD Grant symposium.
 
 August 5-10, JSM, Toronto
