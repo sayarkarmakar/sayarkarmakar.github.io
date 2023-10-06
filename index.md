@@ -49,7 +49,9 @@ keywords: time series, time-series data analysis, high-dimensional data.
 Some of my recent and upcoming invited talks are [here](https://sayarkarmakar.github.io/pages/talks.html)
 
 <h2> Recent Updates</h2>
-October 2023L Our [Paper](https://arxiv.org/abs/2208.11670) is accepted at Electronic Journal of Probability (modulo minor revision) This is my first paper in probability.
+October 2023: Our [Paper](https://arxiv.org/abs/2303.11402) recieved a revision request from Advances in Applied Probability.
+
+October 2023: Our [Paper](https://arxiv.org/abs/2208.11670) is accepted at Electronic Journal of Probability (modulo minor revision) This is my first paper in probability.
 
 September 2023: I joined the editorial board of Sankhya A [Link](https://www.springer.com/journal/13171/editors).
 

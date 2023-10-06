@@ -65,10 +65,15 @@ Bhasin, D. (Graduate student), **Karmakar, S.**, Podder, M., Roy, S. : On a clas
 Gupta, R., **Karmakar, S.**, Pierdzioch C. (Alphabetical order): Safe Havens, Machine Learning, and the Sources of Geopolitical Risk: A Forecasting Analysis Using Over a Century of Data. 
 [Paper](https://sayarkarmakar.github.io/publications/safehavens.pdf). To appear at Computational Economcis.
 
-### <a name="articles"></a>Submitted articles
 
 Gabauer, D. Gupta, R., **Karmakar, S.**, Nielsen J. (Alphabetical order): Stock Market Bubbles and the Forecastability of Gold Returns (and Volatility). [Paper](https://www.up.ac.za/media/shared/61/WP/wp_2022_28.zp220424.pdf)
+Revision requested from Journal of Commodity Markets.
 
+The spread of an epidemic: a game-theoretic approach. **Karmakar, S.**, 
+Podder M., Roy, S., Sadhukhan, S. [Paper](https://arxiv.org/abs/2303.11402)
+Revision requested from Advances in Applied Probability
+
+### <a name="articles"></a>Submitted articles
 
 
 **Karmakar, S.**, Mukherjee, A.: An Empirical Study of the Occurrence of Heavy-Tails in Training a ReLU Gate 
@@ -84,8 +89,6 @@ Bonnerjee, S. (Graduate student), **Karmakar, S.**, Wu, W.B.: Gaussian Approxima
 Phase transition for percolation games on rooted Galton-Watson tree. **Karmakar, S.**, 
 Podder M., Roy, S., Sadhukhan, S.  [Paper](https://arxiv.org/abs/2303.09771)
 
-The spread of an epidemic: a game-theoretic approach. **Karmakar, S.**, 
-Podder M., Roy, S., Sadhukhan, S. [Paper](https://arxiv.org/abs/2303.11402)
 
 
 ### <a name="articles"></a> Published Peer-reviewed Conference Articles 
