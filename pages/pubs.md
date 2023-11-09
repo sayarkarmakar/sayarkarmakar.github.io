@@ -75,6 +75,7 @@ Revision requested from Advances in Applied Probability
 
 ### <a name="articles"></a>Submitted articles
 
+Wu, K. (Graduate student), **Karmakar, S.**, Gupta, R., Pierdzioch, C. : Climate Risks and Stock Market Volatility Over a Century in an Emerging Market Economy: The Case of South Africa. Invited revision from Emerging Markets Finance and Trade 
 
 **Karmakar, S.**, Mukherjee, A.: An Empirical Study of the Occurrence of Heavy-Tails in Training a ReLU Gate 
 
