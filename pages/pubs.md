@@ -74,7 +74,7 @@ Podder M., Roy, S., Sadhukhan, S. [Paper](https://arxiv.org/abs/2303.11402)
 Revision requested from Advances in Applied Probability
 
 Extreme Weather Shocks and State-Level Inflation of the United States. Wenting liao, Xin Sheng,
-Rangan Gupta,** Karmakar, S.** [Paper](https://www.up.ac.za/media/shared/61/WP/wp_2024_02.zp246337.pdf) 
+Rangan Gupta,**Karmakar, S.** [Paper](https://www.up.ac.za/media/shared/61/WP/wp_2024_02.zp246337.pdf) 
 Revision requested from Economics Letters
 
 ### <a name="articles"></a>Submitted articles
