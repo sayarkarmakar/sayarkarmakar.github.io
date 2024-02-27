@@ -4,6 +4,11 @@ title: Talks/Presentations
 description: Sayar Karmakar's talks
 ---
 ### 2024
+August 4-7 JSM, Oregon
+
+June 25-29 ISNPS, Braga Portugal
+
+Feburary 1 UF Mathematics department
 
 January 5-8 IMS Asia pacific rim meeting, Melboune, Australia
 
