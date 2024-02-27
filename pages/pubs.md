@@ -73,6 +73,10 @@ The spread of an epidemic: a game-theoretic approach. **Karmakar, S.**,
 Podder M., Roy, S., Sadhukhan, S. [Paper](https://arxiv.org/abs/2303.11402)
 Revision requested from Advances in Applied Probability
 
+Extreme Weather Shocks and State-Level Inflation of the United States. Wenting liao, Xin Sheng,
+Rangan Gupta,** Karmakar, S.** [Paper](https://www.up.ac.za/media/shared/61/WP/wp_2024_02.zp246337.pdf) 
+Revision requested from Economics Letters
+
 ### <a name="articles"></a>Submitted articles
 
 Wu, K. (Graduate student), **Karmakar, S.**, Gupta, R., Pierdzioch, C. : Climate Risks and Stock Market Volatility Over a Century in an Emerging Market Economy: The Case of South Africa. Invited revision from Emerging Markets Finance and Trade 
@@ -85,7 +89,7 @@ Goplani, P. (Graduate Student), **Karmakar, S.**, Mukherjee, A..: Capacity of De
 
 Bhasin, D. (Graduate student), **Karmakar, S.**, Podder, M., Roy, S. : Ergodicity of a generalized probabilistic cellular automaton with parity-based neighbourhoods  [Paper](https://arxiv.org/abs/2212.01753)
 
-Bonnerjee, S. (Graduate student), **Karmakar, S.**, Wu, W.B.: Gaussian Approximations for non-stationary time-series with optimal rate and explicit construction. 
+Bonnerjee, S. (Graduate student), **Karmakar, S.**, Wu, W.B.: Gaussian Approximations for non-stationary time-series with optimal rate and explicit construction. Reject and Resubmit from Annals of Statistics
 
 Phase transition for percolation games on rooted Galton-Watson tree. **Karmakar, S.**, 
 Podder M., Roy, S., Sadhukhan, S.  [Paper](https://arxiv.org/abs/2303.09771)

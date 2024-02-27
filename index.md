@@ -49,6 +49,8 @@ keywords: time series, time-series data analysis, high-dimensional data.
 Some of my recent and upcoming invited talks are [here](https://sayarkarmakar.github.io/pages/talks.html)
 
 <h2> Recent Updates</h2>
+Febraury 2023: Our [Paper](https://www.up.ac.za/media/shared/61/WP/wp_2024_02.zp246337.pdf) received a revision request from Economics Letters.
+
 November 2023: Our [Paper](https://ideas.repec.org/p/pre/wpaper/202326.html) received a revision request from Emerging Markets Finance and Trade
 
 October 2023: Our [Paper](http://arxiv.org/abs/2303.09771) received a revision request from Advances in Applied Probability.
