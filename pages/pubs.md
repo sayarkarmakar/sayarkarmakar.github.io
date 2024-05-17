@@ -16,6 +16,8 @@ description: Sayar Karmakar's publications
 
 ### <a name="articles"></a>Published Journal articles
 
+Bonnerjee, S. (Graduate student), **Karmakar, S.**, Wu, W.B.: Gaussian Approximations for non-stationary time-series with optimal rate and explicit construction. Minor revision from Annals of Statistics
+
 **Karmakar, S.**, Richter, S., Wu, W. B.: Simultaneous inference for time-varying models; Journal of Econometrics. (2021)
 [Paper](https://doi.org/10.1016/j.jeconom.2021.03.002) 
 
@@ -88,8 +90,6 @@ Wu, K. (Graduate student), **Karmakar, S.**, Gupta, R., Pierdzioch, C. : Climate
 Goplani, P. (Graduate Student), **Karmakar, S.**, Mukherjee, A..: Capacity of DeepONets in solving Differential Equations.  [Paper](https://arxiv.org/abs/2205.11539)
 
 Bhasin, D. (Graduate student), **Karmakar, S.**, Podder, M., Roy, S. : Ergodicity of a generalized probabilistic cellular automaton with parity-based neighbourhoods  [Paper](https://arxiv.org/abs/2212.01753)
-
-Bonnerjee, S. (Graduate student), **Karmakar, S.**, Wu, W.B.: Gaussian Approximations for non-stationary time-series with optimal rate and explicit construction. Reject and Resubmit from Annals of Statistics
 
 Phase transition for percolation games on rooted Galton-Watson tree. **Karmakar, S.**, 
 Podder M., Roy, S., Sadhukhan, S.  [Paper](https://arxiv.org/abs/2303.09771)
