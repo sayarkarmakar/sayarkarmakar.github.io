@@ -81,7 +81,7 @@ To appear at Economics Letters
 
 Wu, K. (Graduate student), **Karmakar, S.**, Gupta, R., Pierdzioch, C. : Climate Risks and Stock Market Volatility Over a Century in an Emerging Market Economy: The Case of South Africa. To appear at Climate.
 
-Kundu, S., (Graduate student), Das, S. (Graduate student) **Karmakar, S.**, Basu, K., Raha, A.,  Makris, G: .Bit-by-Bit: Investigating the Vulnerabilities of Binary Neural Networks to Adversarial Bit Flipping [Paper](https://sayarkarmakar.github.io/publications/tmlr.pdf)
+Kundu, S., (Graduate student), Das, S. (Graduate student) **Karmakar, S.**, Basu, K., Raha, A., Kundu, S.,  Makris, Y: .Bit-by-Bit: Investigating the Vulnerabilities of Binary Neural Networks to Adversarial Bit Flipping [Paper](https://sayarkarmakar.github.io/publications/tmlr.pdf)
 
 
 
