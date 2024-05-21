@@ -16,7 +16,7 @@ description: Sayar Karmakar's publications
 
 ### <a name="articles"></a>Published Journal articles
 
-Bonnerjee, S. (Graduate student), **Karmakar, S.**, Wu, W.B.: Gaussian Approximations for non-stationary time-series with optimal rate and explicit construction. Minor revision from Annals of Statistics
+Bonnerjee, S. (Graduate student), **Karmakar, S.**, Wu, W.B.: Gaussian Approximations for non-stationary time-series with optimal rate and explicit construction. Minor revision from Annals of Statistics. [Paper](https://sayarkarmakar.github.io/publications/aos.pdf)
 
 **Karmakar, S.**, Richter, S., Wu, W. B.: Simultaneous inference for time-varying models; Journal of Econometrics. (2021)
 [Paper](https://doi.org/10.1016/j.jeconom.2021.03.002) 
@@ -69,7 +69,7 @@ Gupta, R., **Karmakar, S.**, Pierdzioch C. (Alphabetical order): Safe Havens, Ma
 
 
 Gabauer, D. Gupta, R., **Karmakar, S.**, Nielsen J. (Alphabetical order): Stock Market Bubbles and the Forecastability of Gold Returns (and Volatility). [Paper](https://www.up.ac.za/media/shared/61/WP/wp_2022_28.zp220424.pdf)
-Revision requested from Journal of Commodity Markets.
+Revision requested from Applied Stochastic Models in Business and Industry
 
 The spread of an epidemic: a game-theoretic approach. **Karmakar, S.**, 
 Podder M., Roy, S., Sadhukhan, S. [Paper](https://arxiv.org/abs/2303.11402)
@@ -77,11 +77,17 @@ Revision requested from Advances in Applied Probability
 
 Extreme Weather Shocks and State-Level Inflation of the United States. Wenting liao, Xin Sheng,
 Rangan Gupta,**Karmakar, S.** [Paper](https://www.up.ac.za/media/shared/61/WP/wp_2024_02.zp246337.pdf) 
-Revision requested from Economics Letters
+To appear at Economics Letters
+
+Wu, K. (Graduate student), **Karmakar, S.**, Gupta, R., Pierdzioch, C. : Climate Risks and Stock Market Volatility Over a Century in an Emerging Market Economy: The Case of South Africa. To appear at Climate.
+
+Kundu, S., (Graduate student), Das, S. (Graduate student) **Karmakar, S.**, Basu, K., Raha, A.,  Makris, G: .Bit-by-Bit: Investigating the Vulnerabilities of Binary Neural Networks to Adversarial Bit Flipping [Paper](https://sayarkarmakar.github.io/publications/tmlr.pdf)
+
+
 
 ### <a name="articles"></a>Submitted articles
 
-Wu, K. (Graduate student), **Karmakar, S.**, Gupta, R., Pierdzioch, C. : Climate Risks and Stock Market Volatility Over a Century in an Emerging Market Economy: The Case of South Africa. Invited revision from Emerging Markets Finance and Trade 
+
 
 **Karmakar, S.**, Mukherjee, A.: An Empirical Study of the Occurrence of Heavy-Tails in Training a ReLU Gate 
 

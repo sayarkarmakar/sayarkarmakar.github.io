@@ -49,13 +49,16 @@ keywords: time series, time-series data analysis, high-dimensional data.
 Some of my recent and upcoming invited talks are [here](https://sayarkarmakar.github.io/pages/talks.html)
 
 <h2> Recent Updates</h2>
-May 2023: Our [Paper](https://sayarkarmakar.github.io/publications/aos.pdf) received a minor revision from Annals of Statistics.
+May 2024: Our [Paper](https://sayarkarmakar.github.io/publications/aos.pdf) received a minor revision from Annals of Statistics.
 
-May 2023: Our [Paper](https://ideas.repec.org/p/pre/wpaper/202326.html) was accepted at Climate.
+May 2024: Our [Paper](https://sayarkarmakar.github.io/publications/tmlr.pdf) is accepted at Transactions of Machine Learning Research modulo minor revision.
 
-April 2023: Our [Paper](https://www.up.ac.za/media/shared/61/WP/wp_2024_02.zp246337.pdf) is now accepted at Economics Letters.
+May 2024: Our [Paper](https://ideas.repec.org/p/pre/wpaper/202326.html) received a revision request from Applied Stochastic Models in Business and Industry
 
-November 2023: Our [Paper](https://ideas.repec.org/p/pre/wpaper/202326.html) received a revision request from Emerging Markets Finance and Trade
+April 2024: Our [Paper](https://ideas.repec.org/p/pre/wpaper/202326.html) was accepted at Climate.
+
+April 2024: Our [Paper](https://www.up.ac.za/media/shared/61/WP/wp_2024_02.zp246337.pdf) is now accepted at Economics Letters.
+
 
 October 2023: Our [Paper](http://arxiv.org/abs/2303.09771) received a revision request from Advances in Applied Probability.
 
