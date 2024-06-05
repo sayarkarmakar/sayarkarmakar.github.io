@@ -83,6 +83,7 @@ Wu, K. (Graduate student), **Karmakar, S.**, Gupta, R., Pierdzioch, C. : Climate
 
 Kundu, S., (Graduate student), Das, S. (Graduate student) **Karmakar, S.**, Basu, K., Raha, A., Kundu, S.,  Makris, Y: .Bit-by-Bit: Investigating the Vulnerabilities of Binary Neural Networks to Adversarial Bit Flipping [Paper](https://sayarkarmakar.github.io/publications/tmlr.pdf)
 
+Chakraborty, N, **Karmakar, S.**, Koul, H. : A Bootstrap test for testing the equality of ultra-high dimensional covariance matrices. [Paper](https://sayarkarmakar.github.io/publications/jmva.pdf) Revision requested from Journal of Multivariate Analysis.
 
 
 ### <a name="articles"></a>Submitted articles

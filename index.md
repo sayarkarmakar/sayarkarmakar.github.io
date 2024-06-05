@@ -49,6 +49,8 @@ keywords: time series, time-series data analysis, high-dimensional data.
 Some of my recent and upcoming invited talks are [here](https://sayarkarmakar.github.io/pages/talks.html)
 
 <h2> Recent Updates</h2>
+June 2024: Our [Paper](https://sayarkarmakar.github.io/publications/jmva.pdf) received a Major revision from Journal of Multivariate Analysis.
+
 May 2024: Our [Paper](https://sayarkarmakar.github.io/publications/aos.pdf) received a minor revision from Annals of Statistics.
 
 May 2024: Our [Paper](https://sayarkarmakar.github.io/publications/tmlr.pdf) is accepted at Transactions of Machine Learning Research modulo minor revision.
