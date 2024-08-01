@@ -16,7 +16,7 @@ description: Sayar Karmakar's publications
 
 ### <a name="articles"></a>Published Journal articles
 
-Bonnerjee, S. (Graduate student), **Karmakar, S.**, Wu, W.B.: Gaussian Approximations for non-stationary time-series with optimal rate and explicit construction. Minor revision from Annals of Statistics. [Paper](https://sayarkarmakar.github.io/publications/aos.pdf)
+Bonnerjee, S. (Graduate student), **Karmakar, S.**, Wu, W.B.: Gaussian Approximations for non-stationary time-series with optimal rate and explicit construction. To appear at Annals of Statistics. [Paper](https://sayarkarmakar.github.io/publications/aos.pdf)
 
 **Karmakar, S.**, Richter, S., Wu, W. B.: Simultaneous inference for time-varying models; Journal of Econometrics. (2021)
 [Paper](https://doi.org/10.1016/j.jeconom.2021.03.002) 

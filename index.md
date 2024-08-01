@@ -49,11 +49,11 @@ keywords: time series, time-series data analysis, high-dimensional data.
 Some of my recent and upcoming invited talks are [here](https://sayarkarmakar.github.io/pages/talks.html)
 
 <h2> Recent Updates</h2>
+July 2024: Our [Paper](https://sayarkarmakar.github.io/publications/aos.pdf) is accepted at Annals of Statistics.
+
 July 2024: We submitted a [Paper](https://www.up.ac.za/media/shared/61/WP/wp_2024_32.zp253760.pdf) on analyzing connectedness of digital asset class. We have a few other applied works on this area going on. 
 
 June 2024: Our Paper on Two-sample tests for high-dimensional covariance matrices received a Major revision from Journal of Multivariate Analysis.
-
-May 2024: Our [Paper](https://sayarkarmakar.github.io/publications/aos.pdf) received a minor revision from Annals of Statistics.
 
 May 2024: Our [Paper](https://sayarkarmakar.github.io/publications/tmlr.pdf) is accepted at Transactions of Machine Learning Research modulo minor revision.
 
