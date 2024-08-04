@@ -53,6 +53,8 @@ July 2024: Our [Paper](https://sayarkarmakar.github.io/publications/aos.pdf) is 
 
 July 2024: We submitted a [Paper](https://www.up.ac.za/media/shared/61/WP/wp_2024_32.zp253760.pdf) on analyzing connectedness of digital asset class. We have a few other applied works on this area going on. 
 
+June 2024: We submitted a [Paper](https://sayarkarmakar.github.io/publications/cpsync.pdf) on synchronization of changepoints.
+
 June 2024: Our Paper on Two-sample tests for high-dimensional covariance matrices received a Major revision from Journal of Multivariate Analysis.
 
 May 2024: Our [Paper](https://sayarkarmakar.github.io/publications/tmlr.pdf) is accepted at Transactions of Machine Learning Research modulo minor revision.
