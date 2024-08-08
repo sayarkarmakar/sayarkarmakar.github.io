@@ -49,7 +49,7 @@ keywords: time series, time-series data analysis, high-dimensional data.
 Some of my recent and upcoming invited talks are [here](https://sayarkarmakar.github.io/pages/talks.html)
 
 <h2> Recent Updates</h2>
-August 2024: Our [Paper](https://ideas.repec.org/p/pre/wpaper/202326.html) is now accepted at Applied Stochastic Models in Business and Industry.
+August 2024: Our [Paper](https://sayarkarmakar.github.io/publications/Gold_bubbles.pdf) is now accepted at Applied Stochastic Models in Business and Industry.
 
 July 2024: Our [Paper](https://sayarkarmakar.github.io/publications/aos.pdf) is accepted at Annals of Statistics.
 
