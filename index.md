@@ -61,8 +61,7 @@ June 2024: We submitted a [Paper](https://sayarkarmakar.github.io/publications/c
 
 June 2024: Our Paper on Two-sample tests for high-dimensional covariance matrices received a Major revision from Journal of Multivariate Analysis.
 
-May 2024: Our [Paper](https://sayarkarmakar.github.io/publications/tmlr.pdf) is accepted at Transactions of Machine Learning Research modulo minor revision.
-
+May 2024: Our [Paper](https://sayarkarmakar.github.io/publications/tmlr.pdf) is accepted at Transactions of Machine Learning Research.
 
 April 2024: Our [Paper](https://ideas.repec.org/p/pre/wpaper/202326.html) was accepted at Climate.
 
