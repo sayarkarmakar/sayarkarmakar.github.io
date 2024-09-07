@@ -24,6 +24,8 @@ To appear at Applied Stochastic Models in Business and Industry
 **Karmakar, S.**, Richter, S., Wu, W. B.: Simultaneous inference for time-varying models; Journal of Econometrics. (2021)
 [Paper](https://doi.org/10.1016/j.jeconom.2021.03.002) 
 
+
+
 **Karmakar, S.**, Wu, W. B.: Optimal Gaussian Approximation of multiple time series; Statistica Sinica, 30, 1399-1417 (2020). [Paper](doi.org/10.5705/ss.202017.0303) Presented in Sinica invited session JSM 2020 (One of 3 papers for the time period 2018-20)
 
 Chudy, M., **Karmakar S.**, Wu, W. B.: Long-term Prediction Intervals of economic time-series; Empirical Economics, 58, 191-222 (2020) [Paper](https://doi.org/10.1007/s00181-019-01689-2) 
@@ -33,6 +35,10 @@ Nakada, R.(Graduate student), Kubokawa, T., Ghosh, M., **Karmakar S.**: Shrinkag
 **Karmakar, S.**, Roy, A..: Bayesian modelling of time-varying conditional heteroscedasticity [Paper](https://doi.org/10.1214/21-BA1267) Bayesian Analysis
 
 Roy, A., **Karmakar, S.**.: Time-varying auto-regressive models for count time-series [Paper](https://doi.org/10.1214/21-EJS1851) Electronic Journal of Statistics 15 (1) 2905 - 2938, 2021 
+
+Wenting liao, Xin Sheng,
+Rangan Gupta,**Karmakar, S.**: Extreme Weather Shocks and State-Level Inflation of the United States.  [Paper](https://www.up.ac.za/media/shared/61/WP/wp_2024_02.zp246337.pdf) 
+To appear at Economics Letters
 
 **Karmakar S.**, Chudy, M., Wu, W. B.: Long-term prediction intervals with many covariates. Accepted at Journal of Time-series analysis. 2021. An earlier version was previously accepted for
 Internantional Symposium for Forecasting 2019 at Invited session on SWEET pricing.  [Paper](https://doi.org/10.1111/jtsa.12629) 
@@ -65,19 +71,18 @@ Deb, S., **Karmakar, S.**: A novel spatiotemporal algorithm and its application 
 
 Plakandaras, V.,  Gupta, R.,  Wohar, M.,  **Karmakar, S.**: Are Real Interest Rates a Monetary Phenomenon in Advanced Economies? Evidence from Over 700 Years of Data. To appear at Research in International Business and Finance. Volume 66, October 2023, 102010. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0275531923001368?dgcid=coauthor)
 
-Bhasin, D. (Graduate student), **Karmakar, S.**, Podder, M., Roy, S. : On a class of Probabilistic Cellular Automata with Size-3 Neighborhood and Their Applications on Percolation Games.  [Paper](https://arxiv.org/abs/2208.11670). To appear Electronic Journal of Probability. (modulo minor revision)
+Bhasin, D. (Graduate student), **Karmakar, S.**, Podder, M., Roy, S. : On a class of Probabilistic Cellular Automata with Size-3 Neighborhood and Their Applications on Percolation Games.  [Paper](https://arxiv.org/abs/2208.11670). To appear Electronic Journal of Probability. 
 
 Gupta, R., **Karmakar, S.**, Pierdzioch C. (Alphabetical order): Safe Havens, Machine Learning, and the Sources of Geopolitical Risk: A Forecasting Analysis Using Over a Century of Data. 
 [Paper](https://sayarkarmakar.github.io/publications/safehavens.pdf). To appear at Computational Economcis.
 
 
-The spread of an epidemic: a game-theoretic approach. **Karmakar, S.**, 
-Podder M., Roy, S., Sadhukhan, S. [Paper](https://arxiv.org/abs/2303.11402)
+**Karmakar, S.**, Podder M., Roy, S., Sadhukhan, S.: The spread of an epidemic: a game-theoretic approach.  [Paper](https://arxiv.org/abs/2303.11402)
 Revision requested from Advances in Applied Probability
 
-Extreme Weather Shocks and State-Level Inflation of the United States. Wenting liao, Xin Sheng,
-Rangan Gupta,**Karmakar, S.** [Paper](https://www.up.ac.za/media/shared/61/WP/wp_2024_02.zp246337.pdf) 
-To appear at Economics Letters
+Bhasin, D. (Graduate student), **Karmakar, S.**, Podder, M., Roy, S. : Bond percolation games on the 2-dimensional square lattice, and ergodicity of associated probabilistic cellular automata. [Paper](https://arxiv.org/abs/2405.12199). Reject and Resubmit from Applied Probability Trust
+
+
 
 Wu, K. (Graduate student), **Karmakar, S.**, Gupta, R., Pierdzioch, C. : Climate Risks and Stock Market Volatility Over a Century in an Emerging Market Economy: The Case of South Africa. To appear at Climate.
 
