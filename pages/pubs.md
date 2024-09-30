@@ -86,10 +86,11 @@ Bhasin, D. (Graduate student), **Karmakar, S.**, Podder, M., Roy, S. : Bond perc
 
 Wu, K. (Graduate student), **Karmakar, S.**, Gupta, R., Pierdzioch, C. : Climate Risks and Stock Market Volatility Over a Century in an Emerging Market Economy: The Case of South Africa. To appear at Climate.
 
-Kundu, S., (Graduate student), Das, S. (Graduate student) **Karmakar, S.**, Basu, K., Raha, A., Kundu, S.,  Makris, Y: .Bit-by-Bit: Investigating the Vulnerabilities of Binary Neural Networks to Adversarial Bit Flipping [Paper](https://sayarkarmakar.github.io/publications/tmlr.pdf)
+Kundu, S., (Graduate student), Das, S. (Graduate student) **Karmakar, S.**, Basu, K., Raha, A., Kundu, S.,  Makris, Y: .Bit-by-Bit: Investigating the Vulnerabilities of Binary Neural Networks to Adversarial Bit Flipping [Paper](https://sayarkarmakar.github.io/publications/tmlr.pdf). To appear at Transactions of Machine Learning Research.
 
 Chakraborty, N, **Karmakar, S.**, Koul, H. : A Bootstrap test for testing the equality of ultra-high dimensional covariance matrices. [Paper](https://sayarkarmakar.github.io/publications/jmva.pdf) Revision requested from Journal of Multivariate Analysis. Revision submitted.
 
+Goplani, P. (Graduate Student), **Karmakar, S.**, Dibyakanti, K. (Graduate student), Mukherjee, A..: Capacity of DeepONets in solving Differential Equations.  [Paper](https://arxiv.org/abs/2205.11539). Revision requested from Transactions of Machine Learning Research.
 
 ### <a name="articles"></a>Submitted articles
 
@@ -99,7 +100,6 @@ Chakraborty, N, **Karmakar, S.**, Koul, H. : A Bootstrap test for testing the eq
 
 **Karmakar, S.**, Podder, M.: The regular stochastic block model on several-community networks. [Paper](https://arxiv.org/abs/2002.05577) :Revision requested from Statistics and Probability Letters. 
 
-Goplani, P. (Graduate Student), **Karmakar, S.**, Mukherjee, A..: Capacity of DeepONets in solving Differential Equations.  [Paper](https://arxiv.org/abs/2205.11539)
 
 Bhasin, D. (Graduate student), **Karmakar, S.**, Podder, M., Roy, S. : Ergodicity of a generalized probabilistic cellular automaton with parity-based neighbourhoods  [Paper](https://arxiv.org/abs/2212.01753)
 

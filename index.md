@@ -49,6 +49,8 @@ keywords: time series, time-series data analysis, high-dimensional data.
 Some of my recent and upcoming invited talks are [here](https://sayarkarmakar.github.io/pages/talks.html)
 
 <h2> Recent Updates</h2>
+October 2024: Our [Paper](https://sayarkarmakar.github.io/publications/cpsync.pdf) received a major revision from JASA.
+
 September 2024: Our [Paper](https://arxiv.org/abs/2405.12199) received a Reject and Resubmit from Applied Probability Trust. 
 
 August 2024: Our [Paper](https://sayarkarmakar.github.io/publications/Gold_bubbles.pdf) is now accepted at Applied Stochastic Models in Business and Industry.
@@ -57,7 +59,6 @@ July 2024: Our [Paper](https://sayarkarmakar.github.io/publications/aos.pdf) is 
 
 July 2024: We submitted a [Paper](https://www.up.ac.za/media/shared/61/WP/wp_2024_32.zp253760.pdf) on analyzing connectedness of digital asset class. We have a few other applied works on this area going on. 
 
-June 2024: We submitted a [Paper](https://sayarkarmakar.github.io/publications/cpsync.pdf) on synchronization of changepoints.
 
 June 2024: Our Paper on Two-sample tests for high-dimensional covariance matrices received a Major revision from Journal of Multivariate Analysis.
 
