@@ -49,7 +49,7 @@ keywords: time series, time-series data analysis, high-dimensional data.
 Some of my recent and upcoming invited talks are [here](https://sayarkarmakar.github.io/pages/talks.html)
 
 <h2> Recent Updates</h2>
-October 2024: Our [Paper](http://arxiv.org/abs/2303.09771) is now accepted at Advances in Applied Probability
+October 2024: Our [Paper](https://sayarkarmakar.github.io/publications/AAP_revision.pdf) is now accepted at Advances in Applied Probability
 
 October 2024: Our [Paper](https://sayarkarmakar.github.io/publications/cpsync.pdf) received a major revision from JASA.
 
