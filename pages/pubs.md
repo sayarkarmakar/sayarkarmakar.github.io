@@ -15,6 +15,13 @@ description: Sayar Karmakar's publications
 
 
 ### <a name="articles"></a>Published Journal articles
+Goplani, P. (Graduate Student), **Karmakar, S.**, Dibyakanti, K. (Graduate student), Mukherjee, A..:  [Paper](https://arxiv.org/abs/2205.11539). Accepted at Transactions of Machine Learning Research.
+
+
+Bonnerjee, S. (Graduate student), Chen, M., **Karmakar, S.**, Wu, W.B.: Testing synchronization for multiple time-series. Revision requested from Journal of the American Statistical Association [Paper](https://sayarkarmakar.github.io/publications/cpsync.pdf)
+
+**Karmakar, S.**, Podder M., Roy, S., Sadhukhan, S.: The spread of an epidemic: a game-theoretic approach.  [Paper](https://arxiv.org/abs/2303.11402)
+To appear at Advances in Applied Probability
 
 Bonnerjee, S. (Graduate student), **Karmakar, S.**, Wu, W.B.: Gaussian Approximations for non-stationary time-series with optimal rate and explicit construction. To appear at Annals of Statistics. [Paper](https://sayarkarmakar.github.io/publications/aos.pdf)
 
@@ -77,9 +84,6 @@ Gupta, R., **Karmakar, S.**, Pierdzioch C. (Alphabetical order): Safe Havens, Ma
 [Paper](https://sayarkarmakar.github.io/publications/safehavens.pdf). To appear at Computational Economcis.
 
 
-**Karmakar, S.**, Podder M., Roy, S., Sadhukhan, S.: The spread of an epidemic: a game-theoretic approach.  [Paper](https://arxiv.org/abs/2303.11402)
-Revision requested from Advances in Applied Probability
-
 Bhasin, D. (Graduate student), **Karmakar, S.**, Podder, M., Roy, S. : Bond percolation games on the 2-dimensional square lattice, and ergodicity of associated probabilistic cellular automata. [Paper](https://arxiv.org/abs/2405.12199). Reject and Resubmit from Applied Probability Trust
 
 
@@ -90,7 +94,6 @@ Kundu, S., (Graduate student), Das, S. (Graduate student) **Karmakar, S.**, Basu
 
 Chakraborty, N, **Karmakar, S.**, Koul, H. : A Bootstrap test for testing the equality of ultra-high dimensional covariance matrices. [Paper](https://sayarkarmakar.github.io/publications/jmva.pdf) Revision requested from Journal of Multivariate Analysis. Revision submitted.
 
-Goplani, P. (Graduate Student), **Karmakar, S.**, Dibyakanti, K. (Graduate student), Mukherjee, A..: Capacity of DeepONets in solving Differential Equations.  [Paper](https://arxiv.org/abs/2205.11539). Revision requested from Transactions of Machine Learning Research.
 
 ### <a name="articles"></a>Submitted articles
 
