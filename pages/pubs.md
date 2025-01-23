@@ -15,8 +15,10 @@ description: Sayar Karmakar's publications
 
 
 ### <a name="articles"></a>Published Journal articles
-Goplani, P. (Graduate Student), **Karmakar, S.**, Dibyakanti, K. (Graduate student), Mukherjee, A..:  [Paper](https://arxiv.org/abs/2205.11539). Accepted at Transactions of Machine Learning Research.
 
+Wu, K. (Graduate student), **Karmakar, S.**, Gupta, R.: GARCHX-NoVaS: A Bootstrap-based approach of forecasting for GARCHX models. Minor revision requested from Journal of Forecasting.
+
+Goplani, P. (Graduate Student), **Karmakar, S.**, Dibyakanti, K. (Graduate student), Mukherjee, A..:  [Paper](https://arxiv.org/abs/2205.11539). Accepted at Transactions of Machine Learning Research.
 
 Bonnerjee, S. (Graduate student), Chen, M., **Karmakar, S.**, Wu, W.B.: Testing synchronization for multiple time-series. Revision requested from Journal of the American Statistical Association [Paper](https://sayarkarmakar.github.io/publications/cpsync.pdf)
 
