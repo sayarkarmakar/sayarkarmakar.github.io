@@ -49,6 +49,8 @@ keywords: time series, time-series data analysis, high-dimensional data.
 Some of my recent and upcoming invited talks are [here](https://sayarkarmakar.github.io/pages/talks.html)
 
 <h2> Recent Updates</h2>
+February 2025: I joined the editorial board of Statistical Papers. 
+
 January 2025: Our [Paper](https://sayarkarmakar.github.io/publications/garchxnovas.pdf) receieved a minor revision from Journal of Forecasting. 
 
 November 2024: Our [Paper](https://arxiv.org/abs/2205.11359) is now accepted at Transactions of Machine Learning Research. 
