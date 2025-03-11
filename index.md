@@ -49,6 +49,8 @@ keywords: time series, time-series data analysis, high-dimensional data.
 Some of my recent and upcoming invited talks are [here](https://sayarkarmakar.github.io/pages/talks.html)
 
 <h2> Recent Updates</h2>
+March 2025: Our [Paper](https://sayarkarmakar.github.io/publications/shortagerangan.pdf)
+
 February 2025: I joined the editorial board of Statistical Papers. 
 
 January 2025: Our [Paper](https://sayarkarmakar.github.io/publications/garchxnovas.pdf) receieved a minor revision from Journal of Forecasting. 
