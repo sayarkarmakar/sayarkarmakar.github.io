@@ -49,7 +49,7 @@ keywords: time series, time-series data analysis, high-dimensional data.
 Some of my recent and upcoming invited talks are [here](https://sayarkarmakar.github.io/pages/talks.html)
 
 <h2> Recent Updates</h2>
-March 2025: Our [Paper](https://sayarkarmakar.github.io/publications/shortagerangan.pdf) received a revision request from Finance Research Letters. We submitted it. 
+March 2025: Our [Paper](https://sayarkarmakar.github.io/publications/oilshortageFRL.pdf) is now accepted at Finance Research Letters.
 
 February 2025: I joined the editorial board of Statistical Papers. 
 
