@@ -16,10 +16,9 @@ description: Sayar Karmakar's publications
 
 ### <a name="articles"></a>Published Journal articles
 
-Polat, O., Gupta, R., Somani D. (Graduate Student), **Karmakar, S.** 
-: Shortages and Machine-Learning Forecasting of Oil Returns Volatility: 1900-2024. To appear at Finance Research Letters.
+Polat, O., Gupta, R., Somani D. (Graduate Student), **Karmakar, S.** : Shortages and Machine-Learning Forecasting of Oil Returns Volatility: 1900-2024. To appear at Finance Research Letters.
 
-Wu, K. (Graduate student), **Karmakar, S.**, Gupta, R.: GARCHX-NoVaS: A Bootstrap-based approach of forecasting for GARCHX models. Minor revision requested from Journal of Forecasting.
+Wu, K. (Graduate student), **Karmakar, S.**, Gupta, R.: GARCHX-NoVaS: A Bootstrap-based approach of forecasting for GARCHX models. To appear at Journal of Forecasting.
 
 Goplani, P. (Graduate Student), **Karmakar, S.**, Dibyakanti, K. (Graduate student), Mukherjee, A..:  [Paper](https://arxiv.org/abs/2205.11539). Accepted at Transactions of Machine Learning Research.
 
@@ -102,6 +101,7 @@ Chakraborty, N, **Karmakar, S.**, Koul, H. : A Bootstrap test for testing the eq
 
 ### <a name="articles"></a>Submitted articles
 
+Bonnerjee, S. (Graduate student), **Karmakar, S.**, Wu, W.: Sharp Gaussian Approximations for Decentralized Federated Learning. https://arxiv.org/pdf/2505.08125
 
 
 **Karmakar, S.**, Mukherjee, A.: An Empirical Study of the Occurrence of Heavy-Tails in Training a ReLU Gate 
