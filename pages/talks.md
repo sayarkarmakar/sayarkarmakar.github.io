@@ -3,6 +3,15 @@ layout: page
 title: Talks/Presentations
 description: Sayar Karmakar's talks
 ---
+
+### 2025
+Dec 17-20: JOINT / ICSA, Taipei
+
+August 23: Ecosta, Tokyo Japan
+
+June 12: TRR Summer school, TU Dortmund
+
+
 ### 2024
 August 4-7 JSM, Oregon
 
