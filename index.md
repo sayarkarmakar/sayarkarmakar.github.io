@@ -62,7 +62,7 @@ August 2025: Our [Paper](https://www.up.ac.za/media/shared/61/WP/wp_2025_21.zp26
 
 August 2025: Our [Paper](https://arxiv.org/abs/2405.12199) received a minor revision from Advances in Applied Probability.
 
-May-June 2025: I was teaching at TU Dortmund a summer course on High Dimensional Time-series analysis as a visiting professor. I also gave 4 lectures in the [TRR summer school](https://trr391.tu-dortmund.de/events/summer-schools/) 
+May-June 2025: I was teaching at TU Dortmund a summer course on High Dimensional Time-series analysis as a visiting professor. I also gave 4 lectures in the [TRR summer school](https://trr391.tu-dortmund.de/events/summer-schools/) on spatial and spatiotemporal statistics.
 
 May 2025: We submitted a new [Paper](https://arxiv.org/pdf/2505.08125) on Gaussian approximations for DFL
 
