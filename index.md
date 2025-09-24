@@ -49,6 +49,21 @@ keywords: time series, time-series data analysis, high-dimensional data.
 Some of my recent and upcoming invited talks are [here](https://sayarkarmakar.github.io/pages/talks.html)
 
 <h2> Recent Updates</h2>
+
+September 2025: Our [Paper](https://arxiv.org/pdf/2505.08125) was accepted at NeurIPS 2025 as a Spotlight poster.
+
+September 2025: Our [Paper](https://arxiv.org/abs/2406.00831) recieved a revision request from Journal of Statistical Physics. Revision submitted. 
+
+September 2025: We submitted a [Paper]() for changepoint localization of watermarked text.
+
+September 2025: Our [Paper](https://www.up.ac.za/media/shared/61/WP/wp_2024_32.zp253760.pdf) received a revision request from Bulletin of Economic Research
+
+August 2025: Our [Paper](https://www.up.ac.za/media/shared/61/WP/wp_2025_21.zp267546.pdf) recieved a revision request from Finance Research Letters.
+
+August 2025: Our [Paper](https://arxiv.org/abs/2405.12199) received a minor revision from Advances in Applied Probability.
+
+May-June 2025: I was teaching at TU Dortmund a summer course on High Dimensional Time-series analysis as a visiting professor. I also gave 4 lectures in the [TRR summer school](https://trr391.tu-dortmund.de/events/summer-schools/) 
+
 May 2025: We submitted a new [Paper](https://arxiv.org/pdf/2505.08125) on Gaussian approximations for DFL
 
 May 2025: Our [Paper](https://sayarkarmakar.github.io/publications/garchxnovas.pdf) is now accepted at Journal of Forecasting. 
