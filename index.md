@@ -50,7 +50,9 @@ Some of my recent and upcoming invited talks are [here](https://sayarkarmakar.gi
 
 <h2> Recent Updates</h2>
 
-September 2025: Our [Paper](https://arxiv.org/pdf/2505.08125) was accepted at NeurIPS 2025 as a Spotlight poster.
+September 2025: Our [Paper](https://arxiv.org/pdf/2505.08125) was accepted at NeurIPS 2025 as a **Spotlight** (Top 3%) poster.
+
+September 2025: Our [Paper](https://sohamb01.github.io/drafts/test-of-synchronization.pdf) received a revision request from Biometrika.
 
 September 2025: Our [Paper](https://arxiv.org/abs/2406.00831) recieved a revision request from Journal of Statistical Physics. Revision submitted. 
 
