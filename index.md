@@ -41,7 +41,7 @@ keywords: time series, time-series data analysis, high-dimensional data.
 </tr>
 </table>
 
-[Curriculum Vitae](https://sayarkarmakar.github.io/publications/CV_Sayar_2.pdf)
+[Curriculum Vitae](https://sayarkarmakar.github.io/publications/CV_Sayar_2-10.pdf)
 
 [Google scholar](https://scholar.google.com/citations?hl=en&user=RML8HC0AAAAJ)
 
