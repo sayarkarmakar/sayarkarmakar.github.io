@@ -56,7 +56,7 @@ September 2025: Our [Paper](https://sohamb01.github.io/drafts/test-of-synchroniz
 
 September 2025: Our [Paper](https://arxiv.org/abs/2406.00831) recieved a revision request from Journal of Statistical Physics. Revision submitted. 
 
-September 2025: We submitted a [Paper](https://sayarkarmakar.github.io/publications/Watermark_epidemic.pdf) to ICLR 2026.
+September 2025: We submitted a [Paper](https://arxiv.org/pdf/2509.21160) to ICLR 2026.
 
 September 2025: Our [Paper](https://www.up.ac.za/media/shared/61/WP/wp_2024_32.zp253760.pdf) received a revision request from Bulletin of Economic Research
 
