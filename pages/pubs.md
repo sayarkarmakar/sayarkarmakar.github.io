@@ -4,14 +4,6 @@ title: Publications
 description: Sayar Karmakar's publications
 ---
 
-<div class="navbar">
-    <div class="navbar-inner">
-        <ul class="nav">
-            <li><a href="#articles">articles</a></li>
-            <li><a href="#thesis">dissertation</a></li>
-        </ul>
-    </div>
-</div>
 
 
 ### <a name="articles"></a>Published Journal articles (See my CV for a more updated version)
