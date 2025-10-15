@@ -12,10 +12,9 @@ Bonnerjee, S. (Graduate student), Chen, M., **Karmakar, S.**, Wu, W.B.: Testing 
 
 Bhasin, D. (Graduate student), **Karmakar, S.**, Podder, M., Roy, S: Generalized percolation games on the 2-dimensional square lattice, and ergodicity of associated probabilistic cellular automata. Minor revision requested from Advances in Applied Probability. [Paper](https://arxiv.org/abs/2405.12199)
 
-**Karmakar, S.**, Podder, M., Roy, S., Sadhukhan, S.: Percolation games on rooted, edge-weighted random trees. Revision requested from Journal of Statistical Physics.[Paper](https://arxiv.org/abs/2406.00831)
+**Karmakar, S.**, Podder, M., Roy, S., Sadhukhan, S.: Percolation games on rooted, edge-weighted random trees. Revision submitted to Journal of Statistical Physics. [Paper](https://arxiv.org/abs/2406.00831)
 
-Bouri, E., Foglia, M., **Karmakar,S.**,  Gupta, R.: Return-Volatility Nexus in the Digital Asset Class: A Dynamic Multilayer Connectedness Analysis. Revision request from Bulletin of
-Economic Research. [Paper](https://www.up.ac.za/media/shared/61/WP/wp_2024_32.zp253760.pdf)
+Bouri, E., Foglia, M., **Karmakar,S.**,  Gupta, R.: Return-Volatility Nexus in the Digital Asset Class: A Dynamic Multilayer Connectedness Analysis. Revision submitted to Bulletin of Economic Research. [Paper](https://www.up.ac.za/media/shared/61/WP/wp_2024_32.zp253760.pdf)
 
 Somani, D. (Graduate student), Rangan Gupta, R., **Karmakar, S.**,  Plakandaras, V: Supply Bottlenecks and Machine Learning Forecasting of International Stock Market Volatility. . Revision submitted to Finance Research Letters.
 
