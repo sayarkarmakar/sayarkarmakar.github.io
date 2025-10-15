@@ -6,7 +6,7 @@ description: Sayar Karmakar's publications
 
 
 
-### <a name="articles"></a>Published Journal articles (See my CV for a more updated version)
+### <a name="articles"></a>Published Journal articles 
 
 Bonnerjee, S. (Graduate student), Chen, M., **Karmakar, S.**, Wu, W.B.: Testing synchronization for multiple time-series. Revision requested from Biometrika [Paper](https://sayarkarmakar.github.io/publications/cpsync.pdf)
 
@@ -102,7 +102,7 @@ Chakraborty, N, **Karmakar, S.**, Koul, H. : A Bootstrap test for testing the eq
 
 
 
-### <a name="articles"></a> Published Peer-reviewed Conference Articles  (See my CV for a more updated version)
+### <a name="articles"></a> Published Peer-reviewed Conference Articles  
 
 Bonnerjee, S. (Graduate student), **Karmakar, S.**, Wu, W.: Sharp Gaussian Approximations for Decentralized Federated Learning. NeuRIPS 2025. SPotlight (Top 3%) https://arxiv.org/pdf/2505.08125
 
@@ -115,7 +115,7 @@ Kuruvilla, A. (Graduate student), **Karmakar, S.**, Basu, K.: Accepted for IEEE 
 Das, S., Kim, A., **Karmakar, S.** (corresponding author) A change-point analysis of worldwide twitter trend to evaluate impact of Covid-19 on cyberbullying. Accepted for 16th Annual social informatics research symposium, 2020 and Poster at 15th International Workshop on Security 2020
 
 
-### <a name="articles"></a>Submitted articles (See my CV for a more updated version)
+### <a name="articles"></a>Submitted articles 
 
 Bonnerjee, S. (Graduate student), **Karmakar, S.**, Roy,S.: WISER: Segmenting watermarked region- an epidemic change-point perspective. 
 
