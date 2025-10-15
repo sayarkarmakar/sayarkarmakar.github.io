@@ -14,15 +14,24 @@ description: Sayar Karmakar's publications
 </div>
 
 
-### <a name="articles"></a>Published Journal articles
+### <a name="articles"></a>Published Journal articles (See my CV for a more updated version)
+
+Bonnerjee, S. (Graduate student), Chen, M., **Karmakar, S.**, Wu, W.B.: Testing synchronization for multiple time-series. Revision requested from Biometrika [Paper](https://sayarkarmakar.github.io/publications/cpsync.pdf)
+
+Bhasin, D. (Graduate student), **Karmakar, S.**, Podder, M., Roy, S: Generalized percolation games on the 2-dimensional square lattice, and ergodicity of associated probabilistic cellular automata. Minor revision requested from Advances in Applied Probability. [Paper](https://arxiv.org/abs/2405.12199)
+
+**Karmakar, S.**, Podder, M., Roy, S., Sadhukhan, S.: Percolation games on rooted, edge-weighted random trees. Revision requested from Journal of Statistical Physics.[Paper](https://arxiv.org/abs/2406.00831)
+
+Bouri, E., Foglia, M., **Karmakar,S.**,  Gupta, R.: Return-Volatility Nexus in the Digital Asset Class: A Dynamic Multilayer Connectedness Analysis. Revision request from Bulletin of
+Economic Research. [Paper](https://www.up.ac.za/media/shared/61/WP/wp_2024_32.zp253760.pdf)
+
+Somani, D. (Graduate student), Rangan Gupta, R., **Karmakar, S.**,  Plakandaras, V: Supply Bottlenecks and Machine Learning Forecasting of International Stock Market Volatility. . Revision submitted to Finance Research Letters.
 
 Polat, O., Gupta, R., Somani D. (Graduate Student), **Karmakar, S.** : Shortages and Machine-Learning Forecasting of Oil Returns Volatility: 1900-2024. To appear at Finance Research Letters.
 
 Wu, K. (Graduate student), **Karmakar, S.**, Gupta, R.: GARCHX-NoVaS: A Bootstrap-based approach of forecasting for GARCHX models. To appear at Journal of Forecasting.
 
 Goplani, P. (Graduate Student), **Karmakar, S.**, Dibyakanti, K. (Graduate student), Mukherjee, A..:  [Paper](https://arxiv.org/abs/2205.11539). Accepted at Transactions of Machine Learning Research.
-
-Bonnerjee, S. (Graduate student), Chen, M., **Karmakar, S.**, Wu, W.B.: Testing synchronization for multiple time-series. Revision requested from Journal of the American Statistical Association [Paper](https://sayarkarmakar.github.io/publications/cpsync.pdf)
 
 **Karmakar, S.**, Podder M., Roy, S., Sadhukhan, S.: The spread of an epidemic: a game-theoretic approach.  [Paper](https://arxiv.org/abs/2303.11402)
 To appear at Advances in Applied Probability
@@ -99,10 +108,24 @@ Kundu, S., (Graduate student), Das, S. (Graduate student) **Karmakar, S.**, Basu
 Chakraborty, N, **Karmakar, S.**, Koul, H. : A Bootstrap test for testing the equality of ultra-high dimensional covariance matrices. [Paper](https://sayarkarmakar.github.io/publications/jmva.pdf) Revision requested from Journal of Multivariate Analysis. Revision submitted.
 
 
-### <a name="articles"></a>Submitted articles
 
-Bonnerjee, S. (Graduate student), **Karmakar, S.**, Wu, W.: Sharp Gaussian Approximations for Decentralized Federated Learning. https://arxiv.org/pdf/2505.08125
 
+### <a name="articles"></a> Published Peer-reviewed Conference Articles  (See my CV for a more updated version)
+
+Bonnerjee, S. (Graduate student), **Karmakar, S.**, Wu, W.: Sharp Gaussian Approximations for Decentralized Federated Learning. NeuRIPS 2025. SPotlight (Top 3%) https://arxiv.org/pdf/2505.08125
+
+Kuruvilla, A. (Graduate student), **Karmakar, S.**, Basu, K.: Accepted for IEEE International Symposium on Hardware Oriented Security and Trust (HOST) (Acceptance rate 28/130) : [Paper](https://sayarkarmakar.github.io/publications/hpctimeseries.pdf)
+
+**Karmakar, S.**, Das, S.: Understanding the rise of Twitter-based cyberbullying due to Covid-19 through comprehensive statistical evaluation: Accepted for Hawaii International Conference on System Science 54 
+
+**Karmakar, S.**, Das, S.: Evaluating the impact of Covid-19 on cyberbullying through Bayesian trend analysis: Accepted for European Interdisciplinary Cybersecurity Conference 2020
+
+Das, S., Kim, A., **Karmakar, S.** (corresponding author) A change-point analysis of worldwide twitter trend to evaluate impact of Covid-19 on cyberbullying. Accepted for 16th Annual social informatics research symposium, 2020 and Poster at 15th International Workshop on Security 2020
+
+
+### <a name="articles"></a>Submitted articles (See my CV for a more updated version)
+
+Bonnerjee, S. (Graduate student), **Karmakar, S.**, Roy,S.: WISER: Segmenting watermarked region- an epidemic change-point perspective. 
 
 **Karmakar, S.**, Mukherjee, A.: An Empirical Study of the Occurrence of Heavy-Tails in Training a ReLU Gate 
 
@@ -113,18 +136,6 @@ Bhasin, D. (Graduate student), **Karmakar, S.**, Podder, M., Roy, S. : Ergodicit
 
 Phase transition for percolation games on rooted Galton-Watson tree. **Karmakar, S.**, 
 Podder M., Roy, S., Sadhukhan, S.  [Paper](https://arxiv.org/abs/2303.09771)
-
-
-
-### <a name="articles"></a> Published Peer-reviewed Conference Articles 
-
-Kuruvilla, A. (Graduate student), **Karmakar, S.**, Basu, K.: Accepted for IEEE International Symposium on Hardware Oriented Security and Trust (HOST) (Acceptance rate 28/130) : [Paper](https://sayarkarmakar.github.io/publications/hpctimeseries.pdf)
-
-**Karmakar, S.**, Das, S.: Understanding the rise of Twitter-based cyberbullying due to Covid-19 through comprehensive statistical evaluation: Accepted for Hawaii International Conference on System Science 54 
-
-**Karmakar, S.**, Das, S.: Evaluating the impact of Covid-19 on cyberbullying through Bayesian trend analysis: Accepted for European Interdisciplinary Cybersecurity Conference 2020
-
-Das, S., Kim, A., **Karmakar, S.** (corresponding author) A change-point analysis of worldwide twitter trend to evaluate impact of Covid-19 on cyberbullying. Accepted for 16th Annual social informatics research symposium, 2020 and Poster at 15th International Workshop on Security 2020
 
 
 
