@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publications (Not always updated. See [CV](https://sayarkarmakar.github.io/publications/CV_Sayar_2-10.pdf))
+title: Publications (Not always updated. See CV)
 description: Sayar Karmakar's publications
 ---
 
