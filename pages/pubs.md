@@ -12,7 +12,7 @@ Bonnerjee, S. (Graduate student), Chen, M., **Karmakar, S.**, Wu, W.B.: Testing 
 
 Bhasin, D. (Graduate student), **Karmakar, S.**, Podder, M., Roy, S: Generalized percolation games on the 2-dimensional square lattice, and ergodicity of associated probabilistic cellular automata. Minor revision requested from Advances in Applied Probability. [Paper](https://arxiv.org/abs/2405.12199)
 
-Somani, D. (Graduate student), Rangan Gupta, R., **Karmakar, S.**,  Plakandaras, V: Supply Bottlenecks and Machine Learning Forecasting of International Stock Market Volatility. . To appear at Finance Research Letters.
+Somani, D. (Graduate student), Rangan Gupta, R., **Karmakar, S.**,  Plakandaras, V: Supply Bottlenecks and Machine Learning Forecasting of International Stock Market Volatility.[Paper](https://www.up.ac.za/media/shared/61/WP/wp_2025_21.zp267546.pdf) To appear at Finance Research Letters.
 
 **Karmakar, S.**, Podder, M., Roy, S., Sadhukhan, S.: Percolation games on rooted, edge-weighted random trees. Revision submitted to Journal of Statistical Physics. [Paper](https://arxiv.org/abs/2406.00831)
 
