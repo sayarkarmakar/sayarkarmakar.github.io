@@ -49,6 +49,7 @@ keywords: time series, time-series data analysis, high-dimensional data.
 Some of my recent and upcoming invited talks are [here](https://sayarkarmakar.github.io/pages/talks.html)
 
 <h2> Recent Updates</h2>
+November 2025: Our [Paper](https://www.up.ac.za/media/shared/61/WP/wp_2025_21.zp267546.pdf) was accepted at Finance Research Letters. 
 
 September 2025: Our [Paper](https://arxiv.org/pdf/2505.08125) was accepted at NeurIPS 2025 as a **Spotlight** (Top 3%) poster.
 
