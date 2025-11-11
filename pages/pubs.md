@@ -12,11 +12,11 @@ Bonnerjee, S. (Graduate student), Chen, M., **Karmakar, S.**, Wu, W.B.: Testing 
 
 Bhasin, D. (Graduate student), **Karmakar, S.**, Podder, M., Roy, S: Generalized percolation games on the 2-dimensional square lattice, and ergodicity of associated probabilistic cellular automata. Minor revision requested from Advances in Applied Probability. [Paper](https://arxiv.org/abs/2405.12199)
 
+Somani, D. (Graduate student), Rangan Gupta, R., **Karmakar, S.**,  Plakandaras, V: Supply Bottlenecks and Machine Learning Forecasting of International Stock Market Volatility. . To appear at Finance Research Letters.
+
 **Karmakar, S.**, Podder, M., Roy, S., Sadhukhan, S.: Percolation games on rooted, edge-weighted random trees. Revision submitted to Journal of Statistical Physics. [Paper](https://arxiv.org/abs/2406.00831)
 
 Bouri, E., Foglia, M., **Karmakar,S.**,  Gupta, R.: Return-Volatility Nexus in the Digital Asset Class: A Dynamic Multilayer Connectedness Analysis. Revision submitted to Bulletin of Economic Research. [Paper](https://www.up.ac.za/media/shared/61/WP/wp_2024_32.zp253760.pdf)
-
-Somani, D. (Graduate student), Rangan Gupta, R., **Karmakar, S.**,  Plakandaras, V: Supply Bottlenecks and Machine Learning Forecasting of International Stock Market Volatility. . Revision submitted to Finance Research Letters.
 
 Polat, O., Gupta, R., Somani D. (Graduate Student), **Karmakar, S.** : Shortages and Machine-Learning Forecasting of Oil Returns Volatility: 1900-2024. To appear at Finance Research Letters.
 
@@ -121,7 +121,6 @@ Bonnerjee, S. (Graduate student), **Karmakar, S.**, Roy,S.: WISER: Segmenting wa
 **Karmakar, S.**, Mukherjee, A.: An Empirical Study of the Occurrence of Heavy-Tails in Training a ReLU Gate 
 
 **Karmakar, S.**, Podder, M.: The regular stochastic block model on several-community networks. [Paper](https://arxiv.org/abs/2002.05577) :Revision requested from Statistics and Probability Letters. 
-
 
 Bhasin, D. (Graduate student), **Karmakar, S.**, Podder, M., Roy, S. : Ergodicity of a generalized probabilistic cellular automaton with parity-based neighbourhoods  [Paper](https://arxiv.org/abs/2212.01753)
 
