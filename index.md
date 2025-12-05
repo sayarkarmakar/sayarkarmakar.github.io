@@ -49,6 +49,8 @@ keywords: time series, time-series data analysis, high-dimensional data.
 Some of my recent and upcoming invited talks are [here](https://sayarkarmakar.github.io/pages/talks.html)
 
 <h2> Recent Updates</h2>
+December 2025: Our [Paper](https://arxiv.org/abs/2405.12199) was accepted at Advances in Applied Probability.
+
 December 2025: We submitted a [Paper](https://sayarkarmakar.github.io/publications/wm.pdf) on detecting watermarked region in text data proliferated with the help of LLM. 
 
 November 2025: Our [Paper](https://www.up.ac.za/media/shared/61/WP/wp_2025_21.zp267546.pdf) was accepted at Finance Research Letters. 
@@ -62,8 +64,6 @@ September 2025: Our [Paper](https://arxiv.org/abs/2406.00831) recieved a revisio
 September 2025: Our [Paper](https://www.up.ac.za/media/shared/61/WP/wp_2024_32.zp253760.pdf) received a revision request from Bulletin of Economic Research
 
 August 2025: Our [Paper](https://www.up.ac.za/media/shared/61/WP/wp_2025_21.zp267546.pdf) recieved a revision request from Finance Research Letters.
-
-August 2025: Our [Paper](https://arxiv.org/abs/2405.12199) received a minor revision from Advances in Applied Probability.
 
 May-June 2025: I was teaching at TU Dortmund a summer course on High Dimensional Time-series analysis as a visiting professor. I also gave 4 lectures in the [TRR summer school](https://trr391.tu-dortmund.de/events/summer-schools/) on spatial and spatiotemporal statistics.
 
