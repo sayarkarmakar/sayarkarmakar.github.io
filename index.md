@@ -51,6 +51,8 @@ Some of my recent and upcoming invited talks are [here](https://sayarkarmakar.gi
 <h2> Recent Updates</h2>
 December 2025: Our [Paper](https://arxiv.org/abs/2405.12199) was accepted at Advances in Applied Probability.
 
+December 2025: Our [Paper](https://www.up.ac.za/media/shared/61/WP/wp_2024_32.zp253760.pdf) was accepted at Bulletin of Economic Research
+
 December 2025: We submitted a [Paper](https://sayarkarmakar.github.io/publications/wm.pdf) on detecting watermarked region in text data proliferated with the help of LLM. 
 
 November 2025: Our [Paper](https://www.up.ac.za/media/shared/61/WP/wp_2025_21.zp267546.pdf) was accepted at Finance Research Letters. 
@@ -60,8 +62,6 @@ September 2025: Our [Paper](https://arxiv.org/pdf/2505.08125) was accepted at Ne
 September 2025: Our [Paper](https://sohamb01.github.io/drafts/test-of-synchronization.pdf) received a revision request from Biometrika.
 
 September 2025: Our [Paper](https://arxiv.org/abs/2406.00831) recieved a revision request from Journal of Statistical Physics. Revision submitted. 
-
-September 2025: Our [Paper](https://www.up.ac.za/media/shared/61/WP/wp_2024_32.zp253760.pdf) received a revision request from Bulletin of Economic Research
 
 August 2025: Our [Paper](https://www.up.ac.za/media/shared/61/WP/wp_2025_21.zp267546.pdf) recieved a revision request from Finance Research Letters.
 
