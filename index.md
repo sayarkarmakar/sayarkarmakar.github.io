@@ -51,6 +51,7 @@ Some of my recent and upcoming invited talks are [here](https://sayarkarmakar.gi
 <h2> Recent Updates</h2>
 February 2025: Our [Paper](https://sayarkarmakar.github.io/publications/wm.pdf) received a Revision request from Journal of the American Statistical Association. 
 
+
 December 2025: Our [Paper](https://arxiv.org/abs/2405.12199) was accepted at Advances in Applied Probability.
 
 December 2025: Our [Paper](https://www.up.ac.za/media/shared/61/WP/wp_2024_32.zp253760.pdf) was accepted at Bulletin of Economic Research
