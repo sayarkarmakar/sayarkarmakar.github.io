@@ -41,7 +41,7 @@ keywords: time series, time-series data analysis, high-dimensional data.
 </tr>
 </table>
 
-[CV(Curriculum Vitae)](https://sayarkarmakar.github.io/publications/CV_Sayar_2-18.pdf)
+[CV(Curriculum Vitae)](https://sayarkarmakar.github.io/publications/CV_Sayar_2-20.pdf)
 
 [Google scholar](https://scholar.google.com/citations?hl=en&user=RML8HC0AAAAJ)
 
@@ -49,11 +49,11 @@ keywords: time series, time-series data analysis, high-dimensional data.
 Some of my recent and upcoming invited talks are [here](https://sayarkarmakar.github.io/pages/talks.html)
 
 <h2> Recent Updates</h2>
+February 2025: Our [Paper](https://sayarkarmakar.github.io/publications/wm.pdf) received a Revision request from Journal of the American Statistical Association. 
+
 December 2025: Our [Paper](https://arxiv.org/abs/2405.12199) was accepted at Advances in Applied Probability.
 
 December 2025: Our [Paper](https://www.up.ac.za/media/shared/61/WP/wp_2024_32.zp253760.pdf) was accepted at Bulletin of Economic Research
-
-December 2025: We submitted a [Paper](https://sayarkarmakar.github.io/publications/wm.pdf) on detecting watermarked region in text data proliferated with the help of LLM. 
 
 November 2025: Our [Paper](https://www.up.ac.za/media/shared/61/WP/wp_2025_21.zp267546.pdf) was accepted at Finance Research Letters. 
 
