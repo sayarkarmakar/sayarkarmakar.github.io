@@ -49,6 +49,8 @@ keywords: time series, time-series data analysis, high-dimensional data.
 Some of my recent and upcoming invited talks are [here](https://sayarkarmakar.github.io/pages/talks.html)
 
 <h2> Recent Updates</h2>
+April 2026: Our [Paper](https://sayarkarmakar.github.io/publications/graph_nim_game.pdf) received a Reject and resubmit decision from Discrete Applied Mathematics
+
 March 2026: Our [Paper](https://sayarkarmakar.github.io/publications/crypto50.pdf) received a revision request from New American Journal of Economics and Finance.
 
 March 2026: Our [Paper](https://sayarkarmakar.github.io/publications/Two_samp_cov_test.pdf) is now accepted at Journal of Multivariate Analysis. 
