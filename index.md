@@ -41,7 +41,7 @@ keywords: time series, time-series data analysis, high-dimensional data.
 </tr>
 </table>
 
-[CV(Curriculum Vitae)](https://sayarkarmakar.github.io/publications/CV_Sayar_2-24.pdf)
+[CV(Curriculum Vitae)](https://sayarkarmakar.github.io/publications/CV_Sayar_2-25.pdf)
 
 [Google scholar](https://scholar.google.com/citations?hl=en&user=RML8HC0AAAAJ)
 
@@ -50,6 +50,8 @@ Some of my recent and upcoming invited talks are [here](https://sayarkarmakar.gi
 
 <h2> Recent Updates</h2>
 April 2026: Our [Paper](https://sayarkarmakar.github.io/publications/graph_nim_game.pdf) received a Reject and resubmit decision from Discrete Applied Mathematics
+
+March 2026: We submitted a Paper[https://arxiv.org/abs/2603.27546] on fast and scalable localization of anomalous patches for spatially dependent data. 
 
 March 2026: Our [Paper](https://sayarkarmakar.github.io/publications/crypto50.pdf) received a revision request from New American Journal of Economics and Finance.
 
