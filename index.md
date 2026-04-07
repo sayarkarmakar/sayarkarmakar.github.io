@@ -49,7 +49,7 @@ keywords: time series, time-series data analysis, high-dimensional data.
 Some of my recent and upcoming invited talks are [here](https://sayarkarmakar.github.io/pages/talks.html)
 
 <h2> Recent Updates</h2>
-April 2026: We submitted a [Paper](https://sayarkarmakar.github.io/publications/potts.pdf) on joint estimation for Potts model.
+April 2026: We submitted a [Paper](https://arxiv.org/abs/2604.04638) on joint estimation for Potts model.
 
 April 2026: Our [Paper](https://sayarkarmakar.github.io/publications/graph_nim_game.pdf) received a Reject and resubmit decision from Discrete Applied Mathematics
 
