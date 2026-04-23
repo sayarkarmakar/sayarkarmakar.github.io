@@ -1,7 +1,7 @@
 ---
 layout: frontpage
 title: Sayar Karmakar
-description: I am an assistant professor at the Department of Statistics, University of Florida. Prior to this, I graduated from the Department of Statistics, University of Chicago with a doctoral degree. Before that, I graduated from Indian Statistical Institute with a B. Stat. and M. Stat. degrees. 
+description: I am an assistant professor at the Department of Statistics, University of Florida. Prior to this, I graduated from the Department of Statistics, University of Chicago with a doctoral degree. Before that, I graduated from Indian Statistical Institute with a B. Stat. and M. Stat. degrees. I also hold affiliate faculty positions with Center for Remote Sensors (Since 2024 Aug) and UF Informatics Institute (Since 2018 Aug)
 
 keywords: time series, time-series data analysis, high-dimensional data.
 ---
