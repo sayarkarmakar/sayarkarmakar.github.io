@@ -43,7 +43,7 @@ keywords: time series, time-series data analysis, high-dimensional data.
 I am an assistant professor at the Department of Statistics, University of Florida. Prior to this, I graduated from the Department of Statistics, University of Chicago with a doctoral degree. Before that, I graduated from Indian Statistical Institute with a B. Stat. and M. Stat. degrees. I also hold affiliate faculty positions with Center for Remote Sensors (Since 2024 Aug) and UF Informatics Institute (Since 2018 Aug). I am thankful to NSF and AMS Simons for partially sponsoring my research. 
 
 
-[CV(Curriculum Vitae)](https://sayarkarmakar.github.io/publications/CV_Sayar_2-25.pdf)
+[CV(Curriculum Vitae)](https://sayarkarmakar.github.io/publications/CV_Sayar_2-26.pdf)
 
 [Google scholar](https://scholar.google.com/citations?hl=en&user=RML8HC0AAAAJ)
 
@@ -51,11 +51,11 @@ I am an assistant professor at the Department of Statistics, University of Flori
 Some of my recent and upcoming invited talks are [here](https://sayarkarmakar.github.io/pages/talks.html)
 
 <h2> Recent Updates</h2>
+May 2026: Our [Paper](https://arxiv.org/abs/2603.27546) on fast and scalable localization of anomalous patches for spatially dependent data received a Reject and Resubmit decision from Biometrika. 
+
 April 2026: We submitted a [Paper](https://arxiv.org/abs/2604.04638) on joint estimation for Potts model.
 
 April 2026: Our [Paper](https://sayarkarmakar.github.io/publications/graph_nim_game.pdf) received a Reject and resubmit decision from Discrete Applied Mathematics
-
-March 2026: We submitted a [Paper](https://arxiv.org/abs/2603.27546) on fast and scalable localization of anomalous patches for spatially dependent data. 
 
 March 2026: Our [Paper](https://sayarkarmakar.github.io/publications/crypto50.pdf) received a revision request from New American Journal of Economics and Finance.
 
