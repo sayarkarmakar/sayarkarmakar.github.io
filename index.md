@@ -43,7 +43,7 @@ keywords: time series, time-series data analysis, high-dimensional data.
 I am an assistant professor at the Department of Statistics, University of Florida. Prior to this, I graduated from the Department of Statistics, University of Chicago with a doctoral degree. Before that, I graduated from Indian Statistical Institute with a B. Stat. and M. Stat. degrees. I also hold affiliate faculty positions with Center for Remote Sensors (Since 2024 Aug) and UF Informatics Institute (Since 2018 Aug). I am thankful to NSF and AMS Simons for partially sponsoring my research. 
 
 
-[CV(Curriculum Vitae)](https://sayarkarmakar.github.io/publications/CV_Sayar_2-26.pdf)
+[CV(Curriculum Vitae)](https://sayarkarmakar.github.io/publications/CV_Sayar_2-28.pdf)
 
 [Google scholar](https://scholar.google.com/citations?hl=en&user=RML8HC0AAAAJ)
 
@@ -51,7 +51,7 @@ I am an assistant professor at the Department of Statistics, University of Flori
 Some of my recent and upcoming invited talks are [here](https://sayarkarmakar.github.io/pages/talks.html)
 
 <h2> Recent Updates</h2>
-July 2026: Our [Paper](https://sayarkarmakar.github.io/publications/mlforecastingstockoil.pdf) received a minor revision request from Research in International Business and Finance. 
+August 2026: Our [Paper](https://sayarkarmakar.github.io/publications/mlforecastingstockoil.pdf) is accepted at Research in International Business and Finance. 
 
 June 2026: Our [Paper](https://sayarkarmakar.github.io/publications/crypto50.pdf) is now accepted at the New American Journal of Economics and Finance.
 
