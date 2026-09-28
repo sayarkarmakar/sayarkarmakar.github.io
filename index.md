@@ -51,6 +51,8 @@ I am an Assistant Professor and Principal Investigator at the Department of Stat
 Some of my recent and upcoming invited talks are [here](https://sayarkarmakar.github.io/pages/talks.html)
 
 <h2> Recent Updates</h2>
+September 2026: We submitted [Paper](https://arxiv.org/abs/2609.30504) on M-tests under NINW noise. 
+
 August 2026: Our [Paper](https://sayarkarmakar.github.io/publications/mlforecastingstockoil.pdf) is accepted at Research in International Business and Finance. 
 
 June 2026: Our [Paper](https://sayarkarmakar.github.io/publications/crypto50.pdf) is now accepted at the New American Journal of Economics and Finance.
