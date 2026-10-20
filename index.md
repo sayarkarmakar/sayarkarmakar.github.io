@@ -67,7 +67,7 @@ March 2026: Our [Paper](https://sayarkarmakar.github.io/publications/Two_samp_co
 
 March 2026: We submitted a [Paper](https://arxiv.org/abs/2604.01593) on nonparametric regression of spatio-temporal data using infinite-dimensional covariates.
 
-February 2026: Our [Paper](https://sayarkarmakar.github.io/publications/wm.pdf) received a Revision request from Journal of the American Statistical Association. 
+February 2026: Our [Paper](https://arxiv.org/pdf/2509.21160) received a Revision request from Journal of the American Statistical Association. We submitted the revision.
 
 December 2025: Our [Paper](https://arxiv.org/abs/2405.12199) was accepted at Advances in Applied Probability.
 
